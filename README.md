@@ -21,11 +21,10 @@ Step 2: To create Library
 	Run:
 	-> g++ -c couple.cpp
 	-> g++ -c gifts.cpp
-	-> g++ -c h_c.cpp
 	-> g++ -c initialize.cpp
-	-> g++ -c most-attr.cpp
-	-> g++ -c most-intl.cpp
-	-> g++ -c most-rich.cpp
+	-> g++ -c most_attr.cpp
+	-> g++ -c most_intl.cpp
+	-> g++ -c most_rich.cpp
 	-> ar rvs library_file *.o 
    ```
 Step 3: To get the outputs of the questions
