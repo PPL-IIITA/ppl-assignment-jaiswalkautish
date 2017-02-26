@@ -1,0 +1,2300 @@
+
+boy:OGBDQEN girl:OKHIXHX
+
+Gifts exchanged
+type:2 price:2 value:184 36 61 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:2 value:71 80 88 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:4 value:139 81 23 time:Mon Feb 27 00:52:10 2017
+
+type:1 price:10 value:112 0 0 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:11 value:8 30 74 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:21 value:451 95 37 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:22 value:541 31 87 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:23 value:87 75 4 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:31 value:482 39 43 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:31 value:171 61 48 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:33 value:122 80 35 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:33 value:550 47 93 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:37 value:317 19 41 time:Mon Feb 27 00:52:10 2017
+
+type:1 price:38 value:535 0 0 time:Mon Feb 27 00:52:10 2017
+
+type:1 price:39 value:190 0 0 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:39 value:571 75 16 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:58 value:196 58 88 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:58 value:242 86 62 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:65 value:108 96 72 time:Mon Feb 27 00:52:10 2017
+
+type:1 price:67 value:315 0 0 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:68 value:53 93 16 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:70 value:443 95 24 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:73 value:367 95 95 time:Mon Feb 27 00:52:10 2017
+
+type:1 price:77 value:559 0 0 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:79 value:268 14 19 time:Mon Feb 27 00:52:10 2017
+
+
+boy:DIMHCEI girl:IFRGJUJ
+
+Gifts exchanged
+type:2 price:2 value:184 36 61 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:2 value:71 80 88 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:4 value:139 81 23 time:Mon Feb 27 00:52:10 2017
+
+type:1 price:10 value:112 0 0 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:11 value:8 30 74 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:21 value:451 95 37 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:22 value:541 31 87 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:23 value:87 75 4 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:31 value:482 39 43 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:31 value:171 61 48 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:33 value:122 80 35 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:33 value:550 47 93 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:37 value:317 19 41 time:Mon Feb 27 00:52:10 2017
+
+type:1 price:38 value:535 0 0 time:Mon Feb 27 00:52:10 2017
+
+type:1 price:39 value:190 0 0 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:39 value:571 75 16 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:58 value:196 58 88 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:58 value:242 86 62 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:65 value:108 96 72 time:Mon Feb 27 00:52:10 2017
+
+type:1 price:67 value:315 0 0 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:68 value:53 93 16 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:70 value:443 95 24 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:73 value:367 95 95 time:Mon Feb 27 00:52:10 2017
+
+type:1 price:77 value:559 0 0 time:Mon Feb 27 00:52:10 2017
+
+
+boy:OLVECDW girl:DXDKOGW
+
+Gifts exchanged
+type:2 price:2 value:184 36 61 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:2 value:71 80 88 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:4 value:139 81 23 time:Mon Feb 27 00:52:10 2017
+
+type:1 price:10 value:112 0 0 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:11 value:8 30 74 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:21 value:451 95 37 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:22 value:541 31 87 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:23 value:87 75 4 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:31 value:482 39 43 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:31 value:171 61 48 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:33 value:122 80 35 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:33 value:550 47 93 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:37 value:317 19 41 time:Mon Feb 27 00:52:10 2017
+
+type:1 price:38 value:535 0 0 time:Mon Feb 27 00:52:10 2017
+
+type:1 price:39 value:190 0 0 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:39 value:571 75 16 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:58 value:196 58 88 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:58 value:242 86 62 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:65 value:108 96 72 time:Mon Feb 27 00:52:10 2017
+
+type:1 price:67 value:315 0 0 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:68 value:53 93 16 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:70 value:443 95 24 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:73 value:367 95 95 time:Mon Feb 27 00:52:10 2017
+
+type:1 price:77 value:559 0 0 time:Mon Feb 27 00:52:10 2017
+
+
+boy:XXEGLEF girl:FMGPOWD
+
+Gifts exchanged
+type:2 price:2 value:184 36 61 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:2 value:71 80 88 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:4 value:139 81 23 time:Mon Feb 27 00:52:10 2017
+
+type:1 price:10 value:112 0 0 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:11 value:8 30 74 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:21 value:451 95 37 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:22 value:541 31 87 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:23 value:87 75 4 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:31 value:482 39 43 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:31 value:171 61 48 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:33 value:122 80 35 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:33 value:550 47 93 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:37 value:317 19 41 time:Mon Feb 27 00:52:10 2017
+
+type:1 price:38 value:535 0 0 time:Mon Feb 27 00:52:10 2017
+
+type:1 price:39 value:190 0 0 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:39 value:571 75 16 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:58 value:196 58 88 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:58 value:242 86 62 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:65 value:108 96 72 time:Mon Feb 27 00:52:10 2017
+
+type:1 price:67 value:315 0 0 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:68 value:53 93 16 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:70 value:443 95 24 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:73 value:367 95 95 time:Mon Feb 27 00:52:10 2017
+
+type:1 price:77 value:559 0 0 time:Mon Feb 27 00:52:10 2017
+
+
+boy:SQQFFLF girl:HEIAQOO
+
+Gifts exchanged
+type:2 price:2 value:184 36 61 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:2 value:71 80 88 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:4 value:139 81 23 time:Mon Feb 27 00:52:10 2017
+
+type:1 price:10 value:112 0 0 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:11 value:8 30 74 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:21 value:451 95 37 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:22 value:541 31 87 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:23 value:87 75 4 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:31 value:482 39 43 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:31 value:171 61 48 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:33 value:122 80 35 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:33 value:550 47 93 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:37 value:317 19 41 time:Mon Feb 27 00:52:10 2017
+
+type:1 price:38 value:535 0 0 time:Mon Feb 27 00:52:10 2017
+
+type:1 price:39 value:190 0 0 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:39 value:571 75 16 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:58 value:196 58 88 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:58 value:242 86 62 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:65 value:108 96 72 time:Mon Feb 27 00:52:10 2017
+
+type:1 price:67 value:315 0 0 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:68 value:53 93 16 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:70 value:443 95 24 time:Mon Feb 27 00:52:10 2017
+
+
+boy:DPGDSHY girl:KABXNIU
+
+Gifts exchanged
+type:2 price:2 value:184 36 61 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:2 value:71 80 88 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:4 value:139 81 23 time:Mon Feb 27 00:52:10 2017
+
+type:1 price:10 value:112 0 0 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:11 value:8 30 74 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:21 value:451 95 37 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:22 value:541 31 87 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:23 value:87 75 4 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:31 value:482 39 43 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:31 value:171 61 48 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:33 value:122 80 35 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:33 value:550 47 93 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:37 value:317 19 41 time:Mon Feb 27 00:52:10 2017
+
+type:1 price:38 value:535 0 0 time:Mon Feb 27 00:52:10 2017
+
+type:1 price:39 value:190 0 0 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:39 value:571 75 16 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:58 value:196 58 88 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:58 value:242 86 62 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:65 value:108 96 72 time:Mon Feb 27 00:52:10 2017
+
+type:1 price:67 value:315 0 0 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:68 value:53 93 16 time:Mon Feb 27 00:52:10 2017
+
+
+boy:MAGMXPB girl:VVBIHKV
+
+Gifts exchanged
+type:2 price:2 value:184 36 61 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:2 value:71 80 88 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:4 value:139 81 23 time:Mon Feb 27 00:52:10 2017
+
+type:1 price:10 value:112 0 0 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:11 value:8 30 74 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:21 value:451 95 37 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:22 value:541 31 87 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:23 value:87 75 4 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:31 value:482 39 43 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:31 value:171 61 48 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:33 value:122 80 35 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:33 value:550 47 93 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:37 value:317 19 41 time:Mon Feb 27 00:52:10 2017
+
+type:1 price:38 value:535 0 0 time:Mon Feb 27 00:52:10 2017
+
+type:1 price:39 value:190 0 0 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:39 value:571 75 16 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:58 value:196 58 88 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:58 value:242 86 62 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:65 value:108 96 72 time:Mon Feb 27 00:52:10 2017
+
+type:1 price:67 value:315 0 0 time:Mon Feb 27 00:52:10 2017
+
+
+boy:DGCLDUM girl:SKOQWKV
+
+Gifts exchanged
+type:2 price:2 value:184 36 61 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:2 value:71 80 88 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:4 value:139 81 23 time:Mon Feb 27 00:52:10 2017
+
+type:1 price:10 value:112 0 0 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:11 value:8 30 74 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:21 value:451 95 37 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:22 value:541 31 87 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:23 value:87 75 4 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:31 value:482 39 43 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:31 value:171 61 48 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:33 value:122 80 35 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:33 value:550 47 93 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:37 value:317 19 41 time:Mon Feb 27 00:52:10 2017
+
+type:1 price:38 value:535 0 0 time:Mon Feb 27 00:52:10 2017
+
+type:1 price:39 value:190 0 0 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:39 value:571 75 16 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:58 value:196 58 88 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:58 value:242 86 62 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:65 value:108 96 72 time:Mon Feb 27 00:52:10 2017
+
+type:1 price:67 value:315 0 0 time:Mon Feb 27 00:52:10 2017
+
+
+boy:QNCAIHF girl:FSHPTJH
+
+Gifts exchanged
+type:2 price:2 value:184 36 61 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:2 value:71 80 88 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:4 value:139 81 23 time:Mon Feb 27 00:52:10 2017
+
+type:1 price:10 value:112 0 0 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:11 value:8 30 74 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:21 value:451 95 37 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:22 value:541 31 87 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:23 value:87 75 4 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:31 value:482 39 43 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:31 value:171 61 48 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:33 value:122 80 35 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:33 value:550 47 93 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:37 value:317 19 41 time:Mon Feb 27 00:52:10 2017
+
+type:1 price:38 value:535 0 0 time:Mon Feb 27 00:52:10 2017
+
+type:1 price:39 value:190 0 0 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:39 value:571 75 16 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:58 value:196 58 88 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:58 value:242 86 62 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:65 value:108 96 72 time:Mon Feb 27 00:52:10 2017
+
+
+boy:YDVLVEK girl:NRAHQFC
+
+Gifts exchanged
+type:2 price:2 value:184 36 61 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:2 value:71 80 88 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:4 value:139 81 23 time:Mon Feb 27 00:52:10 2017
+
+type:1 price:10 value:112 0 0 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:11 value:8 30 74 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:21 value:451 95 37 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:22 value:541 31 87 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:23 value:87 75 4 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:31 value:482 39 43 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:31 value:171 61 48 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:33 value:122 80 35 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:33 value:550 47 93 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:37 value:317 19 41 time:Mon Feb 27 00:52:10 2017
+
+type:1 price:38 value:535 0 0 time:Mon Feb 27 00:52:10 2017
+
+type:1 price:39 value:190 0 0 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:39 value:571 75 16 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:58 value:196 58 88 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:58 value:242 86 62 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:65 value:108 96 72 time:Mon Feb 27 00:52:10 2017
+
+
+boy:IEBLJGR girl:FKYCFIP
+
+Gifts exchanged
+type:2 price:2 value:184 36 61 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:2 value:71 80 88 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:4 value:139 81 23 time:Mon Feb 27 00:52:10 2017
+
+type:1 price:10 value:112 0 0 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:11 value:8 30 74 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:21 value:451 95 37 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:22 value:541 31 87 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:23 value:87 75 4 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:31 value:482 39 43 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:31 value:171 61 48 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:33 value:122 80 35 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:33 value:550 47 93 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:37 value:317 19 41 time:Mon Feb 27 00:52:10 2017
+
+type:1 price:38 value:535 0 0 time:Mon Feb 27 00:52:10 2017
+
+type:1 price:39 value:190 0 0 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:39 value:571 75 16 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:58 value:196 58 88 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:58 value:242 86 62 time:Mon Feb 27 00:52:10 2017
+
+
+boy:GFRJRTX girl:HIOVRWQ
+
+Gifts exchanged
+type:2 price:2 value:184 36 61 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:2 value:71 80 88 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:4 value:139 81 23 time:Mon Feb 27 00:52:10 2017
+
+type:1 price:10 value:112 0 0 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:11 value:8 30 74 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:21 value:451 95 37 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:22 value:541 31 87 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:23 value:87 75 4 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:31 value:482 39 43 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:31 value:171 61 48 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:33 value:122 80 35 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:33 value:550 47 93 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:37 value:317 19 41 time:Mon Feb 27 00:52:10 2017
+
+type:1 price:38 value:535 0 0 time:Mon Feb 27 00:52:10 2017
+
+type:1 price:39 value:190 0 0 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:39 value:571 75 16 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:58 value:196 58 88 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:58 value:242 86 62 time:Mon Feb 27 00:52:10 2017
+
+
+boy:YJORRVR girl:LQVFFWA
+
+Gifts exchanged
+type:2 price:2 value:184 36 61 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:2 value:71 80 88 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:4 value:139 81 23 time:Mon Feb 27 00:52:10 2017
+
+type:1 price:10 value:112 0 0 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:11 value:8 30 74 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:21 value:451 95 37 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:22 value:541 31 87 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:23 value:87 75 4 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:31 value:482 39 43 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:31 value:171 61 48 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:33 value:122 80 35 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:33 value:550 47 93 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:37 value:317 19 41 time:Mon Feb 27 00:52:10 2017
+
+type:1 price:38 value:535 0 0 time:Mon Feb 27 00:52:10 2017
+
+type:1 price:39 value:190 0 0 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:39 value:571 75 16 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:58 value:196 58 88 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:58 value:242 86 62 time:Mon Feb 27 00:52:10 2017
+
+
+boy:MJOPRGF girl:AYNLISK
+
+Gifts exchanged
+type:2 price:2 value:184 36 61 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:2 value:71 80 88 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:4 value:139 81 23 time:Mon Feb 27 00:52:10 2017
+
+type:1 price:10 value:112 0 0 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:11 value:8 30 74 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:21 value:451 95 37 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:22 value:541 31 87 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:23 value:87 75 4 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:31 value:482 39 43 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:31 value:171 61 48 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:33 value:122 80 35 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:33 value:550 47 93 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:37 value:317 19 41 time:Mon Feb 27 00:52:10 2017
+
+type:1 price:38 value:535 0 0 time:Mon Feb 27 00:52:10 2017
+
+type:1 price:39 value:190 0 0 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:39 value:571 75 16 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:58 value:196 58 88 time:Mon Feb 27 00:52:10 2017
+
+
+boy:YCHHYIX girl:IDCQWXO
+
+Gifts exchanged
+type:2 price:2 value:184 36 61 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:2 value:71 80 88 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:4 value:139 81 23 time:Mon Feb 27 00:52:10 2017
+
+type:1 price:10 value:112 0 0 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:11 value:8 30 74 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:21 value:451 95 37 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:22 value:541 31 87 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:23 value:87 75 4 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:31 value:482 39 43 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:31 value:171 61 48 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:33 value:122 80 35 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:33 value:550 47 93 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:37 value:317 19 41 time:Mon Feb 27 00:52:10 2017
+
+type:1 price:38 value:535 0 0 time:Mon Feb 27 00:52:10 2017
+
+
+boy:UJUSCYR girl:RRYMDXX
+
+Gifts exchanged
+type:2 price:2 value:184 36 61 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:2 value:71 80 88 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:4 value:139 81 23 time:Mon Feb 27 00:52:10 2017
+
+type:1 price:10 value:112 0 0 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:11 value:8 30 74 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:21 value:451 95 37 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:22 value:541 31 87 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:23 value:87 75 4 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:31 value:482 39 43 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:31 value:171 61 48 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:33 value:122 80 35 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:33 value:550 47 93 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:37 value:317 19 41 time:Mon Feb 27 00:52:10 2017
+
+
+boy:QVOGFRX girl:UMVVBEK
+
+Gifts exchanged
+type:2 price:2 value:184 36 61 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:2 value:71 80 88 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:4 value:139 81 23 time:Mon Feb 27 00:52:10 2017
+
+type:1 price:10 value:112 0 0 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:11 value:8 30 74 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:21 value:451 95 37 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:22 value:541 31 87 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:23 value:87 75 4 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:31 value:482 39 43 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:31 value:171 61 48 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:33 value:122 80 35 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:33 value:550 47 93 time:Mon Feb 27 00:52:10 2017
+
+
+boy:RRSMVJJ girl:FYTSLEK
+
+Gifts exchanged
+type:2 price:2 value:184 36 61 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:2 value:71 80 88 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:4 value:139 81 23 time:Mon Feb 27 00:52:10 2017
+
+type:1 price:10 value:112 0 0 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:11 value:8 30 74 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:21 value:451 95 37 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:22 value:541 31 87 time:Mon Feb 27 00:52:10 2017
+
+
+boy:LHXTDBI girl:MMTGMXD
+
+Gifts exchanged
+type:2 price:2 value:184 36 61 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:2 value:71 80 88 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:4 value:139 81 23 time:Mon Feb 27 00:52:10 2017
+
+type:1 price:10 value:112 0 0 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:11 value:8 30 74 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:21 value:451 95 37 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:22 value:541 31 87 time:Mon Feb 27 00:52:10 2017
+
+
+boy:VVDINXA girl:VLCOHGS
+
+Gifts exchanged
+type:2 price:2 value:184 36 61 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:2 value:71 80 88 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:4 value:139 81 23 time:Mon Feb 27 00:52:10 2017
+
+type:1 price:10 value:112 0 0 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:11 value:8 30 74 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:21 value:451 95 37 time:Mon Feb 27 00:52:10 2017
+
+
+boy:HHMTSBC girl:COJWAXP
+
+Gifts exchanged
+type:2 price:2 value:184 36 61 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:2 value:71 80 88 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:4 value:139 81 23 time:Mon Feb 27 00:52:10 2017
+
+type:1 price:10 value:112 0 0 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:11 value:8 30 74 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:21 value:451 95 37 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:22 value:541 31 87 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:23 value:87 75 4 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:31 value:482 39 43 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:31 value:171 61 48 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:33 value:122 80 35 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:33 value:550 47 93 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:37 value:317 19 41 time:Mon Feb 27 00:52:10 2017
+
+type:1 price:38 value:535 0 0 time:Mon Feb 27 00:52:10 2017
+
+type:1 price:39 value:190 0 0 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:39 value:571 75 16 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:58 value:196 58 88 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:58 value:242 86 62 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:65 value:108 96 72 time:Mon Feb 27 00:52:10 2017
+
+type:1 price:67 value:315 0 0 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:68 value:53 93 16 time:Mon Feb 27 00:52:10 2017
+
+
+boy:OSLWYSG girl:FNPBWGM
+
+Gifts exchanged
+type:2 price:2 value:184 36 61 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:2 value:71 80 88 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:4 value:139 81 23 time:Mon Feb 27 00:52:10 2017
+
+type:1 price:10 value:112 0 0 time:Mon Feb 27 00:52:10 2017
+
+
+boy:UHFVXYR girl:OUCKQSU
+
+Gifts exchanged
+type:2 price:2 value:184 36 61 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:2 value:71 80 88 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:4 value:139 81 23 time:Mon Feb 27 00:52:10 2017
+
+type:1 price:10 value:112 0 0 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:11 value:8 30 74 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:21 value:451 95 37 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:22 value:541 31 87 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:23 value:87 75 4 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:31 value:482 39 43 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:31 value:171 61 48 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:33 value:122 80 35 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:33 value:550 47 93 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:37 value:317 19 41 time:Mon Feb 27 00:52:10 2017
+
+type:1 price:38 value:535 0 0 time:Mon Feb 27 00:52:10 2017
+
+type:1 price:39 value:190 0 0 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:39 value:571 75 16 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:58 value:196 58 88 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:58 value:242 86 62 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:65 value:108 96 72 time:Mon Feb 27 00:52:10 2017
+
+type:1 price:67 value:315 0 0 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:68 value:53 93 16 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:70 value:443 95 24 time:Mon Feb 27 00:52:10 2017
+
+
+boy:PLKJNNO girl:XBCKGYW
+
+Gifts exchanged
+type:2 price:2 value:184 36 61 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:2 value:71 80 88 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:4 value:139 81 23 time:Mon Feb 27 00:52:10 2017
+
+type:1 price:10 value:112 0 0 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:11 value:8 30 74 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:21 value:451 95 37 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:22 value:541 31 87 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:23 value:87 75 4 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:31 value:482 39 43 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:31 value:171 61 48 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:33 value:122 80 35 time:Mon Feb 27 00:52:10 2017
+
+
+boy:QHIHKDT girl:KSUUFCM
+
+Gifts exchanged
+type:2 price:2 value:184 36 61 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:2 value:71 80 88 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:4 value:139 81 23 time:Mon Feb 27 00:52:10 2017
+
+type:1 price:10 value:112 0 0 time:Mon Feb 27 00:52:10 2017
+
+
+boy:KDYEWKO girl:RAEUTDN
+
+Gifts exchanged
+type:2 price:2 value:184 36 61 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:2 value:71 80 88 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:4 value:139 81 23 time:Mon Feb 27 00:52:10 2017
+
+type:1 price:10 value:112 0 0 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:11 value:8 30 74 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:21 value:451 95 37 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:22 value:541 31 87 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:23 value:87 75 4 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:31 value:482 39 43 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:31 value:171 61 48 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:33 value:122 80 35 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:33 value:550 47 93 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:37 value:317 19 41 time:Mon Feb 27 00:52:10 2017
+
+type:1 price:38 value:535 0 0 time:Mon Feb 27 00:52:10 2017
+
+type:1 price:39 value:190 0 0 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:39 value:571 75 16 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:58 value:196 58 88 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:58 value:242 86 62 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:65 value:108 96 72 time:Mon Feb 27 00:52:10 2017
+
+type:1 price:67 value:315 0 0 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:68 value:53 93 16 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:70 value:443 95 24 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:73 value:367 95 95 time:Mon Feb 27 00:52:10 2017
+
+
+boy:DBROWTK girl:NVFVSRW
+
+Gifts exchanged
+type:2 price:2 value:184 36 61 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:2 value:71 80 88 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:4 value:139 81 23 time:Mon Feb 27 00:52:10 2017
+
+type:1 price:10 value:112 0 0 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:11 value:8 30 74 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:21 value:451 95 37 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:22 value:541 31 87 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:23 value:87 75 4 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:31 value:482 39 43 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:31 value:171 61 48 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:33 value:122 80 35 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:33 value:550 47 93 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:37 value:317 19 41 time:Mon Feb 27 00:52:10 2017
+
+type:1 price:38 value:535 0 0 time:Mon Feb 27 00:52:10 2017
+
+type:1 price:39 value:190 0 0 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:39 value:571 75 16 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:58 value:196 58 88 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:58 value:242 86 62 time:Mon Feb 27 00:52:10 2017
+
+
+boy:ATXFSYL girl:GAVRSRW
+
+Gifts exchanged
+type:2 price:2 value:184 36 61 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:2 value:71 80 88 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:4 value:139 81 23 time:Mon Feb 27 00:52:10 2017
+
+type:1 price:10 value:112 0 0 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:11 value:8 30 74 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:21 value:451 95 37 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:22 value:541 31 87 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:23 value:87 75 4 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:31 value:482 39 43 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:31 value:171 61 48 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:33 value:122 80 35 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:33 value:550 47 93 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:37 value:317 19 41 time:Mon Feb 27 00:52:10 2017
+
+type:1 price:38 value:535 0 0 time:Mon Feb 27 00:52:10 2017
+
+type:1 price:39 value:190 0 0 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:39 value:571 75 16 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:58 value:196 58 88 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:58 value:242 86 62 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:65 value:108 96 72 time:Mon Feb 27 00:52:10 2017
+
+
+boy:NDUXFYT girl:FVYWJDI
+
+Gifts exchanged
+type:2 price:2 value:184 36 61 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:2 value:71 80 88 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:4 value:139 81 23 time:Mon Feb 27 00:52:10 2017
+
+type:1 price:10 value:112 0 0 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:11 value:8 30 74 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:21 value:451 95 37 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:22 value:541 31 87 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:23 value:87 75 4 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:31 value:482 39 43 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:31 value:171 61 48 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:33 value:122 80 35 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:33 value:550 47 93 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:37 value:317 19 41 time:Mon Feb 27 00:52:10 2017
+
+type:1 price:38 value:535 0 0 time:Mon Feb 27 00:52:10 2017
+
+type:1 price:39 value:190 0 0 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:39 value:571 75 16 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:58 value:196 58 88 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:58 value:242 86 62 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:65 value:108 96 72 time:Mon Feb 27 00:52:10 2017
+
+type:1 price:67 value:315 0 0 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:68 value:53 93 16 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:70 value:443 95 24 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:73 value:367 95 95 time:Mon Feb 27 00:52:10 2017
+
+
+boy:NFXGGCC girl:WNIHCBI
+
+Gifts exchanged
+type:2 price:2 value:184 36 61 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:2 value:71 80 88 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:4 value:139 81 23 time:Mon Feb 27 00:52:10 2017
+
+type:1 price:10 value:112 0 0 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:11 value:8 30 74 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:21 value:451 95 37 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:22 value:541 31 87 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:23 value:87 75 4 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:31 value:482 39 43 time:Mon Feb 27 00:52:10 2017
+
+
+boy:LIUFRDK girl:QTWGPUW
+
+Gifts exchanged
+type:2 price:2 value:184 36 61 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:2 value:71 80 88 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:4 value:139 81 23 time:Mon Feb 27 00:52:10 2017
+
+type:1 price:10 value:112 0 0 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:11 value:8 30 74 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:21 value:451 95 37 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:22 value:541 31 87 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:23 value:87 75 4 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:31 value:482 39 43 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:31 value:171 61 48 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:33 value:122 80 35 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:33 value:550 47 93 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:37 value:317 19 41 time:Mon Feb 27 00:52:10 2017
+
+type:1 price:38 value:535 0 0 time:Mon Feb 27 00:52:10 2017
+
+
+boy:WHIKTYG girl:DRBJGVB
+
+Gifts exchanged
+type:2 price:2 value:184 36 61 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:2 value:71 80 88 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:4 value:139 81 23 time:Mon Feb 27 00:52:10 2017
+
+type:1 price:10 value:112 0 0 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:11 value:8 30 74 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:21 value:451 95 37 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:22 value:541 31 87 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:23 value:87 75 4 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:31 value:482 39 43 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:31 value:171 61 48 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:33 value:122 80 35 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:33 value:550 47 93 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:37 value:317 19 41 time:Mon Feb 27 00:52:10 2017
+
+type:1 price:38 value:535 0 0 time:Mon Feb 27 00:52:10 2017
+
+type:1 price:39 value:190 0 0 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:39 value:571 75 16 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:58 value:196 58 88 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:58 value:242 86 62 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:65 value:108 96 72 time:Mon Feb 27 00:52:10 2017
+
+type:1 price:67 value:315 0 0 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:68 value:53 93 16 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:70 value:443 95 24 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:73 value:367 95 95 time:Mon Feb 27 00:52:10 2017
+
+type:1 price:77 value:559 0 0 time:Mon Feb 27 00:52:10 2017
+
+
+boy:PSDVASR girl:GMEMPJY
+
+Gifts exchanged
+type:2 price:2 value:184 36 61 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:2 value:71 80 88 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:4 value:139 81 23 time:Mon Feb 27 00:52:10 2017
+
+type:1 price:10 value:112 0 0 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:11 value:8 30 74 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:21 value:451 95 37 time:Mon Feb 27 00:52:10 2017
+
+
+boy:OUYIFWC girl:JRXDQWG
+
+Gifts exchanged
+type:2 price:2 value:184 36 61 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:2 value:71 80 88 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:4 value:139 81 23 time:Mon Feb 27 00:52:10 2017
+
+type:1 price:10 value:112 0 0 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:11 value:8 30 74 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:21 value:451 95 37 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:22 value:541 31 87 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:23 value:87 75 4 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:31 value:482 39 43 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:31 value:171 61 48 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:33 value:122 80 35 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:33 value:550 47 93 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:37 value:317 19 41 time:Mon Feb 27 00:52:10 2017
+
+type:1 price:38 value:535 0 0 time:Mon Feb 27 00:52:10 2017
+
+type:1 price:39 value:190 0 0 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:39 value:571 75 16 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:58 value:196 58 88 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:58 value:242 86 62 time:Mon Feb 27 00:52:10 2017
+
+
+boy:LXPVQHE girl:MVBWNYX
+
+Gifts exchanged
+type:2 price:2 value:184 36 61 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:2 value:71 80 88 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:4 value:139 81 23 time:Mon Feb 27 00:52:10 2017
+
+type:1 price:10 value:112 0 0 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:11 value:8 30 74 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:21 value:451 95 37 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:22 value:541 31 87 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:23 value:87 75 4 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:31 value:482 39 43 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:31 value:171 61 48 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:33 value:122 80 35 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:33 value:550 47 93 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:37 value:317 19 41 time:Mon Feb 27 00:52:10 2017
+
+type:1 price:38 value:535 0 0 time:Mon Feb 27 00:52:10 2017
+
+type:1 price:39 value:190 0 0 time:Mon Feb 27 00:52:10 2017
+
+
+boy:CCWUQDM girl:HWQBAYJ
+
+Gifts exchanged
+type:2 price:2 value:184 36 61 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:2 value:71 80 88 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:4 value:139 81 23 time:Mon Feb 27 00:52:10 2017
+
+type:1 price:10 value:112 0 0 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:11 value:8 30 74 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:21 value:451 95 37 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:22 value:541 31 87 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:23 value:87 75 4 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:31 value:482 39 43 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:31 value:171 61 48 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:33 value:122 80 35 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:33 value:550 47 93 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:37 value:317 19 41 time:Mon Feb 27 00:52:10 2017
+
+type:1 price:38 value:535 0 0 time:Mon Feb 27 00:52:10 2017
+
+type:1 price:39 value:190 0 0 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:39 value:571 75 16 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:58 value:196 58 88 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:58 value:242 86 62 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:65 value:108 96 72 time:Mon Feb 27 00:52:10 2017
+
+type:1 price:67 value:315 0 0 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:68 value:53 93 16 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:70 value:443 95 24 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:73 value:367 95 95 time:Mon Feb 27 00:52:10 2017
+
+
+boy:PSJPUMT girl:ICOKKYB
+
+Gifts exchanged
+type:2 price:2 value:184 36 61 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:2 value:71 80 88 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:4 value:139 81 23 time:Mon Feb 27 00:52:10 2017
+
+type:1 price:10 value:112 0 0 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:11 value:8 30 74 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:21 value:451 95 37 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:22 value:541 31 87 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:23 value:87 75 4 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:31 value:482 39 43 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:31 value:171 61 48 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:33 value:122 80 35 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:33 value:550 47 93 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:37 value:317 19 41 time:Mon Feb 27 00:52:10 2017
+
+type:1 price:38 value:535 0 0 time:Mon Feb 27 00:52:10 2017
+
+type:1 price:39 value:190 0 0 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:39 value:571 75 16 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:58 value:196 58 88 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:58 value:242 86 62 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:65 value:108 96 72 time:Mon Feb 27 00:52:10 2017
+
+type:1 price:67 value:315 0 0 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:68 value:53 93 16 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:70 value:443 95 24 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:73 value:367 95 95 time:Mon Feb 27 00:52:10 2017
+
+
+boy:LJOVNBX girl:NKKLCYB
+
+Gifts exchanged
+type:2 price:2 value:184 36 61 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:2 value:71 80 88 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:4 value:139 81 23 time:Mon Feb 27 00:52:10 2017
+
+type:1 price:10 value:112 0 0 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:11 value:8 30 74 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:21 value:451 95 37 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:22 value:541 31 87 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:23 value:87 75 4 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:31 value:482 39 43 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:31 value:171 61 48 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:33 value:122 80 35 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:33 value:550 47 93 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:37 value:317 19 41 time:Mon Feb 27 00:52:10 2017
+
+type:1 price:38 value:535 0 0 time:Mon Feb 27 00:52:10 2017
+
+type:1 price:39 value:190 0 0 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:39 value:571 75 16 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:58 value:196 58 88 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:58 value:242 86 62 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:65 value:108 96 72 time:Mon Feb 27 00:52:10 2017
+
+
+boy:CTOSDPD girl:QKRMKDH
+
+Gifts exchanged
+type:2 price:2 value:184 36 61 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:2 value:71 80 88 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:4 value:139 81 23 time:Mon Feb 27 00:52:10 2017
+
+type:1 price:10 value:112 0 0 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:11 value:8 30 74 time:Mon Feb 27 00:52:10 2017
+
+
+boy:ISYTSUD girl:XLYBPKN
+
+Gifts exchanged
+type:2 price:2 value:184 36 61 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:2 value:71 80 88 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:4 value:139 81 23 time:Mon Feb 27 00:52:10 2017
+
+type:1 price:10 value:112 0 0 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:11 value:8 30 74 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:21 value:451 95 37 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:22 value:541 31 87 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:23 value:87 75 4 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:31 value:482 39 43 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:31 value:171 61 48 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:33 value:122 80 35 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:33 value:550 47 93 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:37 value:317 19 41 time:Mon Feb 27 00:52:10 2017
+
+type:1 price:38 value:535 0 0 time:Mon Feb 27 00:52:10 2017
+
+type:1 price:39 value:190 0 0 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:39 value:571 75 16 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:58 value:196 58 88 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:58 value:242 86 62 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:65 value:108 96 72 time:Mon Feb 27 00:52:10 2017
+
+type:1 price:67 value:315 0 0 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:68 value:53 93 16 time:Mon Feb 27 00:52:10 2017
+
+
+boy:TWWJWMO girl:CLOODIF
+
+Gifts exchanged
+type:2 price:2 value:184 36 61 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:2 value:71 80 88 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:4 value:139 81 23 time:Mon Feb 27 00:52:10 2017
+
+type:1 price:10 value:112 0 0 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:11 value:8 30 74 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:21 value:451 95 37 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:22 value:541 31 87 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:23 value:87 75 4 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:31 value:482 39 43 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:31 value:171 61 48 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:33 value:122 80 35 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:33 value:550 47 93 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:37 value:317 19 41 time:Mon Feb 27 00:52:10 2017
+
+type:1 price:38 value:535 0 0 time:Mon Feb 27 00:52:10 2017
+
+type:1 price:39 value:190 0 0 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:39 value:571 75 16 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:58 value:196 58 88 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:58 value:242 86 62 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:65 value:108 96 72 time:Mon Feb 27 00:52:10 2017
+
+type:1 price:67 value:315 0 0 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:68 value:53 93 16 time:Mon Feb 27 00:52:10 2017
+
+
+boy:DOFAAGW girl:UTEVMSN
+
+Gifts exchanged
+type:2 price:2 value:184 36 61 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:2 value:71 80 88 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:4 value:139 81 23 time:Mon Feb 27 00:52:10 2017
+
+type:1 price:10 value:112 0 0 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:11 value:8 30 74 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:21 value:451 95 37 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:22 value:541 31 87 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:23 value:87 75 4 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:31 value:482 39 43 time:Mon Feb 27 00:52:10 2017
+
+
+boy:UXCOIPN girl:IFPNBGE
+
+Gifts exchanged
+type:2 price:2 value:184 36 61 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:2 value:71 80 88 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:4 value:139 81 23 time:Mon Feb 27 00:52:10 2017
+
+type:1 price:10 value:112 0 0 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:11 value:8 30 74 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:21 value:451 95 37 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:22 value:541 31 87 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:23 value:87 75 4 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:31 value:482 39 43 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:31 value:171 61 48 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:33 value:122 80 35 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:33 value:550 47 93 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:37 value:317 19 41 time:Mon Feb 27 00:52:10 2017
+
+type:1 price:38 value:535 0 0 time:Mon Feb 27 00:52:10 2017
+
+type:1 price:39 value:190 0 0 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:39 value:571 75 16 time:Mon Feb 27 00:52:10 2017
+
+
+boy:DQSCNMM girl:BINPNWV
+
+Gifts exchanged
+type:2 price:2 value:184 36 61 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:2 value:71 80 88 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:4 value:139 81 23 time:Mon Feb 27 00:52:10 2017
+
+type:1 price:10 value:112 0 0 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:11 value:8 30 74 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:21 value:451 95 37 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:22 value:541 31 87 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:23 value:87 75 4 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:31 value:482 39 43 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:31 value:171 61 48 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:33 value:122 80 35 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:33 value:550 47 93 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:37 value:317 19 41 time:Mon Feb 27 00:52:10 2017
+
+type:1 price:38 value:535 0 0 time:Mon Feb 27 00:52:10 2017
+
+type:1 price:39 value:190 0 0 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:39 value:571 75 16 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:58 value:196 58 88 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:58 value:242 86 62 time:Mon Feb 27 00:52:10 2017
+
+
+boy:LXULIST girl:MUJATCD
+
+Gifts exchanged
+type:2 price:2 value:184 36 61 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:2 value:71 80 88 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:4 value:139 81 23 time:Mon Feb 27 00:52:10 2017
+
+type:1 price:10 value:112 0 0 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:11 value:8 30 74 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:21 value:451 95 37 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:22 value:541 31 87 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:23 value:87 75 4 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:31 value:482 39 43 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:31 value:171 61 48 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:33 value:122 80 35 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:33 value:550 47 93 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:37 value:317 19 41 time:Mon Feb 27 00:52:10 2017
+
+type:1 price:38 value:535 0 0 time:Mon Feb 27 00:52:10 2017
+
+type:1 price:39 value:190 0 0 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:39 value:571 75 16 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:58 value:196 58 88 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:58 value:242 86 62 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:65 value:108 96 72 time:Mon Feb 27 00:52:10 2017
+
+type:1 price:67 value:315 0 0 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:68 value:53 93 16 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:70 value:443 95 24 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:73 value:367 95 95 time:Mon Feb 27 00:52:10 2017
+
+
+boy:MPIFGXH girl:CPXIPRU
+
+Gifts exchanged
+type:2 price:2 value:184 36 61 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:2 value:71 80 88 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:4 value:139 81 23 time:Mon Feb 27 00:52:10 2017
+
+type:1 price:10 value:112 0 0 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:11 value:8 30 74 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:21 value:451 95 37 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:22 value:541 31 87 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:23 value:87 75 4 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:31 value:482 39 43 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:31 value:171 61 48 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:33 value:122 80 35 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:33 value:550 47 93 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:37 value:317 19 41 time:Mon Feb 27 00:52:10 2017
+
+type:1 price:38 value:535 0 0 time:Mon Feb 27 00:52:10 2017
+
+type:1 price:39 value:190 0 0 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:39 value:571 75 16 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:58 value:196 58 88 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:58 value:242 86 62 time:Mon Feb 27 00:52:10 2017
+
+
+boy:PFOGJVU girl:IBDCOTD
+
+Gifts exchanged
+type:2 price:2 value:184 36 61 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:2 value:71 80 88 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:4 value:139 81 23 time:Mon Feb 27 00:52:10 2017
+
+type:1 price:10 value:112 0 0 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:11 value:8 30 74 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:21 value:451 95 37 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:22 value:541 31 87 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:23 value:87 75 4 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:31 value:482 39 43 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:31 value:171 61 48 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:33 value:122 80 35 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:33 value:550 47 93 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:37 value:317 19 41 time:Mon Feb 27 00:52:10 2017
+
+type:1 price:38 value:535 0 0 time:Mon Feb 27 00:52:10 2017
+
+type:1 price:39 value:190 0 0 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:39 value:571 75 16 time:Mon Feb 27 00:52:10 2017
+
+
+boy:COVJWTV girl:BFDBADX
+
+Gifts exchanged
+type:2 price:2 value:184 36 61 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:2 value:71 80 88 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:4 value:139 81 23 time:Mon Feb 27 00:52:10 2017
+
+type:1 price:10 value:112 0 0 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:11 value:8 30 74 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:21 value:451 95 37 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:22 value:541 31 87 time:Mon Feb 27 00:52:10 2017
+
+
+boy:KPSLHVT girl:NAPNJQR
+
+Gifts exchanged
+type:2 price:2 value:184 36 61 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:2 value:71 80 88 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:4 value:139 81 23 time:Mon Feb 27 00:52:10 2017
+
+type:1 price:10 value:112 0 0 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:11 value:8 30 74 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:21 value:451 95 37 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:22 value:541 31 87 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:23 value:87 75 4 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:31 value:482 39 43 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:31 value:171 61 48 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:33 value:122 80 35 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:33 value:550 47 93 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:37 value:317 19 41 time:Mon Feb 27 00:52:10 2017
+
+type:1 price:38 value:535 0 0 time:Mon Feb 27 00:52:10 2017
+
+
+boy:RYKWJHT girl:WVFFHFY
+
+Gifts exchanged
+type:2 price:2 value:184 36 61 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:2 value:71 80 88 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:4 value:139 81 23 time:Mon Feb 27 00:52:10 2017
+
+type:1 price:10 value:112 0 0 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:11 value:8 30 74 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:21 value:451 95 37 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:22 value:541 31 87 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:23 value:87 75 4 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:31 value:482 39 43 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:31 value:171 61 48 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:33 value:122 80 35 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:33 value:550 47 93 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:37 value:317 19 41 time:Mon Feb 27 00:52:10 2017
+
+type:1 price:38 value:535 0 0 time:Mon Feb 27 00:52:10 2017
+
+type:1 price:39 value:190 0 0 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:39 value:571 75 16 time:Mon Feb 27 00:52:10 2017
+
+
+boy:DELMUTG girl:PUSYOVN
+
+Gifts exchanged
+type:2 price:2 value:184 36 61 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:2 value:71 80 88 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:4 value:139 81 23 time:Mon Feb 27 00:52:10 2017
+
+type:1 price:10 value:112 0 0 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:11 value:8 30 74 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:21 value:451 95 37 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:22 value:541 31 87 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:23 value:87 75 4 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:31 value:482 39 43 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:31 value:171 61 48 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:33 value:122 80 35 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:33 value:550 47 93 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:37 value:317 19 41 time:Mon Feb 27 00:52:10 2017
+
+type:1 price:38 value:535 0 0 time:Mon Feb 27 00:52:10 2017
+
+type:1 price:39 value:190 0 0 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:39 value:571 75 16 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:58 value:196 58 88 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:58 value:242 86 62 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:65 value:108 96 72 time:Mon Feb 27 00:52:10 2017
+
+type:1 price:67 value:315 0 0 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:68 value:53 93 16 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:70 value:443 95 24 time:Mon Feb 27 00:52:10 2017
+
+
+boy:BXTVKFW girl:GWGIGCM
+
+Gifts exchanged
+type:2 price:2 value:184 36 61 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:2 value:71 80 88 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:4 value:139 81 23 time:Mon Feb 27 00:52:10 2017
+
+type:1 price:10 value:112 0 0 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:11 value:8 30 74 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:21 value:451 95 37 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:22 value:541 31 87 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:23 value:87 75 4 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:31 value:482 39 43 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:31 value:171 61 48 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:33 value:122 80 35 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:33 value:550 47 93 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:37 value:317 19 41 time:Mon Feb 27 00:52:10 2017
+
+
+boy:LBEIABD girl:FJALMEB
+
+Gifts exchanged
+type:2 price:2 value:184 36 61 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:2 value:71 80 88 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:4 value:139 81 23 time:Mon Feb 27 00:52:10 2017
+
+type:1 price:10 value:112 0 0 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:11 value:8 30 74 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:21 value:451 95 37 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:22 value:541 31 87 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:23 value:87 75 4 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:31 value:482 39 43 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:31 value:171 61 48 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:33 value:122 80 35 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:33 value:550 47 93 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:37 value:317 19 41 time:Mon Feb 27 00:52:10 2017
+
+type:1 price:38 value:535 0 0 time:Mon Feb 27 00:52:10 2017
+
+type:1 price:39 value:190 0 0 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:39 value:571 75 16 time:Mon Feb 27 00:52:10 2017
+
+
+boy:DKRIYTM girl:GTUBNXI
+
+Gifts exchanged
+type:2 price:2 value:184 36 61 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:2 value:71 80 88 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:4 value:139 81 23 time:Mon Feb 27 00:52:10 2017
+
+type:1 price:10 value:112 0 0 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:11 value:8 30 74 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:21 value:451 95 37 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:22 value:541 31 87 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:23 value:87 75 4 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:31 value:482 39 43 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:31 value:171 61 48 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:33 value:122 80 35 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:33 value:550 47 93 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:37 value:317 19 41 time:Mon Feb 27 00:52:10 2017
+
+
+boy:EPCCALC girl:LNVPGPS
+
+Gifts exchanged
+type:2 price:2 value:184 36 61 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:2 value:71 80 88 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:4 value:139 81 23 time:Mon Feb 27 00:52:10 2017
+
+type:1 price:10 value:112 0 0 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:11 value:8 30 74 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:21 value:451 95 37 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:22 value:541 31 87 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:23 value:87 75 4 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:31 value:482 39 43 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:31 value:171 61 48 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:33 value:122 80 35 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:33 value:550 47 93 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:37 value:317 19 41 time:Mon Feb 27 00:52:10 2017
+
+type:1 price:38 value:535 0 0 time:Mon Feb 27 00:52:10 2017
+
+type:1 price:39 value:190 0 0 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:39 value:571 75 16 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:58 value:196 58 88 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:58 value:242 86 62 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:65 value:108 96 72 time:Mon Feb 27 00:52:10 2017
+
+
+boy:VVFOIAR girl:VQWQXLW
+
+Gifts exchanged
+type:2 price:2 value:184 36 61 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:2 value:71 80 88 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:4 value:139 81 23 time:Mon Feb 27 00:52:10 2017
+
+type:1 price:10 value:112 0 0 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:11 value:8 30 74 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:21 value:451 95 37 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:22 value:541 31 87 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:23 value:87 75 4 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:31 value:482 39 43 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:31 value:171 61 48 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:33 value:122 80 35 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:33 value:550 47 93 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:37 value:317 19 41 time:Mon Feb 27 00:52:10 2017
+
+type:1 price:38 value:535 0 0 time:Mon Feb 27 00:52:10 2017
+
+type:1 price:39 value:190 0 0 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:39 value:571 75 16 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:58 value:196 58 88 time:Mon Feb 27 00:52:10 2017
+
+
+boy:LPEBRMG girl:VEBANPU
+
+Gifts exchanged
+type:2 price:2 value:184 36 61 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:2 value:71 80 88 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:4 value:139 81 23 time:Mon Feb 27 00:52:10 2017
+
+type:1 price:10 value:112 0 0 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:11 value:8 30 74 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:21 value:451 95 37 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:22 value:541 31 87 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:23 value:87 75 4 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:31 value:482 39 43 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:31 value:171 61 48 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:33 value:122 80 35 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:33 value:550 47 93 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:37 value:317 19 41 time:Mon Feb 27 00:52:10 2017
+
+type:1 price:38 value:535 0 0 time:Mon Feb 27 00:52:10 2017
+
+type:1 price:39 value:190 0 0 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:39 value:571 75 16 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:58 value:196 58 88 time:Mon Feb 27 00:52:10 2017
+
+
+boy:HLVYRFX girl:MIDABQV
+
+Gifts exchanged
+type:2 price:2 value:184 36 61 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:2 value:71 80 88 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:4 value:139 81 23 time:Mon Feb 27 00:52:10 2017
+
+type:1 price:10 value:112 0 0 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:11 value:8 30 74 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:21 value:451 95 37 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:22 value:541 31 87 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:23 value:87 75 4 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:31 value:482 39 43 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:31 value:171 61 48 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:33 value:122 80 35 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:33 value:550 47 93 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:37 value:317 19 41 time:Mon Feb 27 00:52:10 2017
+
+type:1 price:38 value:535 0 0 time:Mon Feb 27 00:52:10 2017
+
+type:1 price:39 value:190 0 0 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:39 value:571 75 16 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:58 value:196 58 88 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:58 value:242 86 62 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:65 value:108 96 72 time:Mon Feb 27 00:52:10 2017
+
+type:1 price:67 value:315 0 0 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:68 value:53 93 16 time:Mon Feb 27 00:52:10 2017
+
+
+boy:UUVRIKI girl:AVXISTG
+
+Gifts exchanged
+type:2 price:2 value:184 36 61 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:2 value:71 80 88 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:4 value:139 81 23 time:Mon Feb 27 00:52:10 2017
+
+type:1 price:10 value:112 0 0 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:11 value:8 30 74 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:21 value:451 95 37 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:22 value:541 31 87 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:23 value:87 75 4 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:31 value:482 39 43 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:31 value:171 61 48 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:33 value:122 80 35 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:33 value:550 47 93 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:37 value:317 19 41 time:Mon Feb 27 00:52:10 2017
+
+type:1 price:38 value:535 0 0 time:Mon Feb 27 00:52:10 2017
+
+type:1 price:39 value:190 0 0 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:39 value:571 75 16 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:58 value:196 58 88 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:58 value:242 86 62 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:65 value:108 96 72 time:Mon Feb 27 00:52:10 2017
+
+type:1 price:67 value:315 0 0 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:68 value:53 93 16 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:70 value:443 95 24 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:73 value:367 95 95 time:Mon Feb 27 00:52:10 2017
+
+type:1 price:77 value:559 0 0 time:Mon Feb 27 00:52:10 2017
+
+
+boy:CHDUORY girl:WEPWOPG
+
+Gifts exchanged
+type:2 price:2 value:184 36 61 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:2 value:71 80 88 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:4 value:139 81 23 time:Mon Feb 27 00:52:10 2017
+
+type:1 price:10 value:112 0 0 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:11 value:8 30 74 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:21 value:451 95 37 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:22 value:541 31 87 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:23 value:87 75 4 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:31 value:482 39 43 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:31 value:171 61 48 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:33 value:122 80 35 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:33 value:550 47 93 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:37 value:317 19 41 time:Mon Feb 27 00:52:10 2017
+
+type:1 price:38 value:535 0 0 time:Mon Feb 27 00:52:10 2017
+
+
+boy:SNLFFVM girl:NVAMPBK
+
+Gifts exchanged
+type:2 price:2 value:184 36 61 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:2 value:71 80 88 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:4 value:139 81 23 time:Mon Feb 27 00:52:10 2017
+
+type:1 price:10 value:112 0 0 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:11 value:8 30 74 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:21 value:451 95 37 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:22 value:541 31 87 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:23 value:87 75 4 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:31 value:482 39 43 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:31 value:171 61 48 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:33 value:122 80 35 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:33 value:550 47 93 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:37 value:317 19 41 time:Mon Feb 27 00:52:10 2017
+
+type:1 price:38 value:535 0 0 time:Mon Feb 27 00:52:10 2017
+
+type:1 price:39 value:190 0 0 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:39 value:571 75 16 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:58 value:196 58 88 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:58 value:242 86 62 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:65 value:108 96 72 time:Mon Feb 27 00:52:10 2017
+
+type:1 price:67 value:315 0 0 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:68 value:53 93 16 time:Mon Feb 27 00:52:10 2017
+
+type:2 price:70 value:443 95 24 time:Mon Feb 27 00:52:10 2017
+
+type:3 price:73 value:367 95 95 time:Mon Feb 27 00:52:10 2017
+
+type:1 price:77 value:559 0 0 time:Mon Feb 27 00:52:10 2017
+
