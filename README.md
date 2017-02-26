@@ -48,6 +48,8 @@ To View K-Most Happiest Couples:
 To View K-Most Compatible Couples:
   Open sorted_compatibility.txt
   
+(for randomly generated K)
+  
 To View the Exchanges of gifts that took place between the formed couples:
 	 Open gift_exchange.txt
 ```
