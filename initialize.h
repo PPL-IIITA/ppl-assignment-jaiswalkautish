@@ -16,7 +16,7 @@ public:
 	int ng;
 	
 	/** function to initialize the boy's and girl's data from text files   */
-	void init(boy bb[], girl gg[]);			
+	void initi(boy bb[], girl gg[]);			
 		
 };
 #endif

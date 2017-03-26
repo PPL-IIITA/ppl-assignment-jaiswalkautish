@@ -3,7 +3,7 @@
 #include "hgirl.h"
 using namespace std;
 
-	void initialize::init(boy bb[], girl gg[]){//** function to initialise the boy's and girl's data from text files   */			
+	void initialize::initi(boy bb[], girl gg[]){//** function to initialise the boy's and girl's data from text files   */			
 		FILE *fp;
 		fp = fopen("data_boy.txt","r");
 		fscanf(fp,"%d",&nb);

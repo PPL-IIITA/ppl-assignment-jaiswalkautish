@@ -31,6 +31,11 @@ Step 3: To get the outputs of the question 1 and 2
 >```
 	g++ main.cpp library_file
 	./a.out
+
+	OR
+
+	g++ main3.cpp library_file (as asked in question 3)
+	./a.out
 ```
 
 To see Outputs:
