@@ -27,9 +27,10 @@ Step 2: To create Library
 	-> g++ -c most_rich.cpp
 	-> ar rvs library_file *.o 
    ```
-Step 3: To get the outputs of the questions
+Step 3: To get the outputs of the question 1 and 2
 >```
 	g++ main.cpp library_file
+	./a.out
 ```
 
 To see Outputs:
