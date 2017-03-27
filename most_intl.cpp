@@ -6,7 +6,7 @@ using namespace std;
 		int j;
 		int intl = 0;
 		for(j=0;j<nb;j++){
-			if((bb[j].status == 0) && (bb[j].budget > gg[i].maintainance_budget) && (gg[i].attractiveness >= bb[j].min_att) && bb[j].intelligence > intl){
+			if((gg[i].exbf != j) && (bb[j].status == 0) && (bb[j].budget > gg[i].maintainance_budget) && (gg[i].attractiveness >= bb[j].min_att) && bb[j].intelligence > intl){
 					intl = bb[j].intelligence;
 					maxpos = j;
 			}

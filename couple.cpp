@@ -13,33 +13,59 @@ using namespace std;
 	void couple::set_couple(couple cp[],boy bb[], girl gg[], int i, int pos, int x){//** member function that sets up the couple and updates the status of committed girls and boys  */	
 		bb[pos].status = 1;
 		gg[i].status = 1;
+		bb[pos].exgf = bb[pos].psgf;
+		bb[pos].psgf = i;
+		gg[i].exbf = gg[i].psbf;
+		gg[i].psbf = pos;
 		cp[x].b = bb[pos];
 		cp[x].g = gg[i];
 	}
 
-	void couple::form_couples(couple cp[], boy bb[],girl gg[], int nb, int ng, int *x){//** member function to form couples as per the different citeria  */		
-		int i,pos;	
+	void couple::form_couples(couple cp[], boy bb[],girl gg[], int nb, int ng, int *x, int whn){//** member function to form couples as per the different citeria  */		
+		int i,pos;
+		if(whn == 1){
+			for(i=0;i<ng;i++){
+				int ch = gg[i].criteria;
+				if(ch == 1){
+					most_attr at;
+					pos = at.find_couple(bb,gg,i,nb);
+				}
+				else if(ch == 2){
+					most_rich at1;
+					pos = at1.find_couple(bb,gg,i,nb);
+				}
+				else{
+					most_intl at2;
+					pos = at2.find_couple(bb,gg,i,nb);
+				}
+				if(pos != -1){
+					set_couple(cp,bb,gg,i,pos,*x);
+					*x += 1;
+				}
+			}
+		}	
+		else{	
 		for(i=0;i<ng;i++){
-			int ch = gg[i].criteria;
-			if(ch == 1){
-				most_attr at;
-				pos = at.find_couple(bb,gg,i,nb);
-
+			if(gg[i].brkp == 1){
+				int ch = gg[i].criteria;
+				if(ch == 1){
+					most_attr at;
+					pos = at.find_couple(bb,gg,i,nb);
+				}
+				else if(ch == 2){
+					most_rich at1;
+					pos = at1.find_couple(bb,gg,i,nb);
+				}
+				else{
+					most_intl at2;
+					pos = at2.find_couple(bb,gg,i,nb);
+				}
+				if(pos != -1){
+					set_couple(cp,bb,gg,i,pos,*x);
+					*x += 1;
+				}
 			}
-			else if(ch == 2){
-				most_rich at1;
-				pos = at1.find_couple(bb,gg,i,nb);
-			}
-			else{
-				most_intl at2;
-				pos = at2.find_couple(bb,gg,i,nb);
-			}
-
-			if(pos != -1){
-				set_couple(cp,bb,gg,i,pos,*x);
-				*x += 1;
-			}
-		}
+		}}
 	}
 
 	void couple::allocate_gift(couple cp[], int nc, gifts gfts[], int n_gfts){//** member functions that allocates the gifts to the couples as per the type of boy and the girl  */
@@ -110,10 +136,20 @@ using namespace std;
 		}
 	}
 
-	void couple::print_couples(couple cp[], int x){//** member function to print the formed couples into a file couples.txt  */
+	void couple::print_couples(couple cp[], int x, int ch){//** member function to print the formed couples into a file couples.txt  */
 		int i;
 		FILE *fp;
-		fp = fopen("couples.txt","w+");
+		switch(ch){
+			case 1:
+			fp = fopen("couples.txt","w+");
+			break;
+			case 4:
+			fp = fopen("updated_couples(q4).txt","w+");
+			break;
+			case 5:
+			fp = fopen("all_sorted_happiness.txt","w+");
+			break;
+		}
 		fprintf(fp,"%d couples formed\n",x);
 		for(i=0;i<x;i++){
 			fprintf(fp,"boy:%s girl:%s\n",cp[i].b.name,cp[i].g.name);
@@ -180,4 +216,19 @@ using namespace std;
 
 		}
 		fclose(fp);
+	}
+
+	void couple::breakup(boy bb[], girl gg[], couple cp[], int n, int k, int *x){
+		int i;
+		for(i=n-1;k > 0;i--){
+			*x -= 1;
+			bb[cp[i].b.id].status = 0;
+			gg[cp[i].g.id].status = 0;
+			bb[cp[i].b.id].psgf = -1;
+			gg[cp[i].g.id].psbf = -1;
+			bb[cp[i].b.id].exgf = cp[i].g.id;
+			gg[cp[i].g.id].exbf = cp[i].b.id;
+			gg[cp[i].g.id].brkp = 1;
+			k--;
+		}
 	}

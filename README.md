@@ -53,6 +53,11 @@ To View K-Most Happiest Couples:
   
 To View K-Most Compatible Couples:
   Open sorted_compatibility.txt
+
+###For question 4
+	see the difference between files all_sorted_happiness.txt and updated_couples(q4).txt for randomly generated k;
+	(new boys allocated to those k girls)
+
   
 (for randomly generated K)
   

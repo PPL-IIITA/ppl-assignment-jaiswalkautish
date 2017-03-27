@@ -11,6 +11,9 @@ using namespace std;
 		for(i=0;i<nb;i++){
 			fscanf(fp,"%s %d %d %d %d %d\n",bb[i].name, &bb[i].attractiveness, &bb[i].intelligence, &bb[i].budget, &bb[i].min_att, &bb[i].type);
 			bb[i].status = 0;
+			bb[i].psgf = -1;
+			bb[i].exgf = -1;
+			bb[i].id = i;
 		}
 		fclose(fp);
 		fp = fopen("data_girl.txt","r");
@@ -18,6 +21,10 @@ using namespace std;
 		for(i=0;i<ng;i++){
 			fscanf(fp,"%s %d %d %d %d %d\n",gg[i].name, &gg[i].attractiveness, &gg[i].intelligence_level, &gg[i].maintainance_budget, &gg[i].type, &gg[i].criteria);
 			gg[i].status = 0;
+			gg[i].psbf = -1;
+			gg[i].exbf = -1;
+			gg[i].id = i;
+			gg[i].brkp = 0;
 		}
 		fclose(fp);
 	}

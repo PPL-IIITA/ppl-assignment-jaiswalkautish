@@ -19,8 +19,8 @@ int main()
 	int n_gfts;
 	obj.initi(bb,gg);
 	int n_cpl = 0;
-	cpl.form_couples(cp,bb,gg,obj.nb,obj.ng,&n_cpl);
-	cpl.print_couples(cp,n_cpl);
+	cpl.form_couples(cp,bb,gg,obj.nb,obj.ng,&n_cpl,1);
+	cpl.print_couples(cp,n_cpl,1);
 	gft.init(gfts,&n_gfts);
 	gft.sorting(gfts,n_gfts);
 	cpl.allocate_gift(cp,n_cpl,gfts,n_gfts);
@@ -29,6 +29,12 @@ int main()
 	int k = rand()%30 + 1;
 	cpl.sort_comp(cp,n_cpl,k);
 	cpl.sort_happ(cp,n_cpl,k);
+	cpl.print_couples(cp,n_cpl,5);
+	srand(time(NULL));
+	int z = rand()%10 + 1;
+	cpl.breakup(bb,gg,cp,n_cpl,z,&n_cpl);
+	cpl.form_couples(cp,bb,gg,obj.nb,obj.ng,&n_cpl,2);
+	cpl.print_couples(cp,n_cpl,4);
 	cpl.print_cpl_gifts(cp,n_cpl);
 	return 0;
 }

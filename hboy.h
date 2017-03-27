@@ -28,6 +28,12 @@ public:
 	/** happiness of the boy when committed*/	
 	int happiness;
 	/** minimum attraction of the girl for the boy*/	
-	int min_att;	
+	int min_att;
+	/** id of the boy*/
+	int id;
+	/** id of the present gf of the boy*/
+	int psgf;
+	/** id of the ex-gf of the boy*/
+	int exgf;
 };
 #endif

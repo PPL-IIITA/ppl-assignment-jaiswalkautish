@@ -33,19 +33,21 @@ public:
 	/** member function that sets up the couple and updates the status of committed girls and boys  */
 	void set_couple(couple cp[],boy bb[], girl gg[], int i, int pos, int x);	
 	/** member function to form couples as per the different citeria  */
-	void form_couples(couple cp[], boy bb[],girl gg[], int nb, int ng, int *x);		
+	void form_couples(couple cp[], boy bb[],girl gg[], int nb, int ng, int *x, int ch);		
 	/** member functions that allocates the gifts to the couples as per the type of boy and the girl  */
 	void allocate_gift(couple cp[], int nc, gifts gfts[], int n_gfts);
 	/** function that computes girl's happiness  */
 	void grl_hpp(couple cp[], int n);
 	/** member function to print the formed couples into a file couples.txt  */
-	void print_couples(couple cp[], int x);
+	void print_couples(couple cp[], int x, int ch);
 	/** member function to print the k most compatible couples into a file sorted_compatibility.txt  */
 	void sort_comp(couple cp[], int n, int k);
 	/** member function to print the k most happiest couples into a file sorted_happiness.txt  */
 	void sort_happ(couple cp[], int n, int k);
 	/** member function to print the gifts exchanged between the couples into a file gift_exchange.txt  */
 	void print_cpl_gifts(couple cp[], int n);
+	/** member function to perform the breakup of k least happiest couples */
+	void breakup(boy bb[], girl gg[], couple cp[], int n, int k, int *x);
 		
 };
 #endif

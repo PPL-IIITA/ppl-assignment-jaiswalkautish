@@ -26,8 +26,15 @@ public:
 	/** status of the girl: 0-single 1-committed */
 	int status;	
 	/** happiness of the girl with her bf */
-	int happiness;	
-
+	int happiness;
+	/** id of the girl*/
+	int id;
+	/** id of the present bf of the girl*/
+	int psbf;
+	/** id of the ex-bf of the girl*/
+	int exbf;
+	/** 1- breakup done 0-otherwise*/
+	int brkp;
 };
 #endif
 

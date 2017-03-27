@@ -6,7 +6,7 @@ using namespace std;
 		int j;
 		int attr = 0;
 		for(j=0;j<nb;j++) {
-			if((bb[j].status == 0) && (bb[j].budget > gg[i].maintainance_budget) && (gg[i].attractiveness >= bb[j].min_att) && bb[j].attractiveness > attr){
+			if((gg[i].exbf != j) && (bb[j].status == 0) && (bb[j].budget > gg[i].maintainance_budget) && (gg[i].attractiveness >= bb[j].min_att) && bb[j].attractiveness > attr){
 				attr = bb[j].attractiveness;
 				maxpos = j;
 			}
