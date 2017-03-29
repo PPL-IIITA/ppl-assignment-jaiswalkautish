@@ -19,10 +19,10 @@ public:
 	int intelligence_level;		
 	/** maintainance budget of the girl*/
 	int maintainance_budget;	
+	/** criteria of the girl to choose bf: 1-most attractive 2-most rich 3-most intelligent */
+	int criteria;
 	/** type of the girl: 1-choosy 2-normal 3-desperate */
 	int type;	
-	/** criteria of the girl to choose bf: 1-most attractive 2-most rich 3-most intelligent */
-	int criteria;	
 	/** status of the girl: 0-single 1-committed */
 	int status;	
 	/** happiness of the girl with her bf */

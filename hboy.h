@@ -21,14 +21,14 @@ public:
 	int intelligence;
 	/** budget of the boy */	
 	int budget;
-	/** type of the boy: 1-miser 2-generous 3-geeky */	
+	/** minimum attraction of the girl for the boy*/	
+	int min_att;
+	/** type of the boy: 1-miser 2-generous 3-geeky */
 	int type;
 	/** status of the boy: 0-single 1-committed*/	
 	int status;
 	/** happiness of the boy when committed*/	
 	int happiness;
-	/** minimum attraction of the girl for the boy*/	
-	int min_att;
 	/** id of the boy*/
 	int id;
 	/** id of the present gf of the boy*/

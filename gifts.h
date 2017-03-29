@@ -1,4 +1,3 @@
-
 #ifndef GIFTS_H
 #define GIFTS_H
 #include <stdio.h>
@@ -8,7 +7,7 @@ using namespace std;
 class gifts/*! \brief class gifts.
  *        
  *
- *  class that has various methods and functions that deals with the gifts of the couples
+ *  class that has various data members and functions that deals with the gifts of the couples
  */{
 	public:
 		/** to store the pice of the gift  */	
@@ -17,16 +16,12 @@ class gifts/*! \brief class gifts.
 		int value;
 		/** the type of the gift: 1-essential 2-luxury 3-utility  */	
 		int type;
-		/** exclusively for the luxury and the utility gifts  */	
-		int vall1;
-		/** exclusively for the luxury and the utility gifts  */ 
-		int vall2;	
 		/** function to initialize the gifts array from the text file  */
-		void init(gifts gfts[], int *n);		
+		void init(gifts *gfts[], int *n);		
 		/** function that performs sorting of the gifts as per the price  */
-		void sorting(gifts gfts[], int n_gfts); 		
+		void sorting(gifts *gfts[], int n_gfts); 		
 		/** function that prints the gifts along with its all attributes  */
-		void print_gfts(gifts gfts[], int n);
+		void print_gfts(gifts *gfts[], int n);
 
 };
 #endif

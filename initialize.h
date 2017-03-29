@@ -14,7 +14,6 @@ public:
 	int nb;
 	/** the number of girls */
 	int ng;
-	
 	/** function to initialize the boy's and girl's data from text files   */
 	void initi(boy bb[], girl gg[]);			
 		

@@ -1,1782 +1,2370 @@
 
-boy:FPBOAAX girl:WDCVNCR
+boy:DNQBOLQ girl:IDIRJKW
 
 Gifts exchanged
-type:2 price:2 value:596 29 75 time:Mon Mar 27 14:24:36 2017
+type:3 price:1 value:246 util_val:66 util_class:13 time:Thu Mar 30 00:09:22 2017
 
-type:3 price:5 value:600 2 46 time:Mon Mar 27 14:24:36 2017
+type:2 price:3 value:277 rating:0 difficulty:0 time:Thu Mar 30 00:09:22 2017
 
-type:2 price:6 value:529 54 36 time:Mon Mar 27 14:24:36 2017
+type:3 price:4 value:191 util_val:0 util_class:0 time:Thu Mar 30 00:09:22 2017
 
-type:1 price:6 value:490 0 0 time:Mon Mar 27 14:24:36 2017
+type:3 price:6 value:221 util_val:0 util_class:0 time:Thu Mar 30 00:09:22 2017
 
-type:2 price:6 value:106 83 51 time:Mon Mar 27 14:24:36 2017
+type:3 price:8 value:210 util_val:98 util_class:78 time:Thu Mar 30 00:09:22 2017
 
-type:2 price:8 value:136 9 92 time:Mon Mar 27 14:24:36 2017
+type:3 price:10 value:460 util_val:0 util_class:0 time:Thu Mar 30 00:09:22 2017
 
-type:3 price:10 value:133 61 60 time:Mon Mar 27 14:24:36 2017
+type:1 price:15 value:308 time:Thu Mar 30 00:09:22 2017
 
-type:1 price:11 value:329 0 0 time:Mon Mar 27 14:24:36 2017
+type:3 price:17 value:224 util_val:95 util_class:85 time:Thu Mar 30 00:09:22 2017
 
-type:2 price:12 value:157 24 56 time:Mon Mar 27 14:24:36 2017
+type:1 price:17 value:470 time:Thu Mar 30 00:09:22 2017
 
-type:2 price:13 value:598 93 84 time:Mon Mar 27 14:24:36 2017
+type:3 price:19 value:499 util_val:0 util_class:0 time:Thu Mar 30 00:09:22 2017
 
-type:1 price:14 value:483 0 0 time:Mon Mar 27 14:24:36 2017
+type:1 price:23 value:46 time:Thu Mar 30 00:09:22 2017
 
-type:1 price:16 value:13 0 0 time:Mon Mar 27 14:24:36 2017
+type:1 price:26 value:494 time:Thu Mar 30 00:09:22 2017
 
-type:1 price:18 value:275 0 0 time:Mon Mar 27 14:24:36 2017
+type:3 price:29 value:210 util_val:45 util_class:21 time:Thu Mar 30 00:09:22 2017
 
-type:3 price:23 value:329 95 26 time:Mon Mar 27 14:24:36 2017
+type:2 price:29 value:175 rating:9 difficulty:79 time:Thu Mar 30 00:09:22 2017
 
-type:1 price:27 value:80 0 0 time:Mon Mar 27 14:24:36 2017
+type:2 price:31 value:281 rating:57 difficulty:38 time:Thu Mar 30 00:09:22 2017
 
-type:1 price:27 value:391 0 0 time:Mon Mar 27 14:24:36 2017
+type:1 price:38 value:331 time:Thu Mar 30 00:09:22 2017
 
-type:3 price:28 value:373 90 90 time:Mon Mar 27 14:24:36 2017
+type:2 price:41 value:332 rating:41 difficulty:86 time:Thu Mar 30 00:09:22 2017
 
-type:2 price:28 value:403 70 90 time:Mon Mar 27 14:24:36 2017
+type:2 price:49 value:92 rating:64 difficulty:92 time:Thu Mar 30 00:09:22 2017
 
-type:3 price:32 value:376 56 3 time:Mon Mar 27 14:24:36 2017
+type:1 price:53 value:63 time:Thu Mar 30 00:09:22 2017
 
-type:3 price:34 value:427 68 16 time:Mon Mar 27 14:24:36 2017
+type:2 price:53 value:54 rating:76 difficulty:17 time:Thu Mar 30 00:09:22 2017
 
-type:2 price:34 value:337 72 46 time:Mon Mar 27 14:24:36 2017
+type:3 price:54 value:158 util_val:11 util_class:15 time:Thu Mar 30 00:09:22 2017
 
-type:1 price:34 value:341 0 0 time:Mon Mar 27 14:24:36 2017
+type:3 price:55 value:341 util_val:0 util_class:0 time:Thu Mar 30 00:09:22 2017
 
-type:2 price:40 value:78 80 13 time:Mon Mar 27 14:24:36 2017
+type:3 price:56 value:518 util_val:38 util_class:31 time:Thu Mar 30 00:09:22 2017
 
-type:2 price:40 value:188 49 94 time:Mon Mar 27 14:24:36 2017
+type:2 price:57 value:64 rating:96 difficulty:53 time:Thu Mar 30 00:09:22 2017
 
-type:2 price:45 value:353 41 74 time:Mon Mar 27 14:24:36 2017
-
-type:3 price:45 value:571 92 21 time:Mon Mar 27 14:24:36 2017
-
-type:3 price:47 value:472 46 4 time:Mon Mar 27 14:24:36 2017
-
-type:3 price:50 value:365 51 93 time:Mon Mar 27 14:24:36 2017
-
-type:1 price:50 value:192 0 0 time:Mon Mar 27 14:24:36 2017
-
-type:2 price:52 value:553 37 46 time:Mon Mar 27 14:24:36 2017
-
-type:3 price:57 value:255 47 77 time:Mon Mar 27 14:24:36 2017
-
-type:2 price:58 value:276 29 66 time:Mon Mar 27 14:24:36 2017
-
-type:1 price:58 value:465 0 0 time:Mon Mar 27 14:24:36 2017
+type:1 price:61 value:415 time:Thu Mar 30 00:09:22 2017
 
 
-boy:XPFHNDL girl:AVUTANC
+boy:YNYQVNT girl:WROKXKQ
 
 Gifts exchanged
-type:2 price:2 value:596 29 75 time:Mon Mar 27 14:24:36 2017
+type:3 price:1 value:246 util_val:66 util_class:13 time:Thu Mar 30 00:09:22 2017
 
-type:3 price:5 value:600 2 46 time:Mon Mar 27 14:24:36 2017
+type:2 price:3 value:277 rating:0 difficulty:0 time:Thu Mar 30 00:09:22 2017
 
-type:2 price:6 value:529 54 36 time:Mon Mar 27 14:24:36 2017
+type:3 price:4 value:191 util_val:0 util_class:0 time:Thu Mar 30 00:09:22 2017
 
-type:1 price:6 value:490 0 0 time:Mon Mar 27 14:24:36 2017
+type:3 price:6 value:221 util_val:0 util_class:0 time:Thu Mar 30 00:09:22 2017
 
-type:2 price:6 value:106 83 51 time:Mon Mar 27 14:24:36 2017
+type:3 price:8 value:210 util_val:98 util_class:78 time:Thu Mar 30 00:09:22 2017
 
-type:2 price:8 value:136 9 92 time:Mon Mar 27 14:24:36 2017
+type:3 price:10 value:460 util_val:0 util_class:0 time:Thu Mar 30 00:09:22 2017
 
-type:3 price:10 value:133 61 60 time:Mon Mar 27 14:24:36 2017
+type:1 price:15 value:308 time:Thu Mar 30 00:09:22 2017
 
-type:1 price:11 value:329 0 0 time:Mon Mar 27 14:24:36 2017
+type:3 price:17 value:224 util_val:95 util_class:85 time:Thu Mar 30 00:09:22 2017
 
-type:2 price:12 value:157 24 56 time:Mon Mar 27 14:24:36 2017
+type:1 price:17 value:470 time:Thu Mar 30 00:09:22 2017
 
-type:2 price:13 value:598 93 84 time:Mon Mar 27 14:24:36 2017
+type:3 price:19 value:499 util_val:0 util_class:0 time:Thu Mar 30 00:09:22 2017
 
-type:1 price:14 value:483 0 0 time:Mon Mar 27 14:24:36 2017
+type:1 price:23 value:46 time:Thu Mar 30 00:09:22 2017
 
-type:1 price:16 value:13 0 0 time:Mon Mar 27 14:24:36 2017
+type:1 price:26 value:494 time:Thu Mar 30 00:09:22 2017
 
-type:1 price:18 value:275 0 0 time:Mon Mar 27 14:24:36 2017
+type:3 price:29 value:210 util_val:45 util_class:21 time:Thu Mar 30 00:09:22 2017
 
-type:3 price:23 value:329 95 26 time:Mon Mar 27 14:24:36 2017
+type:2 price:29 value:175 rating:9 difficulty:79 time:Thu Mar 30 00:09:22 2017
 
-type:1 price:27 value:80 0 0 time:Mon Mar 27 14:24:36 2017
+type:2 price:31 value:281 rating:57 difficulty:38 time:Thu Mar 30 00:09:22 2017
 
-type:1 price:27 value:391 0 0 time:Mon Mar 27 14:24:36 2017
+type:1 price:38 value:331 time:Thu Mar 30 00:09:22 2017
 
-type:3 price:28 value:373 90 90 time:Mon Mar 27 14:24:36 2017
+type:2 price:41 value:332 rating:41 difficulty:86 time:Thu Mar 30 00:09:22 2017
 
-type:2 price:28 value:403 70 90 time:Mon Mar 27 14:24:36 2017
+type:2 price:49 value:92 rating:64 difficulty:92 time:Thu Mar 30 00:09:22 2017
 
-type:3 price:32 value:376 56 3 time:Mon Mar 27 14:24:36 2017
+type:1 price:53 value:63 time:Thu Mar 30 00:09:22 2017
 
-type:3 price:34 value:427 68 16 time:Mon Mar 27 14:24:36 2017
+type:2 price:53 value:54 rating:76 difficulty:17 time:Thu Mar 30 00:09:22 2017
 
-type:2 price:34 value:337 72 46 time:Mon Mar 27 14:24:36 2017
+type:3 price:54 value:158 util_val:11 util_class:15 time:Thu Mar 30 00:09:22 2017
 
-type:1 price:34 value:341 0 0 time:Mon Mar 27 14:24:36 2017
+type:3 price:55 value:341 util_val:0 util_class:0 time:Thu Mar 30 00:09:22 2017
 
-type:2 price:40 value:78 80 13 time:Mon Mar 27 14:24:36 2017
+type:3 price:56 value:518 util_val:38 util_class:31 time:Thu Mar 30 00:09:22 2017
 
-type:2 price:40 value:188 49 94 time:Mon Mar 27 14:24:36 2017
+type:2 price:57 value:64 rating:96 difficulty:53 time:Thu Mar 30 00:09:22 2017
 
-type:2 price:45 value:353 41 74 time:Mon Mar 27 14:24:36 2017
-
-type:3 price:45 value:571 92 21 time:Mon Mar 27 14:24:36 2017
-
-type:3 price:47 value:472 46 4 time:Mon Mar 27 14:24:36 2017
-
-type:3 price:50 value:365 51 93 time:Mon Mar 27 14:24:36 2017
-
-type:1 price:50 value:192 0 0 time:Mon Mar 27 14:24:36 2017
-
-type:2 price:52 value:553 37 46 time:Mon Mar 27 14:24:36 2017
-
-type:3 price:57 value:255 47 77 time:Mon Mar 27 14:24:36 2017
-
-type:2 price:58 value:276 29 66 time:Mon Mar 27 14:24:36 2017
-
-type:1 price:58 value:465 0 0 time:Mon Mar 27 14:24:36 2017
+type:1 price:61 value:415 time:Thu Mar 30 00:09:22 2017
 
 
-boy:RHGCHFL girl:LNFILFU
+boy:HPBFNNO girl:NKXPHTQ
 
 Gifts exchanged
-type:2 price:2 value:596 29 75 time:Mon Mar 27 14:24:36 2017
+type:3 price:1 value:246 util_val:66 util_class:13 time:Thu Mar 30 00:09:22 2017
 
-type:3 price:5 value:600 2 46 time:Mon Mar 27 14:24:36 2017
+type:2 price:3 value:277 rating:0 difficulty:0 time:Thu Mar 30 00:09:22 2017
 
-type:2 price:6 value:529 54 36 time:Mon Mar 27 14:24:36 2017
+type:3 price:4 value:191 util_val:0 util_class:0 time:Thu Mar 30 00:09:22 2017
 
-type:1 price:6 value:490 0 0 time:Mon Mar 27 14:24:36 2017
+type:3 price:6 value:221 util_val:0 util_class:0 time:Thu Mar 30 00:09:22 2017
 
-type:2 price:6 value:106 83 51 time:Mon Mar 27 14:24:36 2017
+type:3 price:8 value:210 util_val:98 util_class:78 time:Thu Mar 30 00:09:22 2017
 
-type:2 price:8 value:136 9 92 time:Mon Mar 27 14:24:36 2017
+type:3 price:10 value:460 util_val:0 util_class:0 time:Thu Mar 30 00:09:22 2017
 
-type:3 price:10 value:133 61 60 time:Mon Mar 27 14:24:36 2017
+type:1 price:15 value:308 time:Thu Mar 30 00:09:22 2017
 
-type:1 price:11 value:329 0 0 time:Mon Mar 27 14:24:36 2017
+type:3 price:17 value:224 util_val:95 util_class:85 time:Thu Mar 30 00:09:22 2017
 
-type:2 price:12 value:157 24 56 time:Mon Mar 27 14:24:36 2017
+type:1 price:17 value:470 time:Thu Mar 30 00:09:22 2017
 
-type:2 price:13 value:598 93 84 time:Mon Mar 27 14:24:36 2017
+type:3 price:19 value:499 util_val:0 util_class:0 time:Thu Mar 30 00:09:22 2017
 
-type:1 price:14 value:483 0 0 time:Mon Mar 27 14:24:36 2017
+type:1 price:23 value:46 time:Thu Mar 30 00:09:22 2017
 
-type:1 price:16 value:13 0 0 time:Mon Mar 27 14:24:36 2017
+type:1 price:26 value:494 time:Thu Mar 30 00:09:22 2017
 
-type:1 price:18 value:275 0 0 time:Mon Mar 27 14:24:36 2017
+type:3 price:29 value:210 util_val:45 util_class:21 time:Thu Mar 30 00:09:22 2017
 
-type:3 price:23 value:329 95 26 time:Mon Mar 27 14:24:36 2017
+type:2 price:29 value:175 rating:9 difficulty:79 time:Thu Mar 30 00:09:22 2017
 
-type:1 price:27 value:80 0 0 time:Mon Mar 27 14:24:36 2017
+type:2 price:31 value:281 rating:57 difficulty:38 time:Thu Mar 30 00:09:22 2017
 
-type:1 price:27 value:391 0 0 time:Mon Mar 27 14:24:36 2017
+type:1 price:38 value:331 time:Thu Mar 30 00:09:22 2017
 
-type:3 price:28 value:373 90 90 time:Mon Mar 27 14:24:36 2017
+type:2 price:41 value:332 rating:41 difficulty:86 time:Thu Mar 30 00:09:22 2017
 
-type:2 price:28 value:403 70 90 time:Mon Mar 27 14:24:36 2017
+type:2 price:49 value:92 rating:64 difficulty:92 time:Thu Mar 30 00:09:22 2017
 
-type:3 price:32 value:376 56 3 time:Mon Mar 27 14:24:36 2017
+type:1 price:53 value:63 time:Thu Mar 30 00:09:22 2017
 
-type:3 price:34 value:427 68 16 time:Mon Mar 27 14:24:36 2017
+type:2 price:53 value:54 rating:76 difficulty:17 time:Thu Mar 30 00:09:22 2017
 
-type:2 price:34 value:337 72 46 time:Mon Mar 27 14:24:36 2017
+type:3 price:54 value:158 util_val:11 util_class:15 time:Thu Mar 30 00:09:22 2017
 
-type:1 price:34 value:341 0 0 time:Mon Mar 27 14:24:36 2017
+type:3 price:55 value:341 util_val:0 util_class:0 time:Thu Mar 30 00:09:22 2017
 
-type:2 price:40 value:78 80 13 time:Mon Mar 27 14:24:36 2017
+type:3 price:56 value:518 util_val:38 util_class:31 time:Thu Mar 30 00:09:22 2017
 
-type:2 price:40 value:188 49 94 time:Mon Mar 27 14:24:36 2017
+type:2 price:57 value:64 rating:96 difficulty:53 time:Thu Mar 30 00:09:22 2017
 
-type:2 price:45 value:353 41 74 time:Mon Mar 27 14:24:36 2017
-
-type:3 price:45 value:571 92 21 time:Mon Mar 27 14:24:36 2017
-
-type:3 price:47 value:472 46 4 time:Mon Mar 27 14:24:36 2017
-
-type:3 price:50 value:365 51 93 time:Mon Mar 27 14:24:36 2017
-
-type:1 price:50 value:192 0 0 time:Mon Mar 27 14:24:36 2017
-
-type:2 price:52 value:553 37 46 time:Mon Mar 27 14:24:36 2017
-
-type:3 price:57 value:255 47 77 time:Mon Mar 27 14:24:36 2017
-
-type:2 price:58 value:276 29 66 time:Mon Mar 27 14:24:36 2017
+type:1 price:61 value:415 time:Thu Mar 30 00:09:22 2017
 
 
-boy:LXOCRFV girl:DHXISSB
+boy:BEXJSNL girl:KFWTUET
 
 Gifts exchanged
-type:2 price:2 value:596 29 75 time:Mon Mar 27 14:24:36 2017
+type:3 price:1 value:246 util_val:66 util_class:13 time:Thu Mar 30 00:09:22 2017
 
-type:3 price:5 value:600 2 46 time:Mon Mar 27 14:24:36 2017
+type:2 price:3 value:277 rating:0 difficulty:0 time:Thu Mar 30 00:09:22 2017
 
-type:2 price:6 value:529 54 36 time:Mon Mar 27 14:24:36 2017
+type:3 price:4 value:191 util_val:0 util_class:0 time:Thu Mar 30 00:09:22 2017
 
-type:1 price:6 value:490 0 0 time:Mon Mar 27 14:24:36 2017
+type:3 price:6 value:221 util_val:0 util_class:0 time:Thu Mar 30 00:09:22 2017
 
-type:2 price:6 value:106 83 51 time:Mon Mar 27 14:24:36 2017
+type:3 price:8 value:210 util_val:98 util_class:78 time:Thu Mar 30 00:09:22 2017
 
-type:2 price:8 value:136 9 92 time:Mon Mar 27 14:24:36 2017
+type:3 price:10 value:460 util_val:0 util_class:0 time:Thu Mar 30 00:09:22 2017
 
-type:3 price:10 value:133 61 60 time:Mon Mar 27 14:24:36 2017
+type:1 price:15 value:308 time:Thu Mar 30 00:09:22 2017
 
-type:1 price:11 value:329 0 0 time:Mon Mar 27 14:24:36 2017
+type:3 price:17 value:224 util_val:95 util_class:85 time:Thu Mar 30 00:09:22 2017
 
-type:2 price:12 value:157 24 56 time:Mon Mar 27 14:24:36 2017
+type:1 price:17 value:470 time:Thu Mar 30 00:09:22 2017
 
-type:2 price:13 value:598 93 84 time:Mon Mar 27 14:24:36 2017
+type:3 price:19 value:499 util_val:0 util_class:0 time:Thu Mar 30 00:09:22 2017
 
-type:1 price:14 value:483 0 0 time:Mon Mar 27 14:24:36 2017
+type:1 price:23 value:46 time:Thu Mar 30 00:09:22 2017
 
-type:1 price:16 value:13 0 0 time:Mon Mar 27 14:24:36 2017
+type:1 price:26 value:494 time:Thu Mar 30 00:09:22 2017
 
-type:1 price:18 value:275 0 0 time:Mon Mar 27 14:24:36 2017
+type:3 price:29 value:210 util_val:45 util_class:21 time:Thu Mar 30 00:09:22 2017
 
-type:3 price:23 value:329 95 26 time:Mon Mar 27 14:24:36 2017
+type:2 price:29 value:175 rating:9 difficulty:79 time:Thu Mar 30 00:09:22 2017
 
-type:1 price:27 value:80 0 0 time:Mon Mar 27 14:24:36 2017
+type:2 price:31 value:281 rating:57 difficulty:38 time:Thu Mar 30 00:09:22 2017
 
-type:1 price:27 value:391 0 0 time:Mon Mar 27 14:24:36 2017
+type:1 price:38 value:331 time:Thu Mar 30 00:09:22 2017
 
-type:3 price:28 value:373 90 90 time:Mon Mar 27 14:24:36 2017
+type:2 price:41 value:332 rating:41 difficulty:86 time:Thu Mar 30 00:09:22 2017
 
-type:2 price:28 value:403 70 90 time:Mon Mar 27 14:24:36 2017
+type:2 price:49 value:92 rating:64 difficulty:92 time:Thu Mar 30 00:09:22 2017
 
-type:3 price:32 value:376 56 3 time:Mon Mar 27 14:24:36 2017
+type:1 price:53 value:63 time:Thu Mar 30 00:09:22 2017
 
-type:3 price:34 value:427 68 16 time:Mon Mar 27 14:24:36 2017
+type:2 price:53 value:54 rating:76 difficulty:17 time:Thu Mar 30 00:09:22 2017
 
-type:2 price:34 value:337 72 46 time:Mon Mar 27 14:24:36 2017
+type:3 price:54 value:158 util_val:11 util_class:15 time:Thu Mar 30 00:09:22 2017
 
-type:1 price:34 value:341 0 0 time:Mon Mar 27 14:24:36 2017
+type:3 price:55 value:341 util_val:0 util_class:0 time:Thu Mar 30 00:09:22 2017
 
-type:2 price:40 value:78 80 13 time:Mon Mar 27 14:24:36 2017
+type:3 price:56 value:518 util_val:38 util_class:31 time:Thu Mar 30 00:09:22 2017
 
-type:2 price:40 value:188 49 94 time:Mon Mar 27 14:24:36 2017
-
-type:2 price:45 value:353 41 74 time:Mon Mar 27 14:24:36 2017
-
-type:3 price:45 value:571 92 21 time:Mon Mar 27 14:24:36 2017
-
-type:3 price:47 value:472 46 4 time:Mon Mar 27 14:24:36 2017
-
-type:3 price:50 value:365 51 93 time:Mon Mar 27 14:24:36 2017
-
-type:1 price:50 value:192 0 0 time:Mon Mar 27 14:24:36 2017
-
-type:2 price:52 value:553 37 46 time:Mon Mar 27 14:24:36 2017
-
-type:3 price:57 value:255 47 77 time:Mon Mar 27 14:24:36 2017
+type:2 price:57 value:64 rating:96 difficulty:53 time:Thu Mar 30 00:09:22 2017
 
 
-boy:EDKMYBT girl:PXBIYVC
+boy:EDBOBPM girl:WHBTSTS
 
 Gifts exchanged
-type:2 price:2 value:596 29 75 time:Mon Mar 27 14:24:36 2017
+type:3 price:1 value:246 util_val:66 util_class:13 time:Thu Mar 30 00:09:22 2017
 
-type:3 price:5 value:600 2 46 time:Mon Mar 27 14:24:36 2017
+type:2 price:3 value:277 rating:0 difficulty:0 time:Thu Mar 30 00:09:22 2017
 
-type:2 price:6 value:529 54 36 time:Mon Mar 27 14:24:36 2017
+type:3 price:4 value:191 util_val:0 util_class:0 time:Thu Mar 30 00:09:22 2017
 
-type:1 price:6 value:490 0 0 time:Mon Mar 27 14:24:36 2017
+type:3 price:6 value:221 util_val:0 util_class:0 time:Thu Mar 30 00:09:22 2017
 
-type:2 price:6 value:106 83 51 time:Mon Mar 27 14:24:36 2017
+type:3 price:8 value:210 util_val:98 util_class:78 time:Thu Mar 30 00:09:22 2017
 
-type:2 price:8 value:136 9 92 time:Mon Mar 27 14:24:36 2017
+type:3 price:10 value:460 util_val:0 util_class:0 time:Thu Mar 30 00:09:22 2017
 
-type:3 price:10 value:133 61 60 time:Mon Mar 27 14:24:36 2017
+type:1 price:15 value:308 time:Thu Mar 30 00:09:22 2017
 
-type:1 price:11 value:329 0 0 time:Mon Mar 27 14:24:36 2017
+type:3 price:17 value:224 util_val:95 util_class:85 time:Thu Mar 30 00:09:22 2017
 
-type:2 price:12 value:157 24 56 time:Mon Mar 27 14:24:36 2017
+type:1 price:17 value:470 time:Thu Mar 30 00:09:22 2017
 
-type:2 price:13 value:598 93 84 time:Mon Mar 27 14:24:36 2017
+type:3 price:19 value:499 util_val:0 util_class:0 time:Thu Mar 30 00:09:22 2017
 
-type:1 price:14 value:483 0 0 time:Mon Mar 27 14:24:36 2017
+type:1 price:23 value:46 time:Thu Mar 30 00:09:22 2017
 
-type:1 price:16 value:13 0 0 time:Mon Mar 27 14:24:36 2017
+type:1 price:26 value:494 time:Thu Mar 30 00:09:22 2017
 
-type:1 price:18 value:275 0 0 time:Mon Mar 27 14:24:36 2017
+type:3 price:29 value:210 util_val:45 util_class:21 time:Thu Mar 30 00:09:22 2017
 
-type:3 price:23 value:329 95 26 time:Mon Mar 27 14:24:36 2017
+type:2 price:29 value:175 rating:9 difficulty:79 time:Thu Mar 30 00:09:22 2017
 
-type:1 price:27 value:80 0 0 time:Mon Mar 27 14:24:36 2017
+type:2 price:31 value:281 rating:57 difficulty:38 time:Thu Mar 30 00:09:22 2017
 
-type:1 price:27 value:391 0 0 time:Mon Mar 27 14:24:36 2017
+type:1 price:38 value:331 time:Thu Mar 30 00:09:22 2017
 
-type:3 price:28 value:373 90 90 time:Mon Mar 27 14:24:36 2017
+type:2 price:41 value:332 rating:41 difficulty:86 time:Thu Mar 30 00:09:22 2017
 
-type:2 price:28 value:403 70 90 time:Mon Mar 27 14:24:36 2017
+type:2 price:49 value:92 rating:64 difficulty:92 time:Thu Mar 30 00:09:22 2017
 
-type:3 price:32 value:376 56 3 time:Mon Mar 27 14:24:36 2017
+type:1 price:53 value:63 time:Thu Mar 30 00:09:22 2017
 
-type:3 price:34 value:427 68 16 time:Mon Mar 27 14:24:36 2017
+type:2 price:53 value:54 rating:76 difficulty:17 time:Thu Mar 30 00:09:22 2017
 
-type:2 price:34 value:337 72 46 time:Mon Mar 27 14:24:36 2017
+type:3 price:54 value:158 util_val:11 util_class:15 time:Thu Mar 30 00:09:22 2017
 
-type:1 price:34 value:341 0 0 time:Mon Mar 27 14:24:36 2017
+type:3 price:55 value:341 util_val:0 util_class:0 time:Thu Mar 30 00:09:22 2017
 
-type:2 price:40 value:78 80 13 time:Mon Mar 27 14:24:36 2017
-
-type:2 price:40 value:188 49 94 time:Mon Mar 27 14:24:36 2017
-
-type:2 price:45 value:353 41 74 time:Mon Mar 27 14:24:36 2017
-
-type:3 price:45 value:571 92 21 time:Mon Mar 27 14:24:36 2017
-
-type:3 price:47 value:472 46 4 time:Mon Mar 27 14:24:36 2017
-
-type:3 price:50 value:365 51 93 time:Mon Mar 27 14:24:36 2017
-
-type:1 price:50 value:192 0 0 time:Mon Mar 27 14:24:36 2017
-
-type:2 price:52 value:553 37 46 time:Mon Mar 27 14:24:36 2017
-
-type:3 price:57 value:255 47 77 time:Mon Mar 27 14:24:36 2017
+type:3 price:56 value:518 util_val:38 util_class:31 time:Thu Mar 30 00:09:22 2017
 
 
-boy:TWURVYK girl:PHIAPTX
+boy:PYRLLKO girl:JILXVXG
 
 Gifts exchanged
-type:2 price:2 value:596 29 75 time:Mon Mar 27 14:24:36 2017
+type:3 price:1 value:246 util_val:66 util_class:13 time:Thu Mar 30 00:09:22 2017
 
-type:3 price:5 value:600 2 46 time:Mon Mar 27 14:24:36 2017
+type:2 price:3 value:277 rating:0 difficulty:0 time:Thu Mar 30 00:09:22 2017
 
-type:2 price:6 value:529 54 36 time:Mon Mar 27 14:24:36 2017
+type:3 price:4 value:191 util_val:0 util_class:0 time:Thu Mar 30 00:09:22 2017
 
-type:1 price:6 value:490 0 0 time:Mon Mar 27 14:24:36 2017
+type:3 price:6 value:221 util_val:0 util_class:0 time:Thu Mar 30 00:09:22 2017
 
-type:2 price:6 value:106 83 51 time:Mon Mar 27 14:24:36 2017
+type:3 price:8 value:210 util_val:98 util_class:78 time:Thu Mar 30 00:09:22 2017
 
-type:2 price:8 value:136 9 92 time:Mon Mar 27 14:24:36 2017
+type:3 price:10 value:460 util_val:0 util_class:0 time:Thu Mar 30 00:09:22 2017
 
-type:3 price:10 value:133 61 60 time:Mon Mar 27 14:24:36 2017
+type:1 price:15 value:308 time:Thu Mar 30 00:09:22 2017
 
-type:1 price:11 value:329 0 0 time:Mon Mar 27 14:24:36 2017
+type:3 price:17 value:224 util_val:95 util_class:85 time:Thu Mar 30 00:09:22 2017
 
-type:2 price:12 value:157 24 56 time:Mon Mar 27 14:24:36 2017
+type:1 price:17 value:470 time:Thu Mar 30 00:09:22 2017
 
-type:2 price:13 value:598 93 84 time:Mon Mar 27 14:24:36 2017
+type:3 price:19 value:499 util_val:0 util_class:0 time:Thu Mar 30 00:09:22 2017
 
-type:1 price:14 value:483 0 0 time:Mon Mar 27 14:24:36 2017
+type:1 price:23 value:46 time:Thu Mar 30 00:09:22 2017
 
-type:1 price:16 value:13 0 0 time:Mon Mar 27 14:24:36 2017
+type:1 price:26 value:494 time:Thu Mar 30 00:09:22 2017
 
-type:1 price:18 value:275 0 0 time:Mon Mar 27 14:24:36 2017
+type:3 price:29 value:210 util_val:45 util_class:21 time:Thu Mar 30 00:09:22 2017
 
-type:3 price:23 value:329 95 26 time:Mon Mar 27 14:24:36 2017
+type:2 price:29 value:175 rating:9 difficulty:79 time:Thu Mar 30 00:09:22 2017
 
-type:1 price:27 value:80 0 0 time:Mon Mar 27 14:24:36 2017
+type:2 price:31 value:281 rating:57 difficulty:38 time:Thu Mar 30 00:09:22 2017
 
-type:1 price:27 value:391 0 0 time:Mon Mar 27 14:24:36 2017
+type:1 price:38 value:331 time:Thu Mar 30 00:09:22 2017
 
-type:3 price:28 value:373 90 90 time:Mon Mar 27 14:24:36 2017
+type:2 price:41 value:332 rating:41 difficulty:86 time:Thu Mar 30 00:09:22 2017
 
-type:2 price:28 value:403 70 90 time:Mon Mar 27 14:24:36 2017
+type:2 price:49 value:92 rating:64 difficulty:92 time:Thu Mar 30 00:09:22 2017
 
-type:3 price:32 value:376 56 3 time:Mon Mar 27 14:24:36 2017
+type:1 price:53 value:63 time:Thu Mar 30 00:09:22 2017
 
-type:3 price:34 value:427 68 16 time:Mon Mar 27 14:24:36 2017
+type:2 price:53 value:54 rating:76 difficulty:17 time:Thu Mar 30 00:09:22 2017
 
-type:2 price:34 value:337 72 46 time:Mon Mar 27 14:24:36 2017
-
-type:1 price:34 value:341 0 0 time:Mon Mar 27 14:24:36 2017
-
-type:2 price:40 value:78 80 13 time:Mon Mar 27 14:24:36 2017
-
-type:2 price:40 value:188 49 94 time:Mon Mar 27 14:24:36 2017
-
-type:2 price:45 value:353 41 74 time:Mon Mar 27 14:24:36 2017
-
-type:3 price:45 value:571 92 21 time:Mon Mar 27 14:24:36 2017
-
-type:3 price:47 value:472 46 4 time:Mon Mar 27 14:24:36 2017
-
-type:3 price:50 value:365 51 93 time:Mon Mar 27 14:24:36 2017
-
-type:1 price:50 value:192 0 0 time:Mon Mar 27 14:24:36 2017
+type:3 price:54 value:158 util_val:11 util_class:15 time:Thu Mar 30 00:09:22 2017
 
 
-boy:FEABLOS girl:SWOPJFU
+boy:PKTBAOC girl:WEMDHUJ
 
 Gifts exchanged
-type:2 price:2 value:596 29 75 time:Mon Mar 27 14:24:36 2017
+type:3 price:1 value:246 util_val:66 util_class:13 time:Thu Mar 30 00:09:22 2017
 
-type:3 price:5 value:600 2 46 time:Mon Mar 27 14:24:36 2017
+type:2 price:3 value:277 rating:0 difficulty:0 time:Thu Mar 30 00:09:22 2017
 
-type:2 price:6 value:529 54 36 time:Mon Mar 27 14:24:36 2017
+type:3 price:4 value:191 util_val:0 util_class:0 time:Thu Mar 30 00:09:22 2017
 
-type:1 price:6 value:490 0 0 time:Mon Mar 27 14:24:36 2017
+type:3 price:6 value:221 util_val:0 util_class:0 time:Thu Mar 30 00:09:22 2017
 
-type:2 price:6 value:106 83 51 time:Mon Mar 27 14:24:36 2017
+type:3 price:8 value:210 util_val:98 util_class:78 time:Thu Mar 30 00:09:22 2017
 
-type:2 price:8 value:136 9 92 time:Mon Mar 27 14:24:36 2017
+type:3 price:10 value:460 util_val:0 util_class:0 time:Thu Mar 30 00:09:22 2017
 
-type:3 price:10 value:133 61 60 time:Mon Mar 27 14:24:36 2017
+type:1 price:15 value:308 time:Thu Mar 30 00:09:22 2017
 
-type:1 price:11 value:329 0 0 time:Mon Mar 27 14:24:36 2017
+type:3 price:17 value:224 util_val:95 util_class:85 time:Thu Mar 30 00:09:22 2017
 
-type:2 price:12 value:157 24 56 time:Mon Mar 27 14:24:36 2017
+type:1 price:17 value:470 time:Thu Mar 30 00:09:22 2017
 
-type:2 price:13 value:598 93 84 time:Mon Mar 27 14:24:36 2017
+type:3 price:19 value:499 util_val:0 util_class:0 time:Thu Mar 30 00:09:22 2017
 
-type:1 price:14 value:483 0 0 time:Mon Mar 27 14:24:36 2017
+type:1 price:23 value:46 time:Thu Mar 30 00:09:22 2017
 
-type:1 price:16 value:13 0 0 time:Mon Mar 27 14:24:36 2017
+type:1 price:26 value:494 time:Thu Mar 30 00:09:22 2017
 
-type:1 price:18 value:275 0 0 time:Mon Mar 27 14:24:36 2017
+type:3 price:29 value:210 util_val:45 util_class:21 time:Thu Mar 30 00:09:22 2017
 
-type:3 price:23 value:329 95 26 time:Mon Mar 27 14:24:36 2017
+type:2 price:29 value:175 rating:9 difficulty:79 time:Thu Mar 30 00:09:22 2017
 
-type:1 price:27 value:80 0 0 time:Mon Mar 27 14:24:36 2017
+type:2 price:31 value:281 rating:57 difficulty:38 time:Thu Mar 30 00:09:22 2017
 
-type:1 price:27 value:391 0 0 time:Mon Mar 27 14:24:36 2017
+type:1 price:38 value:331 time:Thu Mar 30 00:09:22 2017
 
-type:3 price:28 value:373 90 90 time:Mon Mar 27 14:24:36 2017
+type:2 price:41 value:332 rating:41 difficulty:86 time:Thu Mar 30 00:09:22 2017
 
-type:2 price:28 value:403 70 90 time:Mon Mar 27 14:24:36 2017
+type:2 price:49 value:92 rating:64 difficulty:92 time:Thu Mar 30 00:09:22 2017
 
-type:3 price:32 value:376 56 3 time:Mon Mar 27 14:24:36 2017
+type:1 price:53 value:63 time:Thu Mar 30 00:09:22 2017
 
-type:3 price:34 value:427 68 16 time:Mon Mar 27 14:24:36 2017
+type:2 price:53 value:54 rating:76 difficulty:17 time:Thu Mar 30 00:09:22 2017
 
-type:2 price:34 value:337 72 46 time:Mon Mar 27 14:24:36 2017
-
-type:1 price:34 value:341 0 0 time:Mon Mar 27 14:24:36 2017
-
-type:2 price:40 value:78 80 13 time:Mon Mar 27 14:24:36 2017
-
-type:2 price:40 value:188 49 94 time:Mon Mar 27 14:24:36 2017
-
-type:2 price:45 value:353 41 74 time:Mon Mar 27 14:24:36 2017
-
-type:3 price:45 value:571 92 21 time:Mon Mar 27 14:24:36 2017
-
-type:3 price:47 value:472 46 4 time:Mon Mar 27 14:24:36 2017
-
-type:3 price:50 value:365 51 93 time:Mon Mar 27 14:24:36 2017
+type:3 price:54 value:158 util_val:11 util_class:15 time:Thu Mar 30 00:09:22 2017
 
 
-boy:DDRPUBX girl:ORYRLEK
+boy:LIHCPRK girl:MFCXJKU
 
 Gifts exchanged
-type:2 price:2 value:596 29 75 time:Mon Mar 27 14:24:36 2017
+type:3 price:1 value:246 util_val:66 util_class:13 time:Thu Mar 30 00:09:22 2017
 
-type:3 price:5 value:600 2 46 time:Mon Mar 27 14:24:36 2017
+type:2 price:3 value:277 rating:0 difficulty:0 time:Thu Mar 30 00:09:22 2017
 
-type:2 price:6 value:529 54 36 time:Mon Mar 27 14:24:36 2017
+type:3 price:4 value:191 util_val:0 util_class:0 time:Thu Mar 30 00:09:22 2017
 
-type:1 price:6 value:490 0 0 time:Mon Mar 27 14:24:36 2017
+type:3 price:6 value:221 util_val:0 util_class:0 time:Thu Mar 30 00:09:22 2017
 
-type:2 price:6 value:106 83 51 time:Mon Mar 27 14:24:36 2017
+type:3 price:8 value:210 util_val:98 util_class:78 time:Thu Mar 30 00:09:22 2017
 
-type:2 price:8 value:136 9 92 time:Mon Mar 27 14:24:36 2017
+type:3 price:10 value:460 util_val:0 util_class:0 time:Thu Mar 30 00:09:22 2017
 
-type:3 price:10 value:133 61 60 time:Mon Mar 27 14:24:36 2017
+type:1 price:15 value:308 time:Thu Mar 30 00:09:22 2017
 
-type:1 price:11 value:329 0 0 time:Mon Mar 27 14:24:36 2017
+type:3 price:17 value:224 util_val:95 util_class:85 time:Thu Mar 30 00:09:22 2017
 
-type:2 price:12 value:157 24 56 time:Mon Mar 27 14:24:36 2017
+type:1 price:17 value:470 time:Thu Mar 30 00:09:22 2017
 
-type:2 price:13 value:598 93 84 time:Mon Mar 27 14:24:36 2017
+type:3 price:19 value:499 util_val:0 util_class:0 time:Thu Mar 30 00:09:22 2017
 
-type:1 price:14 value:483 0 0 time:Mon Mar 27 14:24:36 2017
+type:1 price:23 value:46 time:Thu Mar 30 00:09:22 2017
 
-type:1 price:16 value:13 0 0 time:Mon Mar 27 14:24:36 2017
+type:1 price:26 value:494 time:Thu Mar 30 00:09:22 2017
 
-type:1 price:18 value:275 0 0 time:Mon Mar 27 14:24:36 2017
+type:3 price:29 value:210 util_val:45 util_class:21 time:Thu Mar 30 00:09:22 2017
 
-type:3 price:23 value:329 95 26 time:Mon Mar 27 14:24:36 2017
+type:2 price:29 value:175 rating:9 difficulty:79 time:Thu Mar 30 00:09:22 2017
 
-type:1 price:27 value:80 0 0 time:Mon Mar 27 14:24:36 2017
+type:2 price:31 value:281 rating:57 difficulty:38 time:Thu Mar 30 00:09:22 2017
 
-type:1 price:27 value:391 0 0 time:Mon Mar 27 14:24:36 2017
+type:1 price:38 value:331 time:Thu Mar 30 00:09:22 2017
 
-type:3 price:28 value:373 90 90 time:Mon Mar 27 14:24:36 2017
+type:2 price:41 value:332 rating:41 difficulty:86 time:Thu Mar 30 00:09:22 2017
 
-type:2 price:28 value:403 70 90 time:Mon Mar 27 14:24:36 2017
+type:2 price:49 value:92 rating:64 difficulty:92 time:Thu Mar 30 00:09:22 2017
 
-type:3 price:32 value:376 56 3 time:Mon Mar 27 14:24:36 2017
+type:1 price:53 value:63 time:Thu Mar 30 00:09:22 2017
 
-type:3 price:34 value:427 68 16 time:Mon Mar 27 14:24:36 2017
+type:2 price:53 value:54 rating:76 difficulty:17 time:Thu Mar 30 00:09:22 2017
 
-type:2 price:34 value:337 72 46 time:Mon Mar 27 14:24:36 2017
-
-type:1 price:34 value:341 0 0 time:Mon Mar 27 14:24:36 2017
-
-type:2 price:40 value:78 80 13 time:Mon Mar 27 14:24:36 2017
-
-type:2 price:40 value:188 49 94 time:Mon Mar 27 14:24:36 2017
+type:3 price:54 value:158 util_val:11 util_class:15 time:Thu Mar 30 00:09:22 2017
 
 
-boy:USPRTTD girl:TTNCXDY
+boy:MUJNCIG girl:MDLFTUH
 
 Gifts exchanged
-type:2 price:2 value:596 29 75 time:Mon Mar 27 14:24:36 2017
+type:3 price:1 value:246 util_val:66 util_class:13 time:Thu Mar 30 00:09:22 2017
 
-type:3 price:5 value:600 2 46 time:Mon Mar 27 14:24:36 2017
+type:2 price:3 value:277 rating:0 difficulty:0 time:Thu Mar 30 00:09:22 2017
 
-type:2 price:6 value:529 54 36 time:Mon Mar 27 14:24:36 2017
+type:3 price:4 value:191 util_val:0 util_class:0 time:Thu Mar 30 00:09:22 2017
 
-type:1 price:6 value:490 0 0 time:Mon Mar 27 14:24:36 2017
+type:3 price:6 value:221 util_val:0 util_class:0 time:Thu Mar 30 00:09:22 2017
 
-type:2 price:6 value:106 83 51 time:Mon Mar 27 14:24:36 2017
+type:3 price:8 value:210 util_val:98 util_class:78 time:Thu Mar 30 00:09:22 2017
 
-type:2 price:8 value:136 9 92 time:Mon Mar 27 14:24:36 2017
+type:3 price:10 value:460 util_val:0 util_class:0 time:Thu Mar 30 00:09:22 2017
 
-type:3 price:10 value:133 61 60 time:Mon Mar 27 14:24:36 2017
+type:1 price:15 value:308 time:Thu Mar 30 00:09:22 2017
 
-type:1 price:11 value:329 0 0 time:Mon Mar 27 14:24:36 2017
+type:3 price:17 value:224 util_val:95 util_class:85 time:Thu Mar 30 00:09:22 2017
 
-type:2 price:12 value:157 24 56 time:Mon Mar 27 14:24:36 2017
+type:1 price:17 value:470 time:Thu Mar 30 00:09:22 2017
 
-type:2 price:13 value:598 93 84 time:Mon Mar 27 14:24:36 2017
+type:3 price:19 value:499 util_val:0 util_class:0 time:Thu Mar 30 00:09:22 2017
 
-type:1 price:14 value:483 0 0 time:Mon Mar 27 14:24:36 2017
+type:1 price:23 value:46 time:Thu Mar 30 00:09:22 2017
 
-type:1 price:16 value:13 0 0 time:Mon Mar 27 14:24:36 2017
+type:1 price:26 value:494 time:Thu Mar 30 00:09:22 2017
 
-type:1 price:18 value:275 0 0 time:Mon Mar 27 14:24:36 2017
+type:3 price:29 value:210 util_val:45 util_class:21 time:Thu Mar 30 00:09:22 2017
 
-type:3 price:23 value:329 95 26 time:Mon Mar 27 14:24:36 2017
+type:2 price:29 value:175 rating:9 difficulty:79 time:Thu Mar 30 00:09:22 2017
 
-type:1 price:27 value:80 0 0 time:Mon Mar 27 14:24:36 2017
+type:2 price:31 value:281 rating:57 difficulty:38 time:Thu Mar 30 00:09:22 2017
 
-type:1 price:27 value:391 0 0 time:Mon Mar 27 14:24:36 2017
+type:1 price:38 value:331 time:Thu Mar 30 00:09:22 2017
 
-type:3 price:28 value:373 90 90 time:Mon Mar 27 14:24:36 2017
+type:2 price:41 value:332 rating:41 difficulty:86 time:Thu Mar 30 00:09:22 2017
 
-type:2 price:28 value:403 70 90 time:Mon Mar 27 14:24:36 2017
+type:2 price:49 value:92 rating:64 difficulty:92 time:Thu Mar 30 00:09:22 2017
 
-type:3 price:32 value:376 56 3 time:Mon Mar 27 14:24:36 2017
+type:1 price:53 value:63 time:Thu Mar 30 00:09:22 2017
 
-type:3 price:34 value:427 68 16 time:Mon Mar 27 14:24:36 2017
+type:2 price:53 value:54 rating:76 difficulty:17 time:Thu Mar 30 00:09:22 2017
 
-type:2 price:34 value:337 72 46 time:Mon Mar 27 14:24:36 2017
-
-type:1 price:34 value:341 0 0 time:Mon Mar 27 14:24:36 2017
-
-type:2 price:40 value:78 80 13 time:Mon Mar 27 14:24:36 2017
+type:3 price:54 value:158 util_val:11 util_class:15 time:Thu Mar 30 00:09:22 2017
 
 
-boy:GXMEVJF girl:JFGAVAA
+boy:BATNWFX girl:AIRMRNX
 
 Gifts exchanged
-type:2 price:2 value:596 29 75 time:Mon Mar 27 14:24:36 2017
+type:3 price:1 value:246 util_val:66 util_class:13 time:Thu Mar 30 00:09:22 2017
 
-type:3 price:5 value:600 2 46 time:Mon Mar 27 14:24:36 2017
+type:2 price:3 value:277 rating:0 difficulty:0 time:Thu Mar 30 00:09:22 2017
 
-type:2 price:6 value:529 54 36 time:Mon Mar 27 14:24:36 2017
+type:3 price:4 value:191 util_val:0 util_class:0 time:Thu Mar 30 00:09:22 2017
 
-type:1 price:6 value:490 0 0 time:Mon Mar 27 14:24:36 2017
+type:3 price:6 value:221 util_val:0 util_class:0 time:Thu Mar 30 00:09:22 2017
 
-type:2 price:6 value:106 83 51 time:Mon Mar 27 14:24:36 2017
+type:3 price:8 value:210 util_val:98 util_class:78 time:Thu Mar 30 00:09:22 2017
 
-type:2 price:8 value:136 9 92 time:Mon Mar 27 14:24:36 2017
+type:3 price:10 value:460 util_val:0 util_class:0 time:Thu Mar 30 00:09:22 2017
 
-type:3 price:10 value:133 61 60 time:Mon Mar 27 14:24:36 2017
+type:1 price:15 value:308 time:Thu Mar 30 00:09:22 2017
 
-type:1 price:11 value:329 0 0 time:Mon Mar 27 14:24:36 2017
+type:3 price:17 value:224 util_val:95 util_class:85 time:Thu Mar 30 00:09:22 2017
 
-type:2 price:12 value:157 24 56 time:Mon Mar 27 14:24:36 2017
+type:1 price:17 value:470 time:Thu Mar 30 00:09:22 2017
 
-type:2 price:13 value:598 93 84 time:Mon Mar 27 14:24:36 2017
+type:3 price:19 value:499 util_val:0 util_class:0 time:Thu Mar 30 00:09:22 2017
 
-type:1 price:14 value:483 0 0 time:Mon Mar 27 14:24:36 2017
+type:1 price:23 value:46 time:Thu Mar 30 00:09:22 2017
 
-type:1 price:16 value:13 0 0 time:Mon Mar 27 14:24:36 2017
+type:1 price:26 value:494 time:Thu Mar 30 00:09:22 2017
 
-type:1 price:18 value:275 0 0 time:Mon Mar 27 14:24:36 2017
+type:3 price:29 value:210 util_val:45 util_class:21 time:Thu Mar 30 00:09:22 2017
 
-type:3 price:23 value:329 95 26 time:Mon Mar 27 14:24:36 2017
+type:2 price:29 value:175 rating:9 difficulty:79 time:Thu Mar 30 00:09:22 2017
 
-type:1 price:27 value:80 0 0 time:Mon Mar 27 14:24:36 2017
+type:2 price:31 value:281 rating:57 difficulty:38 time:Thu Mar 30 00:09:22 2017
 
-type:1 price:27 value:391 0 0 time:Mon Mar 27 14:24:36 2017
+type:1 price:38 value:331 time:Thu Mar 30 00:09:22 2017
 
-type:3 price:28 value:373 90 90 time:Mon Mar 27 14:24:36 2017
+type:2 price:41 value:332 rating:41 difficulty:86 time:Thu Mar 30 00:09:22 2017
 
-type:2 price:28 value:403 70 90 time:Mon Mar 27 14:24:36 2017
+type:2 price:49 value:92 rating:64 difficulty:92 time:Thu Mar 30 00:09:22 2017
 
-type:3 price:32 value:376 56 3 time:Mon Mar 27 14:24:36 2017
+type:1 price:53 value:63 time:Thu Mar 30 00:09:22 2017
 
-type:3 price:34 value:427 68 16 time:Mon Mar 27 14:24:36 2017
-
-type:2 price:34 value:337 72 46 time:Mon Mar 27 14:24:36 2017
-
-type:1 price:34 value:341 0 0 time:Mon Mar 27 14:24:36 2017
+type:2 price:53 value:54 rating:76 difficulty:17 time:Thu Mar 30 00:09:22 2017
 
 
-boy:WGJRVAA girl:WAXYLPK
+boy:DTLENPA girl:IXBRSKU
 
 Gifts exchanged
-type:2 price:2 value:596 29 75 time:Mon Mar 27 14:24:36 2017
+type:3 price:1 value:246 util_val:66 util_class:13 time:Thu Mar 30 00:09:22 2017
 
-type:3 price:5 value:600 2 46 time:Mon Mar 27 14:24:36 2017
+type:2 price:3 value:277 rating:0 difficulty:0 time:Thu Mar 30 00:09:22 2017
 
-type:2 price:6 value:529 54 36 time:Mon Mar 27 14:24:36 2017
+type:3 price:4 value:191 util_val:0 util_class:0 time:Thu Mar 30 00:09:22 2017
 
-type:1 price:6 value:490 0 0 time:Mon Mar 27 14:24:36 2017
+type:3 price:6 value:221 util_val:0 util_class:0 time:Thu Mar 30 00:09:22 2017
 
-type:2 price:6 value:106 83 51 time:Mon Mar 27 14:24:36 2017
+type:3 price:8 value:210 util_val:98 util_class:78 time:Thu Mar 30 00:09:22 2017
 
-type:2 price:8 value:136 9 92 time:Mon Mar 27 14:24:36 2017
+type:3 price:10 value:460 util_val:0 util_class:0 time:Thu Mar 30 00:09:22 2017
 
-type:3 price:10 value:133 61 60 time:Mon Mar 27 14:24:36 2017
+type:1 price:15 value:308 time:Thu Mar 30 00:09:22 2017
 
-type:1 price:11 value:329 0 0 time:Mon Mar 27 14:24:36 2017
+type:3 price:17 value:224 util_val:95 util_class:85 time:Thu Mar 30 00:09:22 2017
 
-type:2 price:12 value:157 24 56 time:Mon Mar 27 14:24:36 2017
+type:1 price:17 value:470 time:Thu Mar 30 00:09:22 2017
 
-type:2 price:13 value:598 93 84 time:Mon Mar 27 14:24:36 2017
+type:3 price:19 value:499 util_val:0 util_class:0 time:Thu Mar 30 00:09:22 2017
 
-type:1 price:14 value:483 0 0 time:Mon Mar 27 14:24:36 2017
+type:1 price:23 value:46 time:Thu Mar 30 00:09:22 2017
 
-type:1 price:16 value:13 0 0 time:Mon Mar 27 14:24:36 2017
+type:1 price:26 value:494 time:Thu Mar 30 00:09:22 2017
 
-type:1 price:18 value:275 0 0 time:Mon Mar 27 14:24:36 2017
+type:3 price:29 value:210 util_val:45 util_class:21 time:Thu Mar 30 00:09:22 2017
 
-type:3 price:23 value:329 95 26 time:Mon Mar 27 14:24:36 2017
+type:2 price:29 value:175 rating:9 difficulty:79 time:Thu Mar 30 00:09:22 2017
 
-type:1 price:27 value:80 0 0 time:Mon Mar 27 14:24:36 2017
+type:2 price:31 value:281 rating:57 difficulty:38 time:Thu Mar 30 00:09:22 2017
 
+type:1 price:38 value:331 time:Thu Mar 30 00:09:22 2017
 
-boy:PVRSUTE girl:BYMRDFJ
+type:2 price:41 value:332 rating:41 difficulty:86 time:Thu Mar 30 00:09:22 2017
 
-Gifts exchanged
-type:2 price:2 value:596 29 75 time:Mon Mar 27 14:24:36 2017
+type:2 price:49 value:92 rating:64 difficulty:92 time:Thu Mar 30 00:09:22 2017
 
-type:3 price:5 value:600 2 46 time:Mon Mar 27 14:24:36 2017
+type:1 price:53 value:63 time:Thu Mar 30 00:09:22 2017
 
-type:2 price:6 value:529 54 36 time:Mon Mar 27 14:24:36 2017
-
-type:1 price:6 value:490 0 0 time:Mon Mar 27 14:24:36 2017
-
-type:2 price:6 value:106 83 51 time:Mon Mar 27 14:24:36 2017
-
-type:2 price:8 value:136 9 92 time:Mon Mar 27 14:24:36 2017
-
-type:3 price:10 value:133 61 60 time:Mon Mar 27 14:24:36 2017
-
-type:1 price:11 value:329 0 0 time:Mon Mar 27 14:24:36 2017
-
-type:2 price:12 value:157 24 56 time:Mon Mar 27 14:24:36 2017
-
-type:2 price:13 value:598 93 84 time:Mon Mar 27 14:24:36 2017
-
-type:1 price:14 value:483 0 0 time:Mon Mar 27 14:24:36 2017
-
-type:1 price:16 value:13 0 0 time:Mon Mar 27 14:24:36 2017
-
-type:1 price:18 value:275 0 0 time:Mon Mar 27 14:24:36 2017
-
-type:3 price:23 value:329 95 26 time:Mon Mar 27 14:24:36 2017
+type:2 price:53 value:54 rating:76 difficulty:17 time:Thu Mar 30 00:09:22 2017
 
 
-boy:NJMQGUD girl:MCIYMUO
+boy:LDLERAE girl:DDTOAPI
 
 Gifts exchanged
-type:2 price:2 value:596 29 75 time:Mon Mar 27 14:24:36 2017
+type:3 price:1 value:246 util_val:66 util_class:13 time:Thu Mar 30 00:09:22 2017
 
-type:3 price:5 value:600 2 46 time:Mon Mar 27 14:24:36 2017
+type:2 price:3 value:277 rating:0 difficulty:0 time:Thu Mar 30 00:09:22 2017
 
-type:2 price:6 value:529 54 36 time:Mon Mar 27 14:24:36 2017
+type:3 price:4 value:191 util_val:0 util_class:0 time:Thu Mar 30 00:09:22 2017
 
-type:1 price:6 value:490 0 0 time:Mon Mar 27 14:24:36 2017
+type:3 price:6 value:221 util_val:0 util_class:0 time:Thu Mar 30 00:09:22 2017
 
-type:2 price:6 value:106 83 51 time:Mon Mar 27 14:24:36 2017
+type:3 price:8 value:210 util_val:98 util_class:78 time:Thu Mar 30 00:09:22 2017
 
-type:2 price:8 value:136 9 92 time:Mon Mar 27 14:24:36 2017
+type:3 price:10 value:460 util_val:0 util_class:0 time:Thu Mar 30 00:09:22 2017
 
-type:3 price:10 value:133 61 60 time:Mon Mar 27 14:24:36 2017
+type:1 price:15 value:308 time:Thu Mar 30 00:09:22 2017
 
-type:1 price:11 value:329 0 0 time:Mon Mar 27 14:24:36 2017
+type:3 price:17 value:224 util_val:95 util_class:85 time:Thu Mar 30 00:09:22 2017
 
-type:2 price:12 value:157 24 56 time:Mon Mar 27 14:24:36 2017
+type:1 price:17 value:470 time:Thu Mar 30 00:09:22 2017
 
-type:2 price:13 value:598 93 84 time:Mon Mar 27 14:24:36 2017
+type:3 price:19 value:499 util_val:0 util_class:0 time:Thu Mar 30 00:09:22 2017
 
-type:1 price:14 value:483 0 0 time:Mon Mar 27 14:24:36 2017
+type:1 price:23 value:46 time:Thu Mar 30 00:09:22 2017
 
-type:1 price:16 value:13 0 0 time:Mon Mar 27 14:24:36 2017
+type:1 price:26 value:494 time:Thu Mar 30 00:09:22 2017
 
-type:1 price:18 value:275 0 0 time:Mon Mar 27 14:24:36 2017
+type:3 price:29 value:210 util_val:45 util_class:21 time:Thu Mar 30 00:09:22 2017
 
-type:3 price:23 value:329 95 26 time:Mon Mar 27 14:24:36 2017
+type:2 price:29 value:175 rating:9 difficulty:79 time:Thu Mar 30 00:09:22 2017
 
+type:2 price:31 value:281 rating:57 difficulty:38 time:Thu Mar 30 00:09:22 2017
 
-boy:XEGNBCC girl:FUOAPEV
+type:1 price:38 value:331 time:Thu Mar 30 00:09:22 2017
 
-Gifts exchanged
-type:2 price:2 value:596 29 75 time:Mon Mar 27 14:24:36 2017
+type:2 price:41 value:332 rating:41 difficulty:86 time:Thu Mar 30 00:09:22 2017
 
-type:3 price:5 value:600 2 46 time:Mon Mar 27 14:24:36 2017
-
-type:2 price:6 value:529 54 36 time:Mon Mar 27 14:24:36 2017
-
-type:1 price:6 value:490 0 0 time:Mon Mar 27 14:24:36 2017
-
-type:2 price:6 value:106 83 51 time:Mon Mar 27 14:24:36 2017
-
-type:2 price:8 value:136 9 92 time:Mon Mar 27 14:24:36 2017
-
-type:3 price:10 value:133 61 60 time:Mon Mar 27 14:24:36 2017
-
-type:1 price:11 value:329 0 0 time:Mon Mar 27 14:24:36 2017
-
-type:2 price:12 value:157 24 56 time:Mon Mar 27 14:24:36 2017
-
-type:2 price:13 value:598 93 84 time:Mon Mar 27 14:24:36 2017
-
-type:1 price:14 value:483 0 0 time:Mon Mar 27 14:24:36 2017
-
-type:1 price:16 value:13 0 0 time:Mon Mar 27 14:24:36 2017
-
-type:1 price:18 value:275 0 0 time:Mon Mar 27 14:24:36 2017
-
-type:3 price:23 value:329 95 26 time:Mon Mar 27 14:24:36 2017
-
-type:1 price:27 value:80 0 0 time:Mon Mar 27 14:24:36 2017
-
-type:1 price:27 value:391 0 0 time:Mon Mar 27 14:24:36 2017
-
-type:3 price:28 value:373 90 90 time:Mon Mar 27 14:24:36 2017
-
-type:2 price:28 value:403 70 90 time:Mon Mar 27 14:24:36 2017
-
-type:3 price:32 value:376 56 3 time:Mon Mar 27 14:24:36 2017
-
-type:3 price:34 value:427 68 16 time:Mon Mar 27 14:24:36 2017
-
-type:2 price:34 value:337 72 46 time:Mon Mar 27 14:24:36 2017
-
-type:1 price:34 value:341 0 0 time:Mon Mar 27 14:24:36 2017
-
-type:2 price:40 value:78 80 13 time:Mon Mar 27 14:24:36 2017
-
-type:2 price:40 value:188 49 94 time:Mon Mar 27 14:24:36 2017
-
-type:2 price:45 value:353 41 74 time:Mon Mar 27 14:24:36 2017
-
-type:3 price:45 value:571 92 21 time:Mon Mar 27 14:24:36 2017
-
-type:3 price:47 value:472 46 4 time:Mon Mar 27 14:24:36 2017
-
-type:3 price:50 value:365 51 93 time:Mon Mar 27 14:24:36 2017
-
-type:1 price:50 value:192 0 0 time:Mon Mar 27 14:24:36 2017
-
-type:2 price:52 value:553 37 46 time:Mon Mar 27 14:24:36 2017
+type:2 price:49 value:92 rating:64 difficulty:92 time:Thu Mar 30 00:09:22 2017
 
 
-boy:TRYIWUK girl:GELNWPM
+boy:VJMXXGF girl:MVVVKKR
 
 Gifts exchanged
-type:2 price:2 value:596 29 75 time:Mon Mar 27 14:24:36 2017
+type:3 price:1 value:246 util_val:66 util_class:13 time:Thu Mar 30 00:09:22 2017
 
-type:3 price:5 value:600 2 46 time:Mon Mar 27 14:24:36 2017
+type:2 price:3 value:277 rating:0 difficulty:0 time:Thu Mar 30 00:09:22 2017
 
-type:2 price:6 value:529 54 36 time:Mon Mar 27 14:24:36 2017
+type:3 price:4 value:191 util_val:0 util_class:0 time:Thu Mar 30 00:09:22 2017
 
-type:1 price:6 value:490 0 0 time:Mon Mar 27 14:24:36 2017
+type:3 price:6 value:221 util_val:0 util_class:0 time:Thu Mar 30 00:09:22 2017
 
-type:2 price:6 value:106 83 51 time:Mon Mar 27 14:24:36 2017
+type:3 price:8 value:210 util_val:98 util_class:78 time:Thu Mar 30 00:09:22 2017
 
-type:2 price:8 value:136 9 92 time:Mon Mar 27 14:24:36 2017
+type:3 price:10 value:460 util_val:0 util_class:0 time:Thu Mar 30 00:09:22 2017
 
-type:3 price:10 value:133 61 60 time:Mon Mar 27 14:24:36 2017
+type:1 price:15 value:308 time:Thu Mar 30 00:09:22 2017
 
-type:1 price:11 value:329 0 0 time:Mon Mar 27 14:24:36 2017
+type:3 price:17 value:224 util_val:95 util_class:85 time:Thu Mar 30 00:09:22 2017
 
-type:2 price:12 value:157 24 56 time:Mon Mar 27 14:24:36 2017
+type:1 price:17 value:470 time:Thu Mar 30 00:09:22 2017
 
-type:2 price:13 value:598 93 84 time:Mon Mar 27 14:24:36 2017
+type:3 price:19 value:499 util_val:0 util_class:0 time:Thu Mar 30 00:09:22 2017
 
-type:1 price:14 value:483 0 0 time:Mon Mar 27 14:24:36 2017
+type:1 price:23 value:46 time:Thu Mar 30 00:09:22 2017
 
-type:1 price:16 value:13 0 0 time:Mon Mar 27 14:24:36 2017
+type:1 price:26 value:494 time:Thu Mar 30 00:09:22 2017
 
-type:1 price:18 value:275 0 0 time:Mon Mar 27 14:24:36 2017
+type:3 price:29 value:210 util_val:45 util_class:21 time:Thu Mar 30 00:09:22 2017
 
-type:3 price:23 value:329 95 26 time:Mon Mar 27 14:24:36 2017
+type:2 price:29 value:175 rating:9 difficulty:79 time:Thu Mar 30 00:09:22 2017
 
-type:1 price:27 value:80 0 0 time:Mon Mar 27 14:24:36 2017
+type:2 price:31 value:281 rating:57 difficulty:38 time:Thu Mar 30 00:09:22 2017
 
+type:1 price:38 value:331 time:Thu Mar 30 00:09:22 2017
 
-boy:VXVUXBU girl:JFMERSR
-
-Gifts exchanged
-type:2 price:2 value:596 29 75 time:Mon Mar 27 14:24:36 2017
-
-type:3 price:5 value:600 2 46 time:Mon Mar 27 14:24:36 2017
-
-type:2 price:6 value:529 54 36 time:Mon Mar 27 14:24:36 2017
-
-type:1 price:6 value:490 0 0 time:Mon Mar 27 14:24:36 2017
-
-type:2 price:6 value:106 83 51 time:Mon Mar 27 14:24:36 2017
-
-type:2 price:8 value:136 9 92 time:Mon Mar 27 14:24:36 2017
-
-type:3 price:10 value:133 61 60 time:Mon Mar 27 14:24:36 2017
-
-type:1 price:11 value:329 0 0 time:Mon Mar 27 14:24:36 2017
-
-type:2 price:12 value:157 24 56 time:Mon Mar 27 14:24:36 2017
-
-type:2 price:13 value:598 93 84 time:Mon Mar 27 14:24:36 2017
-
-type:1 price:14 value:483 0 0 time:Mon Mar 27 14:24:36 2017
-
-type:1 price:16 value:13 0 0 time:Mon Mar 27 14:24:36 2017
-
-type:1 price:18 value:275 0 0 time:Mon Mar 27 14:24:36 2017
-
-type:3 price:23 value:329 95 26 time:Mon Mar 27 14:24:36 2017
+type:2 price:41 value:332 rating:41 difficulty:86 time:Thu Mar 30 00:09:22 2017
 
 
-boy:YHBLAPV girl:SMGTENS
+boy:CAOLBRU girl:PWIPNMJ
 
 Gifts exchanged
-type:2 price:2 value:596 29 75 time:Mon Mar 27 14:24:36 2017
+type:3 price:1 value:246 util_val:66 util_class:13 time:Thu Mar 30 00:09:22 2017
 
-type:3 price:5 value:600 2 46 time:Mon Mar 27 14:24:36 2017
+type:2 price:3 value:277 rating:0 difficulty:0 time:Thu Mar 30 00:09:22 2017
 
-type:2 price:6 value:529 54 36 time:Mon Mar 27 14:24:36 2017
+type:3 price:4 value:191 util_val:0 util_class:0 time:Thu Mar 30 00:09:22 2017
 
-type:1 price:6 value:490 0 0 time:Mon Mar 27 14:24:36 2017
+type:3 price:6 value:221 util_val:0 util_class:0 time:Thu Mar 30 00:09:22 2017
 
-type:2 price:6 value:106 83 51 time:Mon Mar 27 14:24:36 2017
+type:3 price:8 value:210 util_val:98 util_class:78 time:Thu Mar 30 00:09:22 2017
 
-type:2 price:8 value:136 9 92 time:Mon Mar 27 14:24:36 2017
+type:3 price:10 value:460 util_val:0 util_class:0 time:Thu Mar 30 00:09:22 2017
 
-type:3 price:10 value:133 61 60 time:Mon Mar 27 14:24:36 2017
+type:1 price:15 value:308 time:Thu Mar 30 00:09:22 2017
 
-type:1 price:11 value:329 0 0 time:Mon Mar 27 14:24:36 2017
+type:3 price:17 value:224 util_val:95 util_class:85 time:Thu Mar 30 00:09:22 2017
 
-type:2 price:12 value:157 24 56 time:Mon Mar 27 14:24:36 2017
+type:1 price:17 value:470 time:Thu Mar 30 00:09:22 2017
 
-type:2 price:13 value:598 93 84 time:Mon Mar 27 14:24:36 2017
+type:3 price:19 value:499 util_val:0 util_class:0 time:Thu Mar 30 00:09:22 2017
 
-type:1 price:14 value:483 0 0 time:Mon Mar 27 14:24:36 2017
+type:1 price:23 value:46 time:Thu Mar 30 00:09:22 2017
 
-type:1 price:16 value:13 0 0 time:Mon Mar 27 14:24:36 2017
+type:1 price:26 value:494 time:Thu Mar 30 00:09:22 2017
 
-type:1 price:18 value:275 0 0 time:Mon Mar 27 14:24:36 2017
+type:3 price:29 value:210 util_val:45 util_class:21 time:Thu Mar 30 00:09:22 2017
 
-type:3 price:23 value:329 95 26 time:Mon Mar 27 14:24:36 2017
+type:2 price:29 value:175 rating:9 difficulty:79 time:Thu Mar 30 00:09:22 2017
 
-type:1 price:27 value:80 0 0 time:Mon Mar 27 14:24:36 2017
+type:2 price:31 value:281 rating:57 difficulty:38 time:Thu Mar 30 00:09:22 2017
 
-type:1 price:27 value:391 0 0 time:Mon Mar 27 14:24:36 2017
+type:1 price:38 value:331 time:Thu Mar 30 00:09:22 2017
 
-type:3 price:28 value:373 90 90 time:Mon Mar 27 14:24:36 2017
-
-type:2 price:28 value:403 70 90 time:Mon Mar 27 14:24:36 2017
-
-type:3 price:32 value:376 56 3 time:Mon Mar 27 14:24:36 2017
-
-type:3 price:34 value:427 68 16 time:Mon Mar 27 14:24:36 2017
-
-type:2 price:34 value:337 72 46 time:Mon Mar 27 14:24:36 2017
-
-type:1 price:34 value:341 0 0 time:Mon Mar 27 14:24:36 2017
-
-type:2 price:40 value:78 80 13 time:Mon Mar 27 14:24:36 2017
-
-type:2 price:40 value:188 49 94 time:Mon Mar 27 14:24:36 2017
-
-type:2 price:45 value:353 41 74 time:Mon Mar 27 14:24:36 2017
-
-type:3 price:45 value:571 92 21 time:Mon Mar 27 14:24:36 2017
-
-type:3 price:47 value:472 46 4 time:Mon Mar 27 14:24:36 2017
-
-type:3 price:50 value:365 51 93 time:Mon Mar 27 14:24:36 2017
-
-type:1 price:50 value:192 0 0 time:Mon Mar 27 14:24:36 2017
-
-type:2 price:52 value:553 37 46 time:Mon Mar 27 14:24:36 2017
-
-type:3 price:57 value:255 47 77 time:Mon Mar 27 14:24:36 2017
-
-type:2 price:58 value:276 29 66 time:Mon Mar 27 14:24:36 2017
-
-type:1 price:58 value:465 0 0 time:Mon Mar 27 14:24:36 2017
-
-type:3 price:58 value:170 73 1 time:Mon Mar 27 14:24:36 2017
+type:2 price:41 value:332 rating:41 difficulty:86 time:Thu Mar 30 00:09:22 2017
 
 
-boy:OVRKVHB girl:TTSSFSN
+boy:YMITYEN girl:VWCUNRK
 
 Gifts exchanged
-type:2 price:2 value:596 29 75 time:Mon Mar 27 14:24:36 2017
+type:3 price:1 value:246 util_val:66 util_class:13 time:Thu Mar 30 00:09:22 2017
 
-type:3 price:5 value:600 2 46 time:Mon Mar 27 14:24:36 2017
+type:2 price:3 value:277 rating:0 difficulty:0 time:Thu Mar 30 00:09:22 2017
 
-type:2 price:6 value:529 54 36 time:Mon Mar 27 14:24:36 2017
+type:3 price:4 value:191 util_val:0 util_class:0 time:Thu Mar 30 00:09:22 2017
 
-type:1 price:6 value:490 0 0 time:Mon Mar 27 14:24:36 2017
+type:3 price:6 value:221 util_val:0 util_class:0 time:Thu Mar 30 00:09:22 2017
 
-type:2 price:6 value:106 83 51 time:Mon Mar 27 14:24:36 2017
+type:3 price:8 value:210 util_val:98 util_class:78 time:Thu Mar 30 00:09:22 2017
 
-type:2 price:8 value:136 9 92 time:Mon Mar 27 14:24:36 2017
+type:3 price:10 value:460 util_val:0 util_class:0 time:Thu Mar 30 00:09:22 2017
 
-type:3 price:10 value:133 61 60 time:Mon Mar 27 14:24:36 2017
+type:1 price:15 value:308 time:Thu Mar 30 00:09:22 2017
 
-type:1 price:11 value:329 0 0 time:Mon Mar 27 14:24:36 2017
+type:3 price:17 value:224 util_val:95 util_class:85 time:Thu Mar 30 00:09:22 2017
 
-type:2 price:12 value:157 24 56 time:Mon Mar 27 14:24:36 2017
+type:1 price:17 value:470 time:Thu Mar 30 00:09:22 2017
 
-type:2 price:13 value:598 93 84 time:Mon Mar 27 14:24:36 2017
+type:3 price:19 value:499 util_val:0 util_class:0 time:Thu Mar 30 00:09:22 2017
 
-type:1 price:14 value:483 0 0 time:Mon Mar 27 14:24:36 2017
+type:1 price:23 value:46 time:Thu Mar 30 00:09:22 2017
 
-type:1 price:16 value:13 0 0 time:Mon Mar 27 14:24:36 2017
+type:1 price:26 value:494 time:Thu Mar 30 00:09:22 2017
 
+type:3 price:29 value:210 util_val:45 util_class:21 time:Thu Mar 30 00:09:22 2017
 
-boy:XCFUUAO girl:UBKIYNT
+type:2 price:29 value:175 rating:9 difficulty:79 time:Thu Mar 30 00:09:22 2017
 
-Gifts exchanged
-type:2 price:2 value:596 29 75 time:Mon Mar 27 14:24:36 2017
+type:2 price:31 value:281 rating:57 difficulty:38 time:Thu Mar 30 00:09:22 2017
 
-type:3 price:5 value:600 2 46 time:Mon Mar 27 14:24:36 2017
+type:1 price:38 value:331 time:Thu Mar 30 00:09:22 2017
 
-type:2 price:6 value:529 54 36 time:Mon Mar 27 14:24:36 2017
-
-type:1 price:6 value:490 0 0 time:Mon Mar 27 14:24:36 2017
-
-type:2 price:6 value:106 83 51 time:Mon Mar 27 14:24:36 2017
-
-type:2 price:8 value:136 9 92 time:Mon Mar 27 14:24:36 2017
-
-type:3 price:10 value:133 61 60 time:Mon Mar 27 14:24:36 2017
-
-type:1 price:11 value:329 0 0 time:Mon Mar 27 14:24:36 2017
-
-type:2 price:12 value:157 24 56 time:Mon Mar 27 14:24:36 2017
-
-type:2 price:13 value:598 93 84 time:Mon Mar 27 14:24:36 2017
-
-type:1 price:14 value:483 0 0 time:Mon Mar 27 14:24:36 2017
-
-type:1 price:16 value:13 0 0 time:Mon Mar 27 14:24:36 2017
-
-type:1 price:18 value:275 0 0 time:Mon Mar 27 14:24:36 2017
-
-type:3 price:23 value:329 95 26 time:Mon Mar 27 14:24:36 2017
-
-type:1 price:27 value:80 0 0 time:Mon Mar 27 14:24:36 2017
-
-type:1 price:27 value:391 0 0 time:Mon Mar 27 14:24:36 2017
-
-type:3 price:28 value:373 90 90 time:Mon Mar 27 14:24:36 2017
-
-type:2 price:28 value:403 70 90 time:Mon Mar 27 14:24:36 2017
-
-type:3 price:32 value:376 56 3 time:Mon Mar 27 14:24:36 2017
-
-type:3 price:34 value:427 68 16 time:Mon Mar 27 14:24:36 2017
-
-type:2 price:34 value:337 72 46 time:Mon Mar 27 14:24:36 2017
-
-type:1 price:34 value:341 0 0 time:Mon Mar 27 14:24:36 2017
-
-type:2 price:40 value:78 80 13 time:Mon Mar 27 14:24:36 2017
-
-type:2 price:40 value:188 49 94 time:Mon Mar 27 14:24:36 2017
+type:2 price:41 value:332 rating:41 difficulty:86 time:Thu Mar 30 00:09:22 2017
 
 
-boy:TMEDKOR girl:GVVKFNR
+boy:GJEEEIN girl:NPEDQXM
 
 Gifts exchanged
-type:2 price:2 value:596 29 75 time:Mon Mar 27 14:24:36 2017
+type:3 price:1 value:246 util_val:66 util_class:13 time:Thu Mar 30 00:09:22 2017
 
-type:3 price:5 value:600 2 46 time:Mon Mar 27 14:24:36 2017
+type:2 price:3 value:277 rating:0 difficulty:0 time:Thu Mar 30 00:09:22 2017
 
-type:2 price:6 value:529 54 36 time:Mon Mar 27 14:24:36 2017
+type:3 price:4 value:191 util_val:0 util_class:0 time:Thu Mar 30 00:09:22 2017
 
-type:1 price:6 value:490 0 0 time:Mon Mar 27 14:24:36 2017
+type:3 price:6 value:221 util_val:0 util_class:0 time:Thu Mar 30 00:09:22 2017
 
-type:2 price:6 value:106 83 51 time:Mon Mar 27 14:24:36 2017
+type:3 price:8 value:210 util_val:98 util_class:78 time:Thu Mar 30 00:09:22 2017
 
-type:2 price:8 value:136 9 92 time:Mon Mar 27 14:24:36 2017
+type:3 price:10 value:460 util_val:0 util_class:0 time:Thu Mar 30 00:09:22 2017
 
-type:3 price:10 value:133 61 60 time:Mon Mar 27 14:24:36 2017
+type:1 price:15 value:308 time:Thu Mar 30 00:09:22 2017
 
-type:1 price:11 value:329 0 0 time:Mon Mar 27 14:24:36 2017
+type:3 price:17 value:224 util_val:95 util_class:85 time:Thu Mar 30 00:09:22 2017
 
-type:2 price:12 value:157 24 56 time:Mon Mar 27 14:24:36 2017
+type:1 price:17 value:470 time:Thu Mar 30 00:09:22 2017
 
-type:2 price:13 value:598 93 84 time:Mon Mar 27 14:24:36 2017
+type:3 price:19 value:499 util_val:0 util_class:0 time:Thu Mar 30 00:09:22 2017
 
-type:1 price:14 value:483 0 0 time:Mon Mar 27 14:24:36 2017
+type:1 price:23 value:46 time:Thu Mar 30 00:09:22 2017
 
-type:1 price:16 value:13 0 0 time:Mon Mar 27 14:24:36 2017
+type:1 price:26 value:494 time:Thu Mar 30 00:09:22 2017
 
-type:1 price:18 value:275 0 0 time:Mon Mar 27 14:24:36 2017
+type:3 price:29 value:210 util_val:45 util_class:21 time:Thu Mar 30 00:09:22 2017
 
-type:3 price:23 value:329 95 26 time:Mon Mar 27 14:24:36 2017
+type:2 price:29 value:175 rating:9 difficulty:79 time:Thu Mar 30 00:09:22 2017
 
-type:1 price:27 value:80 0 0 time:Mon Mar 27 14:24:36 2017
+type:2 price:31 value:281 rating:57 difficulty:38 time:Thu Mar 30 00:09:22 2017
 
-type:1 price:27 value:391 0 0 time:Mon Mar 27 14:24:36 2017
-
-type:3 price:28 value:373 90 90 time:Mon Mar 27 14:24:36 2017
-
-type:2 price:28 value:403 70 90 time:Mon Mar 27 14:24:36 2017
-
-type:3 price:32 value:376 56 3 time:Mon Mar 27 14:24:36 2017
-
-type:3 price:34 value:427 68 16 time:Mon Mar 27 14:24:36 2017
-
-type:2 price:34 value:337 72 46 time:Mon Mar 27 14:24:36 2017
+type:1 price:38 value:331 time:Thu Mar 30 00:09:22 2017
 
 
-boy:DRBWSMP girl:NCWPCVH
+boy:NWGNWVN girl:UMLNKNS
 
 Gifts exchanged
-type:2 price:2 value:596 29 75 time:Mon Mar 27 14:24:36 2017
+type:3 price:1 value:246 util_val:66 util_class:13 time:Thu Mar 30 00:09:22 2017
 
-type:3 price:5 value:600 2 46 time:Mon Mar 27 14:24:36 2017
+type:2 price:3 value:277 rating:0 difficulty:0 time:Thu Mar 30 00:09:22 2017
 
+type:3 price:4 value:191 util_val:0 util_class:0 time:Thu Mar 30 00:09:22 2017
 
-boy:UYEGBAU girl:JVNUMGF
+type:3 price:6 value:221 util_val:0 util_class:0 time:Thu Mar 30 00:09:22 2017
 
-Gifts exchanged
-type:2 price:2 value:596 29 75 time:Mon Mar 27 14:24:36 2017
+type:3 price:8 value:210 util_val:98 util_class:78 time:Thu Mar 30 00:09:22 2017
 
-type:3 price:5 value:600 2 46 time:Mon Mar 27 14:24:36 2017
+type:3 price:10 value:460 util_val:0 util_class:0 time:Thu Mar 30 00:09:22 2017
 
-type:2 price:6 value:529 54 36 time:Mon Mar 27 14:24:36 2017
+type:1 price:15 value:308 time:Thu Mar 30 00:09:22 2017
 
-type:1 price:6 value:490 0 0 time:Mon Mar 27 14:24:36 2017
+type:3 price:17 value:224 util_val:95 util_class:85 time:Thu Mar 30 00:09:22 2017
 
-type:2 price:6 value:106 83 51 time:Mon Mar 27 14:24:36 2017
+type:1 price:17 value:470 time:Thu Mar 30 00:09:22 2017
 
-type:2 price:8 value:136 9 92 time:Mon Mar 27 14:24:36 2017
+type:3 price:19 value:499 util_val:0 util_class:0 time:Thu Mar 30 00:09:22 2017
 
-type:3 price:10 value:133 61 60 time:Mon Mar 27 14:24:36 2017
+type:1 price:23 value:46 time:Thu Mar 30 00:09:22 2017
 
-type:1 price:11 value:329 0 0 time:Mon Mar 27 14:24:36 2017
-
-type:2 price:12 value:157 24 56 time:Mon Mar 27 14:24:36 2017
-
-type:2 price:13 value:598 93 84 time:Mon Mar 27 14:24:36 2017
-
-type:1 price:14 value:483 0 0 time:Mon Mar 27 14:24:36 2017
-
-type:1 price:16 value:13 0 0 time:Mon Mar 27 14:24:36 2017
-
-type:1 price:18 value:275 0 0 time:Mon Mar 27 14:24:36 2017
-
-type:3 price:23 value:329 95 26 time:Mon Mar 27 14:24:36 2017
-
-type:1 price:27 value:80 0 0 time:Mon Mar 27 14:24:36 2017
-
-type:1 price:27 value:391 0 0 time:Mon Mar 27 14:24:36 2017
-
-type:3 price:28 value:373 90 90 time:Mon Mar 27 14:24:36 2017
-
-type:2 price:28 value:403 70 90 time:Mon Mar 27 14:24:36 2017
-
-type:3 price:32 value:376 56 3 time:Mon Mar 27 14:24:36 2017
-
-type:3 price:34 value:427 68 16 time:Mon Mar 27 14:24:36 2017
-
-type:2 price:34 value:337 72 46 time:Mon Mar 27 14:24:36 2017
-
-type:1 price:34 value:341 0 0 time:Mon Mar 27 14:24:36 2017
+type:1 price:26 value:494 time:Thu Mar 30 00:09:22 2017
 
 
-boy:YNCQTNF girl:BEVKHCG
+boy:VMSYEYA girl:ABPFVBO
 
 Gifts exchanged
-type:2 price:2 value:596 29 75 time:Mon Mar 27 14:24:36 2017
+type:3 price:1 value:246 util_val:66 util_class:13 time:Thu Mar 30 00:09:22 2017
 
-type:3 price:5 value:600 2 46 time:Mon Mar 27 14:24:36 2017
+type:2 price:3 value:277 rating:0 difficulty:0 time:Thu Mar 30 00:09:22 2017
 
-type:2 price:6 value:529 54 36 time:Mon Mar 27 14:24:36 2017
+type:3 price:4 value:191 util_val:0 util_class:0 time:Thu Mar 30 00:09:22 2017
 
-type:1 price:6 value:490 0 0 time:Mon Mar 27 14:24:36 2017
+type:3 price:6 value:221 util_val:0 util_class:0 time:Thu Mar 30 00:09:22 2017
 
-type:2 price:6 value:106 83 51 time:Mon Mar 27 14:24:36 2017
+type:3 price:8 value:210 util_val:98 util_class:78 time:Thu Mar 30 00:09:22 2017
 
-type:2 price:8 value:136 9 92 time:Mon Mar 27 14:24:36 2017
+type:3 price:10 value:460 util_val:0 util_class:0 time:Thu Mar 30 00:09:22 2017
 
-type:3 price:10 value:133 61 60 time:Mon Mar 27 14:24:36 2017
+type:1 price:15 value:308 time:Thu Mar 30 00:09:22 2017
 
-type:1 price:11 value:329 0 0 time:Mon Mar 27 14:24:36 2017
+type:3 price:17 value:224 util_val:95 util_class:85 time:Thu Mar 30 00:09:22 2017
 
-type:2 price:12 value:157 24 56 time:Mon Mar 27 14:24:36 2017
-
-type:2 price:13 value:598 93 84 time:Mon Mar 27 14:24:36 2017
-
-type:1 price:14 value:483 0 0 time:Mon Mar 27 14:24:36 2017
-
-type:1 price:16 value:13 0 0 time:Mon Mar 27 14:24:36 2017
-
-type:1 price:18 value:275 0 0 time:Mon Mar 27 14:24:36 2017
-
-type:3 price:23 value:329 95 26 time:Mon Mar 27 14:24:36 2017
-
-type:1 price:27 value:80 0 0 time:Mon Mar 27 14:24:36 2017
-
-type:1 price:27 value:391 0 0 time:Mon Mar 27 14:24:36 2017
-
-type:3 price:28 value:373 90 90 time:Mon Mar 27 14:24:36 2017
-
-type:2 price:28 value:403 70 90 time:Mon Mar 27 14:24:36 2017
-
-type:3 price:32 value:376 56 3 time:Mon Mar 27 14:24:36 2017
-
-type:3 price:34 value:427 68 16 time:Mon Mar 27 14:24:36 2017
-
-type:2 price:34 value:337 72 46 time:Mon Mar 27 14:24:36 2017
-
-type:1 price:34 value:341 0 0 time:Mon Mar 27 14:24:36 2017
-
-type:2 price:40 value:78 80 13 time:Mon Mar 27 14:24:36 2017
-
-type:2 price:40 value:188 49 94 time:Mon Mar 27 14:24:36 2017
-
-type:2 price:45 value:353 41 74 time:Mon Mar 27 14:24:36 2017
-
-type:3 price:45 value:571 92 21 time:Mon Mar 27 14:24:36 2017
+type:1 price:17 value:470 time:Thu Mar 30 00:09:22 2017
 
 
-boy:IPMLNHN girl:CIHYOKO
+boy:QHJMANK girl:RXDFSRB
 
 Gifts exchanged
-type:2 price:2 value:596 29 75 time:Mon Mar 27 14:24:36 2017
+type:3 price:1 value:246 util_val:66 util_class:13 time:Thu Mar 30 00:09:22 2017
 
-type:3 price:5 value:600 2 46 time:Mon Mar 27 14:24:36 2017
+type:2 price:3 value:277 rating:0 difficulty:0 time:Thu Mar 30 00:09:22 2017
 
-type:2 price:6 value:529 54 36 time:Mon Mar 27 14:24:36 2017
+type:3 price:4 value:191 util_val:0 util_class:0 time:Thu Mar 30 00:09:22 2017
 
-type:1 price:6 value:490 0 0 time:Mon Mar 27 14:24:36 2017
+type:3 price:6 value:221 util_val:0 util_class:0 time:Thu Mar 30 00:09:22 2017
 
-type:2 price:6 value:106 83 51 time:Mon Mar 27 14:24:36 2017
+type:3 price:8 value:210 util_val:98 util_class:78 time:Thu Mar 30 00:09:22 2017
 
-type:2 price:8 value:136 9 92 time:Mon Mar 27 14:24:36 2017
+type:3 price:10 value:460 util_val:0 util_class:0 time:Thu Mar 30 00:09:22 2017
 
-type:3 price:10 value:133 61 60 time:Mon Mar 27 14:24:36 2017
-
-type:1 price:11 value:329 0 0 time:Mon Mar 27 14:24:36 2017
-
-type:2 price:12 value:157 24 56 time:Mon Mar 27 14:24:36 2017
-
-type:2 price:13 value:598 93 84 time:Mon Mar 27 14:24:36 2017
+type:1 price:15 value:308 time:Thu Mar 30 00:09:22 2017
 
 
-boy:AMOMLQV girl:EIQUNPM
+boy:WHIUMIU girl:IRJFODJ
 
 Gifts exchanged
-type:2 price:2 value:596 29 75 time:Mon Mar 27 14:24:36 2017
+type:3 price:1 value:246 util_val:66 util_class:13 time:Thu Mar 30 00:09:22 2017
 
-type:3 price:5 value:600 2 46 time:Mon Mar 27 14:24:36 2017
+type:2 price:3 value:277 rating:0 difficulty:0 time:Thu Mar 30 00:09:22 2017
 
-type:2 price:6 value:529 54 36 time:Mon Mar 27 14:24:36 2017
+type:3 price:4 value:191 util_val:0 util_class:0 time:Thu Mar 30 00:09:22 2017
 
-type:1 price:6 value:490 0 0 time:Mon Mar 27 14:24:36 2017
+type:3 price:6 value:221 util_val:0 util_class:0 time:Thu Mar 30 00:09:22 2017
 
-type:2 price:6 value:106 83 51 time:Mon Mar 27 14:24:36 2017
+type:3 price:8 value:210 util_val:98 util_class:78 time:Thu Mar 30 00:09:22 2017
 
-type:2 price:8 value:136 9 92 time:Mon Mar 27 14:24:36 2017
+type:3 price:10 value:460 util_val:0 util_class:0 time:Thu Mar 30 00:09:22 2017
 
-type:3 price:10 value:133 61 60 time:Mon Mar 27 14:24:36 2017
-
-type:1 price:11 value:329 0 0 time:Mon Mar 27 14:24:36 2017
-
-type:2 price:12 value:157 24 56 time:Mon Mar 27 14:24:36 2017
-
-type:2 price:13 value:598 93 84 time:Mon Mar 27 14:24:36 2017
-
-type:1 price:14 value:483 0 0 time:Mon Mar 27 14:24:36 2017
-
-type:1 price:16 value:13 0 0 time:Mon Mar 27 14:24:36 2017
-
-type:1 price:18 value:275 0 0 time:Mon Mar 27 14:24:36 2017
-
-type:3 price:23 value:329 95 26 time:Mon Mar 27 14:24:36 2017
-
-type:1 price:27 value:80 0 0 time:Mon Mar 27 14:24:36 2017
-
-type:1 price:27 value:391 0 0 time:Mon Mar 27 14:24:36 2017
-
-type:3 price:28 value:373 90 90 time:Mon Mar 27 14:24:36 2017
-
-type:2 price:28 value:403 70 90 time:Mon Mar 27 14:24:36 2017
-
-type:3 price:32 value:376 56 3 time:Mon Mar 27 14:24:36 2017
-
-type:3 price:34 value:427 68 16 time:Mon Mar 27 14:24:36 2017
-
-type:2 price:34 value:337 72 46 time:Mon Mar 27 14:24:36 2017
-
-type:1 price:34 value:341 0 0 time:Mon Mar 27 14:24:36 2017
-
-type:2 price:40 value:78 80 13 time:Mon Mar 27 14:24:36 2017
-
-type:2 price:40 value:188 49 94 time:Mon Mar 27 14:24:36 2017
-
-type:2 price:45 value:353 41 74 time:Mon Mar 27 14:24:36 2017
-
-type:3 price:45 value:571 92 21 time:Mon Mar 27 14:24:36 2017
+type:1 price:15 value:308 time:Thu Mar 30 00:09:22 2017
 
 
-boy:XVKKIQQ girl:VALNJIX
+boy:DEREACG girl:TYHHDGC
 
 Gifts exchanged
-type:2 price:2 value:596 29 75 time:Mon Mar 27 14:24:36 2017
+type:3 price:1 value:246 util_val:66 util_class:13 time:Thu Mar 30 00:09:22 2017
 
-type:3 price:5 value:600 2 46 time:Mon Mar 27 14:24:36 2017
+type:2 price:3 value:277 rating:0 difficulty:0 time:Thu Mar 30 00:09:22 2017
 
-type:2 price:6 value:529 54 36 time:Mon Mar 27 14:24:36 2017
+type:3 price:4 value:191 util_val:0 util_class:0 time:Thu Mar 30 00:09:22 2017
 
-type:1 price:6 value:490 0 0 time:Mon Mar 27 14:24:36 2017
+type:3 price:6 value:221 util_val:0 util_class:0 time:Thu Mar 30 00:09:22 2017
 
-type:2 price:6 value:106 83 51 time:Mon Mar 27 14:24:36 2017
+type:3 price:8 value:210 util_val:98 util_class:78 time:Thu Mar 30 00:09:22 2017
 
-type:2 price:8 value:136 9 92 time:Mon Mar 27 14:24:36 2017
-
-type:3 price:10 value:133 61 60 time:Mon Mar 27 14:24:36 2017
-
-type:1 price:11 value:329 0 0 time:Mon Mar 27 14:24:36 2017
-
-type:2 price:12 value:157 24 56 time:Mon Mar 27 14:24:36 2017
-
-type:2 price:13 value:598 93 84 time:Mon Mar 27 14:24:36 2017
-
-type:1 price:14 value:483 0 0 time:Mon Mar 27 14:24:36 2017
-
-type:1 price:16 value:13 0 0 time:Mon Mar 27 14:24:36 2017
-
-type:1 price:18 value:275 0 0 time:Mon Mar 27 14:24:36 2017
-
-type:3 price:23 value:329 95 26 time:Mon Mar 27 14:24:36 2017
-
-type:1 price:27 value:80 0 0 time:Mon Mar 27 14:24:36 2017
-
-type:1 price:27 value:391 0 0 time:Mon Mar 27 14:24:36 2017
-
-type:3 price:28 value:373 90 90 time:Mon Mar 27 14:24:36 2017
-
-type:2 price:28 value:403 70 90 time:Mon Mar 27 14:24:36 2017
-
-type:3 price:32 value:376 56 3 time:Mon Mar 27 14:24:36 2017
-
-type:3 price:34 value:427 68 16 time:Mon Mar 27 14:24:36 2017
-
-type:2 price:34 value:337 72 46 time:Mon Mar 27 14:24:36 2017
-
-type:1 price:34 value:341 0 0 time:Mon Mar 27 14:24:36 2017
-
-type:2 price:40 value:78 80 13 time:Mon Mar 27 14:24:36 2017
+type:3 price:10 value:460 util_val:0 util_class:0 time:Thu Mar 30 00:09:22 2017
 
 
-boy:GMEFGBA girl:KXYGTLH
+boy:MQQTODQ girl:DJCQGOC
 
 Gifts exchanged
-type:2 price:2 value:596 29 75 time:Mon Mar 27 14:24:36 2017
+type:3 price:1 value:246 util_val:66 util_class:13 time:Thu Mar 30 00:09:22 2017
 
-type:3 price:5 value:600 2 46 time:Mon Mar 27 14:24:36 2017
+type:2 price:3 value:277 rating:0 difficulty:0 time:Thu Mar 30 00:09:22 2017
 
-type:2 price:6 value:529 54 36 time:Mon Mar 27 14:24:36 2017
+type:3 price:4 value:191 util_val:0 util_class:0 time:Thu Mar 30 00:09:22 2017
 
-type:1 price:6 value:490 0 0 time:Mon Mar 27 14:24:36 2017
+type:3 price:6 value:221 util_val:0 util_class:0 time:Thu Mar 30 00:09:22 2017
 
-type:2 price:6 value:106 83 51 time:Mon Mar 27 14:24:36 2017
-
-type:2 price:8 value:136 9 92 time:Mon Mar 27 14:24:36 2017
-
-type:3 price:10 value:133 61 60 time:Mon Mar 27 14:24:36 2017
-
-type:1 price:11 value:329 0 0 time:Mon Mar 27 14:24:36 2017
-
-type:2 price:12 value:157 24 56 time:Mon Mar 27 14:24:36 2017
-
-type:2 price:13 value:598 93 84 time:Mon Mar 27 14:24:36 2017
-
-type:1 price:14 value:483 0 0 time:Mon Mar 27 14:24:36 2017
-
-type:1 price:16 value:13 0 0 time:Mon Mar 27 14:24:36 2017
-
-type:1 price:18 value:275 0 0 time:Mon Mar 27 14:24:36 2017
-
-type:3 price:23 value:329 95 26 time:Mon Mar 27 14:24:36 2017
-
-type:1 price:27 value:80 0 0 time:Mon Mar 27 14:24:36 2017
-
-type:1 price:27 value:391 0 0 time:Mon Mar 27 14:24:36 2017
-
-type:3 price:28 value:373 90 90 time:Mon Mar 27 14:24:36 2017
-
-type:2 price:28 value:403 70 90 time:Mon Mar 27 14:24:36 2017
-
-type:3 price:32 value:376 56 3 time:Mon Mar 27 14:24:36 2017
-
-type:3 price:34 value:427 68 16 time:Mon Mar 27 14:24:36 2017
-
-type:2 price:34 value:337 72 46 time:Mon Mar 27 14:24:36 2017
-
-type:1 price:34 value:341 0 0 time:Mon Mar 27 14:24:36 2017
-
-type:2 price:40 value:78 80 13 time:Mon Mar 27 14:24:36 2017
-
-type:2 price:40 value:188 49 94 time:Mon Mar 27 14:24:36 2017
-
-type:2 price:45 value:353 41 74 time:Mon Mar 27 14:24:36 2017
-
-type:3 price:45 value:571 92 21 time:Mon Mar 27 14:24:36 2017
-
-type:3 price:47 value:472 46 4 time:Mon Mar 27 14:24:36 2017
-
-type:3 price:50 value:365 51 93 time:Mon Mar 27 14:24:36 2017
-
-type:1 price:50 value:192 0 0 time:Mon Mar 27 14:24:36 2017
+type:3 price:8 value:210 util_val:98 util_class:78 time:Thu Mar 30 00:09:22 2017
 
 
-boy:RUBVRVT girl:MCINETC
+boy:RKBCLRC girl:JLWTXED
 
 Gifts exchanged
-type:2 price:2 value:596 29 75 time:Mon Mar 27 14:24:36 2017
+type:3 price:1 value:246 util_val:66 util_class:13 time:Thu Mar 30 00:09:22 2017
 
-type:3 price:5 value:600 2 46 time:Mon Mar 27 14:24:36 2017
+type:2 price:3 value:277 rating:0 difficulty:0 time:Thu Mar 30 00:09:22 2017
 
-type:2 price:6 value:529 54 36 time:Mon Mar 27 14:24:36 2017
+type:3 price:4 value:191 util_val:0 util_class:0 time:Thu Mar 30 00:09:22 2017
 
-type:1 price:6 value:490 0 0 time:Mon Mar 27 14:24:36 2017
+type:3 price:6 value:221 util_val:0 util_class:0 time:Thu Mar 30 00:09:22 2017
 
-type:2 price:6 value:106 83 51 time:Mon Mar 27 14:24:36 2017
-
-type:2 price:8 value:136 9 92 time:Mon Mar 27 14:24:36 2017
-
-type:3 price:10 value:133 61 60 time:Mon Mar 27 14:24:36 2017
-
-type:1 price:11 value:329 0 0 time:Mon Mar 27 14:24:36 2017
-
-type:2 price:12 value:157 24 56 time:Mon Mar 27 14:24:36 2017
-
-type:2 price:13 value:598 93 84 time:Mon Mar 27 14:24:36 2017
-
-type:1 price:14 value:483 0 0 time:Mon Mar 27 14:24:36 2017
-
-type:1 price:16 value:13 0 0 time:Mon Mar 27 14:24:36 2017
-
-type:1 price:18 value:275 0 0 time:Mon Mar 27 14:24:36 2017
-
-type:3 price:23 value:329 95 26 time:Mon Mar 27 14:24:36 2017
-
-type:1 price:27 value:80 0 0 time:Mon Mar 27 14:24:36 2017
-
-type:1 price:27 value:391 0 0 time:Mon Mar 27 14:24:36 2017
-
-type:3 price:28 value:373 90 90 time:Mon Mar 27 14:24:36 2017
-
-type:2 price:28 value:403 70 90 time:Mon Mar 27 14:24:36 2017
-
-type:3 price:32 value:376 56 3 time:Mon Mar 27 14:24:36 2017
-
-type:3 price:34 value:427 68 16 time:Mon Mar 27 14:24:36 2017
-
-type:2 price:34 value:337 72 46 time:Mon Mar 27 14:24:36 2017
-
-type:1 price:34 value:341 0 0 time:Mon Mar 27 14:24:36 2017
-
-type:2 price:40 value:78 80 13 time:Mon Mar 27 14:24:36 2017
-
-type:2 price:40 value:188 49 94 time:Mon Mar 27 14:24:36 2017
-
-type:2 price:45 value:353 41 74 time:Mon Mar 27 14:24:36 2017
-
-type:3 price:45 value:571 92 21 time:Mon Mar 27 14:24:36 2017
-
-type:3 price:47 value:472 46 4 time:Mon Mar 27 14:24:36 2017
-
-type:3 price:50 value:365 51 93 time:Mon Mar 27 14:24:36 2017
-
-type:1 price:50 value:192 0 0 time:Mon Mar 27 14:24:36 2017
-
-type:2 price:52 value:553 37 46 time:Mon Mar 27 14:24:36 2017
-
-type:3 price:57 value:255 47 77 time:Mon Mar 27 14:24:36 2017
+type:3 price:8 value:210 util_val:98 util_class:78 time:Thu Mar 30 00:09:22 2017
 
 
-boy:KXGWXWK girl:EUEWIQI
+boy:AKWGPWL girl:NTSBOWV
 
 Gifts exchanged
-type:2 price:2 value:596 29 75 time:Mon Mar 27 14:24:36 2017
+type:3 price:1 value:246 util_val:66 util_class:13 time:Thu Mar 30 00:09:22 2017
 
-type:3 price:5 value:600 2 46 time:Mon Mar 27 14:24:36 2017
+type:2 price:3 value:277 rating:0 difficulty:0 time:Thu Mar 30 00:09:22 2017
 
-type:2 price:6 value:529 54 36 time:Mon Mar 27 14:24:36 2017
+type:3 price:4 value:191 util_val:0 util_class:0 time:Thu Mar 30 00:09:22 2017
 
-type:1 price:6 value:490 0 0 time:Mon Mar 27 14:24:36 2017
+type:3 price:6 value:221 util_val:0 util_class:0 time:Thu Mar 30 00:09:22 2017
 
-type:2 price:6 value:106 83 51 time:Mon Mar 27 14:24:36 2017
+type:3 price:8 value:210 util_val:98 util_class:78 time:Thu Mar 30 00:09:22 2017
 
-type:2 price:8 value:136 9 92 time:Mon Mar 27 14:24:36 2017
+type:3 price:10 value:460 util_val:0 util_class:0 time:Thu Mar 30 00:09:22 2017
 
-type:3 price:10 value:133 61 60 time:Mon Mar 27 14:24:36 2017
+type:1 price:15 value:308 time:Thu Mar 30 00:09:22 2017
 
-type:1 price:11 value:329 0 0 time:Mon Mar 27 14:24:36 2017
+type:3 price:17 value:224 util_val:95 util_class:85 time:Thu Mar 30 00:09:22 2017
 
-type:2 price:12 value:157 24 56 time:Mon Mar 27 14:24:36 2017
+type:1 price:17 value:470 time:Thu Mar 30 00:09:22 2017
 
+type:3 price:19 value:499 util_val:0 util_class:0 time:Thu Mar 30 00:09:22 2017
 
-boy:ACSKDVG girl:VQEJJKR
+type:1 price:23 value:46 time:Thu Mar 30 00:09:22 2017
 
-Gifts exchanged
-type:2 price:2 value:596 29 75 time:Mon Mar 27 14:24:36 2017
+type:1 price:26 value:494 time:Thu Mar 30 00:09:22 2017
 
-type:3 price:5 value:600 2 46 time:Mon Mar 27 14:24:36 2017
+type:3 price:29 value:210 util_val:45 util_class:21 time:Thu Mar 30 00:09:22 2017
 
-type:2 price:6 value:529 54 36 time:Mon Mar 27 14:24:36 2017
+type:2 price:29 value:175 rating:9 difficulty:79 time:Thu Mar 30 00:09:22 2017
 
-type:1 price:6 value:490 0 0 time:Mon Mar 27 14:24:36 2017
+type:2 price:31 value:281 rating:57 difficulty:38 time:Thu Mar 30 00:09:22 2017
 
-type:2 price:6 value:106 83 51 time:Mon Mar 27 14:24:36 2017
+type:1 price:38 value:331 time:Thu Mar 30 00:09:22 2017
 
-type:2 price:8 value:136 9 92 time:Mon Mar 27 14:24:36 2017
+type:2 price:41 value:332 rating:41 difficulty:86 time:Thu Mar 30 00:09:22 2017
 
-type:3 price:10 value:133 61 60 time:Mon Mar 27 14:24:36 2017
+type:2 price:49 value:92 rating:64 difficulty:92 time:Thu Mar 30 00:09:22 2017
 
-type:1 price:11 value:329 0 0 time:Mon Mar 27 14:24:36 2017
+type:1 price:53 value:63 time:Thu Mar 30 00:09:22 2017
 
-type:2 price:12 value:157 24 56 time:Mon Mar 27 14:24:36 2017
+type:2 price:53 value:54 rating:76 difficulty:17 time:Thu Mar 30 00:09:22 2017
 
-type:2 price:13 value:598 93 84 time:Mon Mar 27 14:24:36 2017
-
-type:1 price:14 value:483 0 0 time:Mon Mar 27 14:24:36 2017
-
-type:1 price:16 value:13 0 0 time:Mon Mar 27 14:24:36 2017
-
-type:1 price:18 value:275 0 0 time:Mon Mar 27 14:24:36 2017
-
-type:3 price:23 value:329 95 26 time:Mon Mar 27 14:24:36 2017
-
-type:1 price:27 value:80 0 0 time:Mon Mar 27 14:24:36 2017
-
-type:1 price:27 value:391 0 0 time:Mon Mar 27 14:24:36 2017
-
-type:3 price:28 value:373 90 90 time:Mon Mar 27 14:24:36 2017
-
-type:2 price:28 value:403 70 90 time:Mon Mar 27 14:24:36 2017
-
-type:3 price:32 value:376 56 3 time:Mon Mar 27 14:24:36 2017
-
-type:3 price:34 value:427 68 16 time:Mon Mar 27 14:24:36 2017
-
-type:2 price:34 value:337 72 46 time:Mon Mar 27 14:24:36 2017
-
-type:1 price:34 value:341 0 0 time:Mon Mar 27 14:24:36 2017
-
-type:2 price:40 value:78 80 13 time:Mon Mar 27 14:24:36 2017
-
-type:2 price:40 value:188 49 94 time:Mon Mar 27 14:24:36 2017
-
-type:2 price:45 value:353 41 74 time:Mon Mar 27 14:24:36 2017
-
-type:3 price:45 value:571 92 21 time:Mon Mar 27 14:24:36 2017
-
-type:3 price:47 value:472 46 4 time:Mon Mar 27 14:24:36 2017
-
-type:3 price:50 value:365 51 93 time:Mon Mar 27 14:24:36 2017
-
-type:1 price:50 value:192 0 0 time:Mon Mar 27 14:24:36 2017
-
-type:2 price:52 value:553 37 46 time:Mon Mar 27 14:24:36 2017
-
-type:3 price:57 value:255 47 77 time:Mon Mar 27 14:24:36 2017
-
-type:2 price:58 value:276 29 66 time:Mon Mar 27 14:24:36 2017
-
-type:1 price:58 value:465 0 0 time:Mon Mar 27 14:24:36 2017
+type:3 price:54 value:158 util_val:11 util_class:15 time:Thu Mar 30 00:09:22 2017
 
 
-boy:FQESDYI girl:GVWINKT
+boy:AYBURWW girl:EWGBBSQ
 
 Gifts exchanged
-type:2 price:2 value:596 29 75 time:Mon Mar 27 14:24:36 2017
+type:3 price:1 value:246 util_val:66 util_class:13 time:Thu Mar 30 00:09:22 2017
 
-type:3 price:5 value:600 2 46 time:Mon Mar 27 14:24:36 2017
+type:2 price:3 value:277 rating:0 difficulty:0 time:Thu Mar 30 00:09:22 2017
 
-type:2 price:6 value:529 54 36 time:Mon Mar 27 14:24:36 2017
+type:3 price:4 value:191 util_val:0 util_class:0 time:Thu Mar 30 00:09:22 2017
 
-type:1 price:6 value:490 0 0 time:Mon Mar 27 14:24:36 2017
+type:3 price:6 value:221 util_val:0 util_class:0 time:Thu Mar 30 00:09:22 2017
 
-type:2 price:6 value:106 83 51 time:Mon Mar 27 14:24:36 2017
+type:3 price:8 value:210 util_val:98 util_class:78 time:Thu Mar 30 00:09:22 2017
 
-type:2 price:8 value:136 9 92 time:Mon Mar 27 14:24:36 2017
+type:3 price:10 value:460 util_val:0 util_class:0 time:Thu Mar 30 00:09:22 2017
 
-type:3 price:10 value:133 61 60 time:Mon Mar 27 14:24:36 2017
-
-type:1 price:11 value:329 0 0 time:Mon Mar 27 14:24:36 2017
-
-type:2 price:12 value:157 24 56 time:Mon Mar 27 14:24:36 2017
-
-type:2 price:13 value:598 93 84 time:Mon Mar 27 14:24:36 2017
-
-type:1 price:14 value:483 0 0 time:Mon Mar 27 14:24:36 2017
-
-type:1 price:16 value:13 0 0 time:Mon Mar 27 14:24:36 2017
-
-type:1 price:18 value:275 0 0 time:Mon Mar 27 14:24:36 2017
-
-type:3 price:23 value:329 95 26 time:Mon Mar 27 14:24:36 2017
-
-type:1 price:27 value:80 0 0 time:Mon Mar 27 14:24:36 2017
-
-type:1 price:27 value:391 0 0 time:Mon Mar 27 14:24:36 2017
-
-type:3 price:28 value:373 90 90 time:Mon Mar 27 14:24:36 2017
-
-type:2 price:28 value:403 70 90 time:Mon Mar 27 14:24:36 2017
-
-type:3 price:32 value:376 56 3 time:Mon Mar 27 14:24:36 2017
-
-type:3 price:34 value:427 68 16 time:Mon Mar 27 14:24:36 2017
-
-type:2 price:34 value:337 72 46 time:Mon Mar 27 14:24:36 2017
-
-type:1 price:34 value:341 0 0 time:Mon Mar 27 14:24:36 2017
-
-type:2 price:40 value:78 80 13 time:Mon Mar 27 14:24:36 2017
-
-type:2 price:40 value:188 49 94 time:Mon Mar 27 14:24:36 2017
-
-type:2 price:45 value:353 41 74 time:Mon Mar 27 14:24:36 2017
-
-type:3 price:45 value:571 92 21 time:Mon Mar 27 14:24:36 2017
-
-type:3 price:47 value:472 46 4 time:Mon Mar 27 14:24:36 2017
-
-type:3 price:50 value:365 51 93 time:Mon Mar 27 14:24:36 2017
-
-type:1 price:50 value:192 0 0 time:Mon Mar 27 14:24:36 2017
-
-type:2 price:52 value:553 37 46 time:Mon Mar 27 14:24:36 2017
+type:1 price:15 value:308 time:Thu Mar 30 00:09:22 2017
 
 
-boy:DYDEVQV girl:VTKHPFW
+boy:YRNHPLJ girl:OHCXDXG
 
 Gifts exchanged
-type:2 price:2 value:596 29 75 time:Mon Mar 27 14:24:36 2017
+type:3 price:1 value:246 util_val:66 util_class:13 time:Thu Mar 30 00:09:22 2017
 
-type:3 price:5 value:600 2 46 time:Mon Mar 27 14:24:36 2017
+type:2 price:3 value:277 rating:0 difficulty:0 time:Thu Mar 30 00:09:22 2017
 
-type:2 price:6 value:529 54 36 time:Mon Mar 27 14:24:36 2017
+type:3 price:4 value:191 util_val:0 util_class:0 time:Thu Mar 30 00:09:22 2017
 
-type:1 price:6 value:490 0 0 time:Mon Mar 27 14:24:36 2017
+type:3 price:6 value:221 util_val:0 util_class:0 time:Thu Mar 30 00:09:22 2017
 
-type:2 price:6 value:106 83 51 time:Mon Mar 27 14:24:36 2017
+type:3 price:8 value:210 util_val:98 util_class:78 time:Thu Mar 30 00:09:22 2017
 
-type:2 price:8 value:136 9 92 time:Mon Mar 27 14:24:36 2017
+type:3 price:10 value:460 util_val:0 util_class:0 time:Thu Mar 30 00:09:22 2017
 
-type:3 price:10 value:133 61 60 time:Mon Mar 27 14:24:36 2017
+type:1 price:15 value:308 time:Thu Mar 30 00:09:22 2017
 
-type:1 price:11 value:329 0 0 time:Mon Mar 27 14:24:36 2017
+type:3 price:17 value:224 util_val:95 util_class:85 time:Thu Mar 30 00:09:22 2017
 
-type:2 price:12 value:157 24 56 time:Mon Mar 27 14:24:36 2017
+type:1 price:17 value:470 time:Thu Mar 30 00:09:22 2017
 
-type:2 price:13 value:598 93 84 time:Mon Mar 27 14:24:36 2017
+type:3 price:19 value:499 util_val:0 util_class:0 time:Thu Mar 30 00:09:22 2017
 
-type:1 price:14 value:483 0 0 time:Mon Mar 27 14:24:36 2017
+type:1 price:23 value:46 time:Thu Mar 30 00:09:22 2017
 
-type:1 price:16 value:13 0 0 time:Mon Mar 27 14:24:36 2017
+type:1 price:26 value:494 time:Thu Mar 30 00:09:22 2017
 
-type:1 price:18 value:275 0 0 time:Mon Mar 27 14:24:36 2017
+type:3 price:29 value:210 util_val:45 util_class:21 time:Thu Mar 30 00:09:22 2017
 
-type:3 price:23 value:329 95 26 time:Mon Mar 27 14:24:36 2017
+type:2 price:29 value:175 rating:9 difficulty:79 time:Thu Mar 30 00:09:22 2017
 
-type:1 price:27 value:80 0 0 time:Mon Mar 27 14:24:36 2017
+type:2 price:31 value:281 rating:57 difficulty:38 time:Thu Mar 30 00:09:22 2017
 
-type:1 price:27 value:391 0 0 time:Mon Mar 27 14:24:36 2017
+type:1 price:38 value:331 time:Thu Mar 30 00:09:22 2017
 
-type:3 price:28 value:373 90 90 time:Mon Mar 27 14:24:36 2017
+type:2 price:41 value:332 rating:41 difficulty:86 time:Thu Mar 30 00:09:22 2017
 
-type:2 price:28 value:403 70 90 time:Mon Mar 27 14:24:36 2017
+type:2 price:49 value:92 rating:64 difficulty:92 time:Thu Mar 30 00:09:22 2017
 
-type:3 price:32 value:376 56 3 time:Mon Mar 27 14:24:36 2017
+type:1 price:53 value:63 time:Thu Mar 30 00:09:22 2017
 
-type:3 price:34 value:427 68 16 time:Mon Mar 27 14:24:36 2017
+type:2 price:53 value:54 rating:76 difficulty:17 time:Thu Mar 30 00:09:22 2017
 
-type:2 price:34 value:337 72 46 time:Mon Mar 27 14:24:36 2017
+type:3 price:54 value:158 util_val:11 util_class:15 time:Thu Mar 30 00:09:22 2017
 
-type:1 price:34 value:341 0 0 time:Mon Mar 27 14:24:36 2017
+type:3 price:55 value:341 util_val:0 util_class:0 time:Thu Mar 30 00:09:22 2017
 
-type:2 price:40 value:78 80 13 time:Mon Mar 27 14:24:36 2017
+type:3 price:56 value:518 util_val:38 util_class:31 time:Thu Mar 30 00:09:22 2017
 
-type:2 price:40 value:188 49 94 time:Mon Mar 27 14:24:36 2017
+type:2 price:57 value:64 rating:96 difficulty:53 time:Thu Mar 30 00:09:22 2017
 
-type:2 price:45 value:353 41 74 time:Mon Mar 27 14:24:36 2017
-
-type:3 price:45 value:571 92 21 time:Mon Mar 27 14:24:36 2017
-
-type:3 price:47 value:472 46 4 time:Mon Mar 27 14:24:36 2017
-
-type:3 price:50 value:365 51 93 time:Mon Mar 27 14:24:36 2017
-
-type:1 price:50 value:192 0 0 time:Mon Mar 27 14:24:36 2017
-
-type:2 price:52 value:553 37 46 time:Mon Mar 27 14:24:36 2017
-
-type:3 price:57 value:255 47 77 time:Mon Mar 27 14:24:36 2017
+type:1 price:61 value:415 time:Thu Mar 30 00:09:22 2017
 
 
-boy:EVESLVO girl:FKYVHCD
+boy:YOOASTU girl:JSHBSWB
 
 Gifts exchanged
-type:2 price:2 value:596 29 75 time:Mon Mar 27 14:24:36 2017
+type:3 price:1 value:246 util_val:66 util_class:13 time:Thu Mar 30 00:09:22 2017
 
-type:3 price:5 value:600 2 46 time:Mon Mar 27 14:24:36 2017
+type:2 price:3 value:277 rating:0 difficulty:0 time:Thu Mar 30 00:09:22 2017
 
-type:2 price:6 value:529 54 36 time:Mon Mar 27 14:24:36 2017
+type:3 price:4 value:191 util_val:0 util_class:0 time:Thu Mar 30 00:09:22 2017
 
-type:1 price:6 value:490 0 0 time:Mon Mar 27 14:24:36 2017
+type:3 price:6 value:221 util_val:0 util_class:0 time:Thu Mar 30 00:09:22 2017
 
-type:2 price:6 value:106 83 51 time:Mon Mar 27 14:24:36 2017
+type:3 price:8 value:210 util_val:98 util_class:78 time:Thu Mar 30 00:09:22 2017
 
-type:2 price:8 value:136 9 92 time:Mon Mar 27 14:24:36 2017
+type:3 price:10 value:460 util_val:0 util_class:0 time:Thu Mar 30 00:09:22 2017
 
-type:3 price:10 value:133 61 60 time:Mon Mar 27 14:24:36 2017
+type:1 price:15 value:308 time:Thu Mar 30 00:09:22 2017
 
-type:1 price:11 value:329 0 0 time:Mon Mar 27 14:24:36 2017
+type:3 price:17 value:224 util_val:95 util_class:85 time:Thu Mar 30 00:09:22 2017
 
-type:2 price:12 value:157 24 56 time:Mon Mar 27 14:24:36 2017
+type:1 price:17 value:470 time:Thu Mar 30 00:09:22 2017
 
-type:2 price:13 value:598 93 84 time:Mon Mar 27 14:24:36 2017
+type:3 price:19 value:499 util_val:0 util_class:0 time:Thu Mar 30 00:09:22 2017
 
-type:1 price:14 value:483 0 0 time:Mon Mar 27 14:24:36 2017
+type:1 price:23 value:46 time:Thu Mar 30 00:09:22 2017
 
-type:1 price:16 value:13 0 0 time:Mon Mar 27 14:24:36 2017
+type:1 price:26 value:494 time:Thu Mar 30 00:09:22 2017
 
-type:1 price:18 value:275 0 0 time:Mon Mar 27 14:24:36 2017
+type:3 price:29 value:210 util_val:45 util_class:21 time:Thu Mar 30 00:09:22 2017
 
-type:3 price:23 value:329 95 26 time:Mon Mar 27 14:24:36 2017
+type:2 price:29 value:175 rating:9 difficulty:79 time:Thu Mar 30 00:09:22 2017
 
-type:1 price:27 value:80 0 0 time:Mon Mar 27 14:24:36 2017
+type:2 price:31 value:281 rating:57 difficulty:38 time:Thu Mar 30 00:09:22 2017
 
-type:1 price:27 value:391 0 0 time:Mon Mar 27 14:24:36 2017
+type:1 price:38 value:331 time:Thu Mar 30 00:09:22 2017
 
-type:3 price:28 value:373 90 90 time:Mon Mar 27 14:24:36 2017
+type:2 price:41 value:332 rating:41 difficulty:86 time:Thu Mar 30 00:09:22 2017
 
-type:2 price:28 value:403 70 90 time:Mon Mar 27 14:24:36 2017
+type:2 price:49 value:92 rating:64 difficulty:92 time:Thu Mar 30 00:09:22 2017
 
-type:3 price:32 value:376 56 3 time:Mon Mar 27 14:24:36 2017
+type:1 price:53 value:63 time:Thu Mar 30 00:09:22 2017
 
-type:3 price:34 value:427 68 16 time:Mon Mar 27 14:24:36 2017
+type:2 price:53 value:54 rating:76 difficulty:17 time:Thu Mar 30 00:09:22 2017
 
-type:2 price:34 value:337 72 46 time:Mon Mar 27 14:24:36 2017
-
-type:1 price:34 value:341 0 0 time:Mon Mar 27 14:24:36 2017
-
-type:2 price:40 value:78 80 13 time:Mon Mar 27 14:24:36 2017
-
-type:2 price:40 value:188 49 94 time:Mon Mar 27 14:24:36 2017
-
-type:2 price:45 value:353 41 74 time:Mon Mar 27 14:24:36 2017
-
-type:3 price:45 value:571 92 21 time:Mon Mar 27 14:24:36 2017
-
-type:3 price:47 value:472 46 4 time:Mon Mar 27 14:24:36 2017
-
-type:3 price:50 value:365 51 93 time:Mon Mar 27 14:24:36 2017
-
-type:1 price:50 value:192 0 0 time:Mon Mar 27 14:24:36 2017
+type:3 price:54 value:158 util_val:11 util_class:15 time:Thu Mar 30 00:09:22 2017
 
 
-boy:AOXVVNE girl:QRSYMGS
+boy:CBAVHLL girl:WVBWPBU
 
 Gifts exchanged
-type:2 price:2 value:596 29 75 time:Mon Mar 27 14:24:36 2017
+type:3 price:1 value:246 util_val:66 util_class:13 time:Thu Mar 30 00:09:22 2017
 
-type:3 price:5 value:600 2 46 time:Mon Mar 27 14:24:36 2017
+type:2 price:3 value:277 rating:0 difficulty:0 time:Thu Mar 30 00:09:22 2017
 
-type:2 price:6 value:529 54 36 time:Mon Mar 27 14:24:36 2017
+type:3 price:4 value:191 util_val:0 util_class:0 time:Thu Mar 30 00:09:22 2017
 
-type:1 price:6 value:490 0 0 time:Mon Mar 27 14:24:36 2017
+type:3 price:6 value:221 util_val:0 util_class:0 time:Thu Mar 30 00:09:22 2017
 
-type:2 price:6 value:106 83 51 time:Mon Mar 27 14:24:36 2017
+type:3 price:8 value:210 util_val:98 util_class:78 time:Thu Mar 30 00:09:22 2017
 
-type:2 price:8 value:136 9 92 time:Mon Mar 27 14:24:36 2017
+type:3 price:10 value:460 util_val:0 util_class:0 time:Thu Mar 30 00:09:22 2017
 
-type:3 price:10 value:133 61 60 time:Mon Mar 27 14:24:36 2017
+type:1 price:15 value:308 time:Thu Mar 30 00:09:22 2017
 
-type:1 price:11 value:329 0 0 time:Mon Mar 27 14:24:36 2017
+type:3 price:17 value:224 util_val:95 util_class:85 time:Thu Mar 30 00:09:22 2017
 
-type:2 price:12 value:157 24 56 time:Mon Mar 27 14:24:36 2017
+type:1 price:17 value:470 time:Thu Mar 30 00:09:22 2017
 
-type:2 price:13 value:598 93 84 time:Mon Mar 27 14:24:36 2017
+type:3 price:19 value:499 util_val:0 util_class:0 time:Thu Mar 30 00:09:22 2017
 
-type:1 price:14 value:483 0 0 time:Mon Mar 27 14:24:36 2017
+type:1 price:23 value:46 time:Thu Mar 30 00:09:22 2017
 
-type:1 price:16 value:13 0 0 time:Mon Mar 27 14:24:36 2017
+type:1 price:26 value:494 time:Thu Mar 30 00:09:22 2017
 
-type:1 price:18 value:275 0 0 time:Mon Mar 27 14:24:36 2017
+type:3 price:29 value:210 util_val:45 util_class:21 time:Thu Mar 30 00:09:22 2017
 
-type:3 price:23 value:329 95 26 time:Mon Mar 27 14:24:36 2017
+type:2 price:29 value:175 rating:9 difficulty:79 time:Thu Mar 30 00:09:22 2017
 
-type:1 price:27 value:80 0 0 time:Mon Mar 27 14:24:36 2017
-
-type:1 price:27 value:391 0 0 time:Mon Mar 27 14:24:36 2017
-
-type:3 price:28 value:373 90 90 time:Mon Mar 27 14:24:36 2017
-
-type:2 price:28 value:403 70 90 time:Mon Mar 27 14:24:36 2017
-
-type:3 price:32 value:376 56 3 time:Mon Mar 27 14:24:36 2017
-
-type:3 price:34 value:427 68 16 time:Mon Mar 27 14:24:36 2017
-
-type:2 price:34 value:337 72 46 time:Mon Mar 27 14:24:36 2017
-
-type:1 price:34 value:341 0 0 time:Mon Mar 27 14:24:36 2017
+type:2 price:31 value:281 rating:57 difficulty:38 time:Thu Mar 30 00:09:22 2017
 
 
-boy:XAPFAQR girl:IVGNLAP
+boy:KELOXXH girl:KWUKUWL
 
 Gifts exchanged
-type:2 price:2 value:596 29 75 time:Mon Mar 27 14:24:36 2017
+type:3 price:1 value:246 util_val:66 util_class:13 time:Thu Mar 30 00:09:22 2017
 
-type:3 price:5 value:600 2 46 time:Mon Mar 27 14:24:36 2017
+type:2 price:3 value:277 rating:0 difficulty:0 time:Thu Mar 30 00:09:22 2017
 
-type:2 price:6 value:529 54 36 time:Mon Mar 27 14:24:36 2017
+type:3 price:4 value:191 util_val:0 util_class:0 time:Thu Mar 30 00:09:22 2017
 
-type:1 price:6 value:490 0 0 time:Mon Mar 27 14:24:36 2017
+type:3 price:6 value:221 util_val:0 util_class:0 time:Thu Mar 30 00:09:22 2017
 
-type:2 price:6 value:106 83 51 time:Mon Mar 27 14:24:36 2017
+type:3 price:8 value:210 util_val:98 util_class:78 time:Thu Mar 30 00:09:22 2017
 
-type:2 price:8 value:136 9 92 time:Mon Mar 27 14:24:36 2017
 
-type:3 price:10 value:133 61 60 time:Mon Mar 27 14:24:36 2017
+boy:FKBSDDY girl:KWLEBXM
 
-type:1 price:11 value:329 0 0 time:Mon Mar 27 14:24:36 2017
+Gifts exchanged
+type:3 price:1 value:246 util_val:66 util_class:13 time:Thu Mar 30 00:09:22 2017
 
-type:2 price:12 value:157 24 56 time:Mon Mar 27 14:24:36 2017
+type:2 price:3 value:277 rating:0 difficulty:0 time:Thu Mar 30 00:09:22 2017
 
-type:2 price:13 value:598 93 84 time:Mon Mar 27 14:24:36 2017
+type:3 price:4 value:191 util_val:0 util_class:0 time:Thu Mar 30 00:09:22 2017
 
-type:1 price:14 value:483 0 0 time:Mon Mar 27 14:24:36 2017
+type:3 price:6 value:221 util_val:0 util_class:0 time:Thu Mar 30 00:09:22 2017
 
-type:1 price:16 value:13 0 0 time:Mon Mar 27 14:24:36 2017
+type:3 price:8 value:210 util_val:98 util_class:78 time:Thu Mar 30 00:09:22 2017
 
-type:1 price:18 value:275 0 0 time:Mon Mar 27 14:24:36 2017
+type:3 price:10 value:460 util_val:0 util_class:0 time:Thu Mar 30 00:09:22 2017
 
-type:3 price:23 value:329 95 26 time:Mon Mar 27 14:24:36 2017
+type:1 price:15 value:308 time:Thu Mar 30 00:09:22 2017
 
-type:1 price:27 value:80 0 0 time:Mon Mar 27 14:24:36 2017
+type:3 price:17 value:224 util_val:95 util_class:85 time:Thu Mar 30 00:09:22 2017
 
-type:1 price:27 value:391 0 0 time:Mon Mar 27 14:24:36 2017
+type:1 price:17 value:470 time:Thu Mar 30 00:09:22 2017
 
-type:3 price:28 value:373 90 90 time:Mon Mar 27 14:24:36 2017
+type:3 price:19 value:499 util_val:0 util_class:0 time:Thu Mar 30 00:09:22 2017
 
-type:2 price:28 value:403 70 90 time:Mon Mar 27 14:24:36 2017
+type:1 price:23 value:46 time:Thu Mar 30 00:09:22 2017
 
-type:3 price:32 value:376 56 3 time:Mon Mar 27 14:24:36 2017
+type:1 price:26 value:494 time:Thu Mar 30 00:09:22 2017
+
+type:3 price:29 value:210 util_val:45 util_class:21 time:Thu Mar 30 00:09:22 2017
+
+type:2 price:29 value:175 rating:9 difficulty:79 time:Thu Mar 30 00:09:22 2017
+
+type:2 price:31 value:281 rating:57 difficulty:38 time:Thu Mar 30 00:09:22 2017
+
+type:1 price:38 value:331 time:Thu Mar 30 00:09:22 2017
+
+type:2 price:41 value:332 rating:41 difficulty:86 time:Thu Mar 30 00:09:22 2017
+
+type:2 price:49 value:92 rating:64 difficulty:92 time:Thu Mar 30 00:09:22 2017
+
+type:1 price:53 value:63 time:Thu Mar 30 00:09:22 2017
+
+type:2 price:53 value:54 rating:76 difficulty:17 time:Thu Mar 30 00:09:22 2017
+
+type:3 price:54 value:158 util_val:11 util_class:15 time:Thu Mar 30 00:09:22 2017
+
+type:3 price:55 value:341 util_val:0 util_class:0 time:Thu Mar 30 00:09:22 2017
+
+
+boy:UMDLSWQ girl:TPFYXCB
+
+Gifts exchanged
+type:3 price:1 value:246 util_val:66 util_class:13 time:Thu Mar 30 00:09:22 2017
+
+type:2 price:3 value:277 rating:0 difficulty:0 time:Thu Mar 30 00:09:22 2017
+
+type:3 price:4 value:191 util_val:0 util_class:0 time:Thu Mar 30 00:09:22 2017
+
+type:3 price:6 value:221 util_val:0 util_class:0 time:Thu Mar 30 00:09:22 2017
+
+type:3 price:8 value:210 util_val:98 util_class:78 time:Thu Mar 30 00:09:22 2017
+
+type:3 price:10 value:460 util_val:0 util_class:0 time:Thu Mar 30 00:09:22 2017
+
+type:1 price:15 value:308 time:Thu Mar 30 00:09:22 2017
+
+type:3 price:17 value:224 util_val:95 util_class:85 time:Thu Mar 30 00:09:22 2017
+
+type:1 price:17 value:470 time:Thu Mar 30 00:09:22 2017
+
+type:3 price:19 value:499 util_val:0 util_class:0 time:Thu Mar 30 00:09:22 2017
+
+type:1 price:23 value:46 time:Thu Mar 30 00:09:22 2017
+
+type:1 price:26 value:494 time:Thu Mar 30 00:09:22 2017
+
+type:3 price:29 value:210 util_val:45 util_class:21 time:Thu Mar 30 00:09:22 2017
+
+type:2 price:29 value:175 rating:9 difficulty:79 time:Thu Mar 30 00:09:22 2017
+
+type:2 price:31 value:281 rating:57 difficulty:38 time:Thu Mar 30 00:09:22 2017
+
+type:1 price:38 value:331 time:Thu Mar 30 00:09:22 2017
+
+type:2 price:41 value:332 rating:41 difficulty:86 time:Thu Mar 30 00:09:22 2017
+
+type:2 price:49 value:92 rating:64 difficulty:92 time:Thu Mar 30 00:09:22 2017
+
+type:1 price:53 value:63 time:Thu Mar 30 00:09:22 2017
+
+type:2 price:53 value:54 rating:76 difficulty:17 time:Thu Mar 30 00:09:22 2017
+
+
+boy:SGWKUYO girl:UAAEYGL
+
+Gifts exchanged
+type:3 price:1 value:246 util_val:66 util_class:13 time:Thu Mar 30 00:09:22 2017
+
+type:2 price:3 value:277 rating:0 difficulty:0 time:Thu Mar 30 00:09:22 2017
+
+type:3 price:4 value:191 util_val:0 util_class:0 time:Thu Mar 30 00:09:22 2017
+
+type:3 price:6 value:221 util_val:0 util_class:0 time:Thu Mar 30 00:09:22 2017
+
+type:3 price:8 value:210 util_val:98 util_class:78 time:Thu Mar 30 00:09:22 2017
+
+type:3 price:10 value:460 util_val:0 util_class:0 time:Thu Mar 30 00:09:22 2017
+
+type:1 price:15 value:308 time:Thu Mar 30 00:09:22 2017
+
+type:3 price:17 value:224 util_val:95 util_class:85 time:Thu Mar 30 00:09:22 2017
+
+type:1 price:17 value:470 time:Thu Mar 30 00:09:22 2017
+
+type:3 price:19 value:499 util_val:0 util_class:0 time:Thu Mar 30 00:09:22 2017
+
+type:1 price:23 value:46 time:Thu Mar 30 00:09:22 2017
+
+type:1 price:26 value:494 time:Thu Mar 30 00:09:22 2017
+
+type:3 price:29 value:210 util_val:45 util_class:21 time:Thu Mar 30 00:09:22 2017
+
+type:2 price:29 value:175 rating:9 difficulty:79 time:Thu Mar 30 00:09:22 2017
+
+type:2 price:31 value:281 rating:57 difficulty:38 time:Thu Mar 30 00:09:22 2017
+
+type:1 price:38 value:331 time:Thu Mar 30 00:09:22 2017
+
+type:2 price:41 value:332 rating:41 difficulty:86 time:Thu Mar 30 00:09:22 2017
+
+type:2 price:49 value:92 rating:64 difficulty:92 time:Thu Mar 30 00:09:22 2017
+
+type:1 price:53 value:63 time:Thu Mar 30 00:09:22 2017
+
+type:2 price:53 value:54 rating:76 difficulty:17 time:Thu Mar 30 00:09:22 2017
+
+type:3 price:54 value:158 util_val:11 util_class:15 time:Thu Mar 30 00:09:22 2017
+
+type:3 price:55 value:341 util_val:0 util_class:0 time:Thu Mar 30 00:09:22 2017
+
+type:3 price:56 value:518 util_val:38 util_class:31 time:Thu Mar 30 00:09:22 2017
+
+type:2 price:57 value:64 rating:96 difficulty:53 time:Thu Mar 30 00:09:22 2017
+
+type:1 price:61 value:415 time:Thu Mar 30 00:09:22 2017
+
+type:3 price:62 value:595 util_val:0 util_class:0 time:Thu Mar 30 00:09:22 2017
+
+
+boy:BLEFWPE girl:XSLYYNJ
+
+Gifts exchanged
+type:3 price:1 value:246 util_val:66 util_class:13 time:Thu Mar 30 00:09:22 2017
+
+type:2 price:3 value:277 rating:0 difficulty:0 time:Thu Mar 30 00:09:22 2017
+
+type:3 price:4 value:191 util_val:0 util_class:0 time:Thu Mar 30 00:09:22 2017
+
+type:3 price:6 value:221 util_val:0 util_class:0 time:Thu Mar 30 00:09:22 2017
+
+type:3 price:8 value:210 util_val:98 util_class:78 time:Thu Mar 30 00:09:22 2017
+
+type:3 price:10 value:460 util_val:0 util_class:0 time:Thu Mar 30 00:09:22 2017
+
+type:1 price:15 value:308 time:Thu Mar 30 00:09:22 2017
+
+type:3 price:17 value:224 util_val:95 util_class:85 time:Thu Mar 30 00:09:22 2017
+
+type:1 price:17 value:470 time:Thu Mar 30 00:09:22 2017
+
+type:3 price:19 value:499 util_val:0 util_class:0 time:Thu Mar 30 00:09:22 2017
+
+type:1 price:23 value:46 time:Thu Mar 30 00:09:22 2017
+
+type:1 price:26 value:494 time:Thu Mar 30 00:09:22 2017
+
+type:3 price:29 value:210 util_val:45 util_class:21 time:Thu Mar 30 00:09:22 2017
+
+type:2 price:29 value:175 rating:9 difficulty:79 time:Thu Mar 30 00:09:22 2017
+
+type:2 price:31 value:281 rating:57 difficulty:38 time:Thu Mar 30 00:09:22 2017
+
+type:1 price:38 value:331 time:Thu Mar 30 00:09:22 2017
+
+type:2 price:41 value:332 rating:41 difficulty:86 time:Thu Mar 30 00:09:22 2017
+
+type:2 price:49 value:92 rating:64 difficulty:92 time:Thu Mar 30 00:09:22 2017
+
+type:1 price:53 value:63 time:Thu Mar 30 00:09:22 2017
+
+type:2 price:53 value:54 rating:76 difficulty:17 time:Thu Mar 30 00:09:22 2017
+
+type:3 price:54 value:158 util_val:11 util_class:15 time:Thu Mar 30 00:09:22 2017
+
+type:3 price:55 value:341 util_val:0 util_class:0 time:Thu Mar 30 00:09:22 2017
+
+type:3 price:56 value:518 util_val:38 util_class:31 time:Thu Mar 30 00:09:22 2017
+
+type:2 price:57 value:64 rating:96 difficulty:53 time:Thu Mar 30 00:09:22 2017
+
+type:1 price:61 value:415 time:Thu Mar 30 00:09:22 2017
+
+type:3 price:62 value:595 util_val:0 util_class:0 time:Thu Mar 30 00:09:22 2017
+
+
+boy:RMUIAPU girl:QIHGHSK
+
+Gifts exchanged
+type:3 price:1 value:246 util_val:66 util_class:13 time:Thu Mar 30 00:09:22 2017
+
+type:2 price:3 value:277 rating:0 difficulty:0 time:Thu Mar 30 00:09:22 2017
+
+type:3 price:4 value:191 util_val:0 util_class:0 time:Thu Mar 30 00:09:22 2017
+
+type:3 price:6 value:221 util_val:0 util_class:0 time:Thu Mar 30 00:09:22 2017
+
+type:3 price:8 value:210 util_val:98 util_class:78 time:Thu Mar 30 00:09:22 2017
+
+type:3 price:10 value:460 util_val:0 util_class:0 time:Thu Mar 30 00:09:22 2017
+
+type:1 price:15 value:308 time:Thu Mar 30 00:09:22 2017
+
+type:3 price:17 value:224 util_val:95 util_class:85 time:Thu Mar 30 00:09:22 2017
+
+type:1 price:17 value:470 time:Thu Mar 30 00:09:22 2017
+
+type:3 price:19 value:499 util_val:0 util_class:0 time:Thu Mar 30 00:09:22 2017
+
+type:1 price:23 value:46 time:Thu Mar 30 00:09:22 2017
+
+type:1 price:26 value:494 time:Thu Mar 30 00:09:22 2017
+
+type:3 price:29 value:210 util_val:45 util_class:21 time:Thu Mar 30 00:09:22 2017
+
+type:2 price:29 value:175 rating:9 difficulty:79 time:Thu Mar 30 00:09:22 2017
+
+type:2 price:31 value:281 rating:57 difficulty:38 time:Thu Mar 30 00:09:22 2017
+
+type:1 price:38 value:331 time:Thu Mar 30 00:09:22 2017
+
+type:2 price:41 value:332 rating:41 difficulty:86 time:Thu Mar 30 00:09:22 2017
+
+type:2 price:49 value:92 rating:64 difficulty:92 time:Thu Mar 30 00:09:22 2017
+
+type:1 price:53 value:63 time:Thu Mar 30 00:09:22 2017
+
+type:2 price:53 value:54 rating:76 difficulty:17 time:Thu Mar 30 00:09:22 2017
+
+type:3 price:54 value:158 util_val:11 util_class:15 time:Thu Mar 30 00:09:22 2017
+
+
+boy:KOAJJTO girl:BMHBPUV
+
+Gifts exchanged
+type:3 price:1 value:246 util_val:66 util_class:13 time:Thu Mar 30 00:09:22 2017
+
+type:2 price:3 value:277 rating:0 difficulty:0 time:Thu Mar 30 00:09:22 2017
+
+type:3 price:4 value:191 util_val:0 util_class:0 time:Thu Mar 30 00:09:22 2017
+
+type:3 price:6 value:221 util_val:0 util_class:0 time:Thu Mar 30 00:09:22 2017
+
+type:3 price:8 value:210 util_val:98 util_class:78 time:Thu Mar 30 00:09:22 2017
+
+type:3 price:10 value:460 util_val:0 util_class:0 time:Thu Mar 30 00:09:22 2017
+
+type:1 price:15 value:308 time:Thu Mar 30 00:09:22 2017
+
+type:3 price:17 value:224 util_val:95 util_class:85 time:Thu Mar 30 00:09:22 2017
+
+type:1 price:17 value:470 time:Thu Mar 30 00:09:22 2017
+
+type:3 price:19 value:499 util_val:0 util_class:0 time:Thu Mar 30 00:09:22 2017
+
+type:1 price:23 value:46 time:Thu Mar 30 00:09:22 2017
+
+type:1 price:26 value:494 time:Thu Mar 30 00:09:22 2017
+
+type:3 price:29 value:210 util_val:45 util_class:21 time:Thu Mar 30 00:09:22 2017
+
+type:2 price:29 value:175 rating:9 difficulty:79 time:Thu Mar 30 00:09:22 2017
+
+type:2 price:31 value:281 rating:57 difficulty:38 time:Thu Mar 30 00:09:22 2017
+
+
+boy:WDXAFML girl:GOXYRDX
+
+Gifts exchanged
+type:3 price:1 value:246 util_val:66 util_class:13 time:Thu Mar 30 00:09:22 2017
+
+type:2 price:3 value:277 rating:0 difficulty:0 time:Thu Mar 30 00:09:22 2017
+
+type:3 price:4 value:191 util_val:0 util_class:0 time:Thu Mar 30 00:09:22 2017
+
+type:3 price:6 value:221 util_val:0 util_class:0 time:Thu Mar 30 00:09:22 2017
+
+type:3 price:8 value:210 util_val:98 util_class:78 time:Thu Mar 30 00:09:22 2017
+
+type:3 price:10 value:460 util_val:0 util_class:0 time:Thu Mar 30 00:09:22 2017
+
+type:1 price:15 value:308 time:Thu Mar 30 00:09:22 2017
+
+type:3 price:17 value:224 util_val:95 util_class:85 time:Thu Mar 30 00:09:22 2017
+
+type:1 price:17 value:470 time:Thu Mar 30 00:09:22 2017
+
+type:3 price:19 value:499 util_val:0 util_class:0 time:Thu Mar 30 00:09:22 2017
+
+type:1 price:23 value:46 time:Thu Mar 30 00:09:22 2017
+
+type:1 price:26 value:494 time:Thu Mar 30 00:09:22 2017
+
+type:3 price:29 value:210 util_val:45 util_class:21 time:Thu Mar 30 00:09:22 2017
+
+type:2 price:29 value:175 rating:9 difficulty:79 time:Thu Mar 30 00:09:22 2017
+
+type:2 price:31 value:281 rating:57 difficulty:38 time:Thu Mar 30 00:09:22 2017
+
+type:1 price:38 value:331 time:Thu Mar 30 00:09:22 2017
+
+type:2 price:41 value:332 rating:41 difficulty:86 time:Thu Mar 30 00:09:22 2017
+
+
+boy:IRMRLXP girl:CHLINOV
+
+Gifts exchanged
+type:3 price:1 value:246 util_val:66 util_class:13 time:Thu Mar 30 00:09:22 2017
+
+type:2 price:3 value:277 rating:0 difficulty:0 time:Thu Mar 30 00:09:22 2017
+
+type:3 price:4 value:191 util_val:0 util_class:0 time:Thu Mar 30 00:09:22 2017
+
+type:3 price:6 value:221 util_val:0 util_class:0 time:Thu Mar 30 00:09:22 2017
+
+type:3 price:8 value:210 util_val:98 util_class:78 time:Thu Mar 30 00:09:22 2017
+
+type:3 price:10 value:460 util_val:0 util_class:0 time:Thu Mar 30 00:09:22 2017
+
+type:1 price:15 value:308 time:Thu Mar 30 00:09:22 2017
+
+type:3 price:17 value:224 util_val:95 util_class:85 time:Thu Mar 30 00:09:22 2017
+
+type:1 price:17 value:470 time:Thu Mar 30 00:09:22 2017
+
+type:3 price:19 value:499 util_val:0 util_class:0 time:Thu Mar 30 00:09:22 2017
+
+type:1 price:23 value:46 time:Thu Mar 30 00:09:22 2017
+
+type:1 price:26 value:494 time:Thu Mar 30 00:09:22 2017
+
+type:3 price:29 value:210 util_val:45 util_class:21 time:Thu Mar 30 00:09:22 2017
+
+type:2 price:29 value:175 rating:9 difficulty:79 time:Thu Mar 30 00:09:22 2017
+
+type:2 price:31 value:281 rating:57 difficulty:38 time:Thu Mar 30 00:09:22 2017
+
+type:1 price:38 value:331 time:Thu Mar 30 00:09:22 2017
+
+type:2 price:41 value:332 rating:41 difficulty:86 time:Thu Mar 30 00:09:22 2017
+
+type:2 price:49 value:92 rating:64 difficulty:92 time:Thu Mar 30 00:09:22 2017
+
+type:1 price:53 value:63 time:Thu Mar 30 00:09:22 2017
+
+type:2 price:53 value:54 rating:76 difficulty:17 time:Thu Mar 30 00:09:22 2017
+
+type:3 price:54 value:158 util_val:11 util_class:15 time:Thu Mar 30 00:09:22 2017
+
+type:3 price:55 value:341 util_val:0 util_class:0 time:Thu Mar 30 00:09:22 2017
+
+
+boy:CPDNEGT girl:ULHMGQM
+
+Gifts exchanged
+type:3 price:1 value:246 util_val:66 util_class:13 time:Thu Mar 30 00:09:22 2017
+
+type:2 price:3 value:277 rating:0 difficulty:0 time:Thu Mar 30 00:09:22 2017
+
+type:3 price:4 value:191 util_val:0 util_class:0 time:Thu Mar 30 00:09:22 2017
+
+type:3 price:6 value:221 util_val:0 util_class:0 time:Thu Mar 30 00:09:22 2017
+
+type:3 price:8 value:210 util_val:98 util_class:78 time:Thu Mar 30 00:09:22 2017
+
+type:3 price:10 value:460 util_val:0 util_class:0 time:Thu Mar 30 00:09:22 2017
+
+type:1 price:15 value:308 time:Thu Mar 30 00:09:22 2017
+
+type:3 price:17 value:224 util_val:95 util_class:85 time:Thu Mar 30 00:09:22 2017
+
+type:1 price:17 value:470 time:Thu Mar 30 00:09:22 2017
+
+type:3 price:19 value:499 util_val:0 util_class:0 time:Thu Mar 30 00:09:22 2017
+
+type:1 price:23 value:46 time:Thu Mar 30 00:09:22 2017
+
+type:1 price:26 value:494 time:Thu Mar 30 00:09:22 2017
+
+type:3 price:29 value:210 util_val:45 util_class:21 time:Thu Mar 30 00:09:22 2017
+
+type:2 price:29 value:175 rating:9 difficulty:79 time:Thu Mar 30 00:09:22 2017
+
+type:2 price:31 value:281 rating:57 difficulty:38 time:Thu Mar 30 00:09:22 2017
+
+type:1 price:38 value:331 time:Thu Mar 30 00:09:22 2017
+
+type:2 price:41 value:332 rating:41 difficulty:86 time:Thu Mar 30 00:09:22 2017
+
+type:2 price:49 value:92 rating:64 difficulty:92 time:Thu Mar 30 00:09:22 2017
+
+type:1 price:53 value:63 time:Thu Mar 30 00:09:22 2017
+
+type:2 price:53 value:54 rating:76 difficulty:17 time:Thu Mar 30 00:09:22 2017
+
+type:3 price:54 value:158 util_val:11 util_class:15 time:Thu Mar 30 00:09:22 2017
+
+
+boy:ORCFVVF girl:RWQSICO
+
+Gifts exchanged
+type:3 price:1 value:246 util_val:66 util_class:13 time:Thu Mar 30 00:09:22 2017
+
+type:2 price:3 value:277 rating:0 difficulty:0 time:Thu Mar 30 00:09:22 2017
+
+type:3 price:4 value:191 util_val:0 util_class:0 time:Thu Mar 30 00:09:22 2017
+
+type:3 price:6 value:221 util_val:0 util_class:0 time:Thu Mar 30 00:09:22 2017
+
+type:3 price:8 value:210 util_val:98 util_class:78 time:Thu Mar 30 00:09:22 2017
+
+type:3 price:10 value:460 util_val:0 util_class:0 time:Thu Mar 30 00:09:22 2017
+
+type:1 price:15 value:308 time:Thu Mar 30 00:09:22 2017
+
+type:3 price:17 value:224 util_val:95 util_class:85 time:Thu Mar 30 00:09:22 2017
+
+type:1 price:17 value:470 time:Thu Mar 30 00:09:22 2017
+
+type:3 price:19 value:499 util_val:0 util_class:0 time:Thu Mar 30 00:09:22 2017
+
+type:1 price:23 value:46 time:Thu Mar 30 00:09:22 2017
+
+type:1 price:26 value:494 time:Thu Mar 30 00:09:22 2017
+
+type:3 price:29 value:210 util_val:45 util_class:21 time:Thu Mar 30 00:09:22 2017
+
+type:2 price:29 value:175 rating:9 difficulty:79 time:Thu Mar 30 00:09:22 2017
+
+type:2 price:31 value:281 rating:57 difficulty:38 time:Thu Mar 30 00:09:22 2017
+
+type:1 price:38 value:331 time:Thu Mar 30 00:09:22 2017
+
+type:2 price:41 value:332 rating:41 difficulty:86 time:Thu Mar 30 00:09:22 2017
+
+type:2 price:49 value:92 rating:64 difficulty:92 time:Thu Mar 30 00:09:22 2017
+
+type:1 price:53 value:63 time:Thu Mar 30 00:09:22 2017
+
+type:2 price:53 value:54 rating:76 difficulty:17 time:Thu Mar 30 00:09:22 2017
+
+type:3 price:54 value:158 util_val:11 util_class:15 time:Thu Mar 30 00:09:22 2017
+
+
+boy:PQHBQBK girl:DQBSJQQ
+
+Gifts exchanged
+type:3 price:1 value:246 util_val:66 util_class:13 time:Thu Mar 30 00:09:22 2017
+
+type:2 price:3 value:277 rating:0 difficulty:0 time:Thu Mar 30 00:09:22 2017
+
+type:3 price:4 value:191 util_val:0 util_class:0 time:Thu Mar 30 00:09:22 2017
+
+type:3 price:6 value:221 util_val:0 util_class:0 time:Thu Mar 30 00:09:22 2017
+
+type:3 price:8 value:210 util_val:98 util_class:78 time:Thu Mar 30 00:09:22 2017
+
+type:3 price:10 value:460 util_val:0 util_class:0 time:Thu Mar 30 00:09:22 2017
+
+type:1 price:15 value:308 time:Thu Mar 30 00:09:22 2017
+
+type:3 price:17 value:224 util_val:95 util_class:85 time:Thu Mar 30 00:09:22 2017
+
+type:1 price:17 value:470 time:Thu Mar 30 00:09:22 2017
+
+type:3 price:19 value:499 util_val:0 util_class:0 time:Thu Mar 30 00:09:22 2017
+
+type:1 price:23 value:46 time:Thu Mar 30 00:09:22 2017
+
+type:1 price:26 value:494 time:Thu Mar 30 00:09:22 2017
+
+type:3 price:29 value:210 util_val:45 util_class:21 time:Thu Mar 30 00:09:22 2017
+
+type:2 price:29 value:175 rating:9 difficulty:79 time:Thu Mar 30 00:09:22 2017
+
+type:2 price:31 value:281 rating:57 difficulty:38 time:Thu Mar 30 00:09:22 2017
+
+type:1 price:38 value:331 time:Thu Mar 30 00:09:22 2017
+
+type:2 price:41 value:332 rating:41 difficulty:86 time:Thu Mar 30 00:09:22 2017
+
+type:2 price:49 value:92 rating:64 difficulty:92 time:Thu Mar 30 00:09:22 2017
+
+type:1 price:53 value:63 time:Thu Mar 30 00:09:22 2017
+
+type:2 price:53 value:54 rating:76 difficulty:17 time:Thu Mar 30 00:09:22 2017
+
+
+boy:VCASJWS girl:WUFKTOT
+
+Gifts exchanged
+type:3 price:1 value:246 util_val:66 util_class:13 time:Thu Mar 30 00:09:22 2017
+
+type:2 price:3 value:277 rating:0 difficulty:0 time:Thu Mar 30 00:09:22 2017
+
+type:3 price:4 value:191 util_val:0 util_class:0 time:Thu Mar 30 00:09:22 2017
+
+type:3 price:6 value:221 util_val:0 util_class:0 time:Thu Mar 30 00:09:22 2017
+
+type:3 price:8 value:210 util_val:98 util_class:78 time:Thu Mar 30 00:09:22 2017
+
+type:3 price:10 value:460 util_val:0 util_class:0 time:Thu Mar 30 00:09:22 2017
+
+type:1 price:15 value:308 time:Thu Mar 30 00:09:22 2017
+
+type:3 price:17 value:224 util_val:95 util_class:85 time:Thu Mar 30 00:09:22 2017
+
+type:1 price:17 value:470 time:Thu Mar 30 00:09:22 2017
+
+type:3 price:19 value:499 util_val:0 util_class:0 time:Thu Mar 30 00:09:22 2017
+
+type:1 price:23 value:46 time:Thu Mar 30 00:09:22 2017
+
+type:1 price:26 value:494 time:Thu Mar 30 00:09:22 2017
+
+type:3 price:29 value:210 util_val:45 util_class:21 time:Thu Mar 30 00:09:22 2017
+
+type:2 price:29 value:175 rating:9 difficulty:79 time:Thu Mar 30 00:09:22 2017
+
+type:2 price:31 value:281 rating:57 difficulty:38 time:Thu Mar 30 00:09:22 2017
+
+type:1 price:38 value:331 time:Thu Mar 30 00:09:22 2017
+
+type:2 price:41 value:332 rating:41 difficulty:86 time:Thu Mar 30 00:09:22 2017
+
+type:2 price:49 value:92 rating:64 difficulty:92 time:Thu Mar 30 00:09:22 2017
+
+type:1 price:53 value:63 time:Thu Mar 30 00:09:22 2017
+
+type:2 price:53 value:54 rating:76 difficulty:17 time:Thu Mar 30 00:09:22 2017
+
+type:3 price:54 value:158 util_val:11 util_class:15 time:Thu Mar 30 00:09:22 2017
+
+type:3 price:55 value:341 util_val:0 util_class:0 time:Thu Mar 30 00:09:22 2017
+
+type:3 price:56 value:518 util_val:38 util_class:31 time:Thu Mar 30 00:09:22 2017
+
+type:2 price:57 value:64 rating:96 difficulty:53 time:Thu Mar 30 00:09:22 2017
+
+type:1 price:61 value:415 time:Thu Mar 30 00:09:22 2017
+
+type:3 price:62 value:595 util_val:0 util_class:0 time:Thu Mar 30 00:09:22 2017
+
+type:3 price:63 value:442 util_val:67 util_class:9 time:Thu Mar 30 00:09:22 2017
+
+
+boy:JIPPWES girl:PIAGRCJ
+
+Gifts exchanged
+type:3 price:1 value:246 util_val:66 util_class:13 time:Thu Mar 30 00:09:22 2017
+
+type:2 price:3 value:277 rating:0 difficulty:0 time:Thu Mar 30 00:09:22 2017
+
+type:3 price:4 value:191 util_val:0 util_class:0 time:Thu Mar 30 00:09:22 2017
+
+type:3 price:6 value:221 util_val:0 util_class:0 time:Thu Mar 30 00:09:22 2017
+
+type:3 price:8 value:210 util_val:98 util_class:78 time:Thu Mar 30 00:09:22 2017
+
+type:3 price:10 value:460 util_val:0 util_class:0 time:Thu Mar 30 00:09:22 2017
+
+type:1 price:15 value:308 time:Thu Mar 30 00:09:22 2017
+
+type:3 price:17 value:224 util_val:95 util_class:85 time:Thu Mar 30 00:09:22 2017
+
+type:1 price:17 value:470 time:Thu Mar 30 00:09:22 2017
+
+type:3 price:19 value:499 util_val:0 util_class:0 time:Thu Mar 30 00:09:22 2017
+
+type:1 price:23 value:46 time:Thu Mar 30 00:09:22 2017
+
+type:1 price:26 value:494 time:Thu Mar 30 00:09:22 2017
+
+type:3 price:29 value:210 util_val:45 util_class:21 time:Thu Mar 30 00:09:22 2017
+
+type:2 price:29 value:175 rating:9 difficulty:79 time:Thu Mar 30 00:09:22 2017
+
+type:2 price:31 value:281 rating:57 difficulty:38 time:Thu Mar 30 00:09:22 2017
+
+type:1 price:38 value:331 time:Thu Mar 30 00:09:22 2017
+
+type:2 price:41 value:332 rating:41 difficulty:86 time:Thu Mar 30 00:09:22 2017
+
+type:2 price:49 value:92 rating:64 difficulty:92 time:Thu Mar 30 00:09:22 2017
+
+type:1 price:53 value:63 time:Thu Mar 30 00:09:22 2017
+
+type:2 price:53 value:54 rating:76 difficulty:17 time:Thu Mar 30 00:09:22 2017
+
+type:3 price:54 value:158 util_val:11 util_class:15 time:Thu Mar 30 00:09:22 2017
+
+type:3 price:55 value:341 util_val:0 util_class:0 time:Thu Mar 30 00:09:22 2017
+
+type:3 price:56 value:518 util_val:38 util_class:31 time:Thu Mar 30 00:09:22 2017
+
+type:2 price:57 value:64 rating:96 difficulty:53 time:Thu Mar 30 00:09:22 2017
+
+
+boy:MMOQYHH girl:VHSFYPV
+
+Gifts exchanged
+type:3 price:1 value:246 util_val:66 util_class:13 time:Thu Mar 30 00:09:22 2017
+
+type:2 price:3 value:277 rating:0 difficulty:0 time:Thu Mar 30 00:09:22 2017
+
+type:3 price:4 value:191 util_val:0 util_class:0 time:Thu Mar 30 00:09:22 2017
+
+type:3 price:6 value:221 util_val:0 util_class:0 time:Thu Mar 30 00:09:22 2017
+
+type:3 price:8 value:210 util_val:98 util_class:78 time:Thu Mar 30 00:09:22 2017
+
+type:3 price:10 value:460 util_val:0 util_class:0 time:Thu Mar 30 00:09:22 2017
+
+type:1 price:15 value:308 time:Thu Mar 30 00:09:22 2017
+
+type:3 price:17 value:224 util_val:95 util_class:85 time:Thu Mar 30 00:09:22 2017
+
+type:1 price:17 value:470 time:Thu Mar 30 00:09:22 2017
+
+type:3 price:19 value:499 util_val:0 util_class:0 time:Thu Mar 30 00:09:22 2017
+
+type:1 price:23 value:46 time:Thu Mar 30 00:09:22 2017
+
+type:1 price:26 value:494 time:Thu Mar 30 00:09:22 2017
+
+type:3 price:29 value:210 util_val:45 util_class:21 time:Thu Mar 30 00:09:22 2017
+
+type:2 price:29 value:175 rating:9 difficulty:79 time:Thu Mar 30 00:09:22 2017
+
+type:2 price:31 value:281 rating:57 difficulty:38 time:Thu Mar 30 00:09:22 2017
+
+type:1 price:38 value:331 time:Thu Mar 30 00:09:22 2017
+
+type:2 price:41 value:332 rating:41 difficulty:86 time:Thu Mar 30 00:09:22 2017
+
+type:2 price:49 value:92 rating:64 difficulty:92 time:Thu Mar 30 00:09:22 2017
+
+type:1 price:53 value:63 time:Thu Mar 30 00:09:22 2017
+
+type:2 price:53 value:54 rating:76 difficulty:17 time:Thu Mar 30 00:09:22 2017
+
+type:3 price:54 value:158 util_val:11 util_class:15 time:Thu Mar 30 00:09:22 2017
+
+type:3 price:55 value:341 util_val:0 util_class:0 time:Thu Mar 30 00:09:22 2017
+
+type:3 price:56 value:518 util_val:38 util_class:31 time:Thu Mar 30 00:09:22 2017
+
+
+boy:FYLUDFL girl:SFYSSRK
+
+Gifts exchanged
+type:3 price:1 value:246 util_val:66 util_class:13 time:Thu Mar 30 00:09:22 2017
+
+type:2 price:3 value:277 rating:0 difficulty:0 time:Thu Mar 30 00:09:22 2017
+
+type:3 price:4 value:191 util_val:0 util_class:0 time:Thu Mar 30 00:09:22 2017
+
+type:3 price:6 value:221 util_val:0 util_class:0 time:Thu Mar 30 00:09:22 2017
+
+type:3 price:8 value:210 util_val:98 util_class:78 time:Thu Mar 30 00:09:22 2017
+
+type:3 price:10 value:460 util_val:0 util_class:0 time:Thu Mar 30 00:09:22 2017
+
+type:1 price:15 value:308 time:Thu Mar 30 00:09:22 2017
+
+type:3 price:17 value:224 util_val:95 util_class:85 time:Thu Mar 30 00:09:22 2017
+
+type:1 price:17 value:470 time:Thu Mar 30 00:09:22 2017
+
+type:3 price:19 value:499 util_val:0 util_class:0 time:Thu Mar 30 00:09:22 2017
+
+type:1 price:23 value:46 time:Thu Mar 30 00:09:22 2017
+
+type:1 price:26 value:494 time:Thu Mar 30 00:09:22 2017
+
+type:3 price:29 value:210 util_val:45 util_class:21 time:Thu Mar 30 00:09:22 2017
+
+type:2 price:29 value:175 rating:9 difficulty:79 time:Thu Mar 30 00:09:22 2017
+
+type:2 price:31 value:281 rating:57 difficulty:38 time:Thu Mar 30 00:09:22 2017
+
+type:1 price:38 value:331 time:Thu Mar 30 00:09:22 2017
+
+type:2 price:41 value:332 rating:41 difficulty:86 time:Thu Mar 30 00:09:22 2017
+
+type:2 price:49 value:92 rating:64 difficulty:92 time:Thu Mar 30 00:09:22 2017
+
+
+boy:VKMVVYY girl:SEXLXDP
+
+Gifts exchanged
+type:3 price:1 value:246 util_val:66 util_class:13 time:Thu Mar 30 00:09:22 2017
+
+type:2 price:3 value:277 rating:0 difficulty:0 time:Thu Mar 30 00:09:22 2017
+
+type:3 price:4 value:191 util_val:0 util_class:0 time:Thu Mar 30 00:09:22 2017
+
+type:3 price:6 value:221 util_val:0 util_class:0 time:Thu Mar 30 00:09:22 2017
+
+type:3 price:8 value:210 util_val:98 util_class:78 time:Thu Mar 30 00:09:22 2017
+
+type:3 price:10 value:460 util_val:0 util_class:0 time:Thu Mar 30 00:09:22 2017
+
+type:1 price:15 value:308 time:Thu Mar 30 00:09:22 2017
+
+type:3 price:17 value:224 util_val:95 util_class:85 time:Thu Mar 30 00:09:22 2017
+
+type:1 price:17 value:470 time:Thu Mar 30 00:09:22 2017
+
+type:3 price:19 value:499 util_val:0 util_class:0 time:Thu Mar 30 00:09:22 2017
+
+type:1 price:23 value:46 time:Thu Mar 30 00:09:22 2017
+
+type:1 price:26 value:494 time:Thu Mar 30 00:09:22 2017
+
+type:3 price:29 value:210 util_val:45 util_class:21 time:Thu Mar 30 00:09:22 2017
+
+type:2 price:29 value:175 rating:9 difficulty:79 time:Thu Mar 30 00:09:22 2017
+
+type:2 price:31 value:281 rating:57 difficulty:38 time:Thu Mar 30 00:09:22 2017
+
+type:1 price:38 value:331 time:Thu Mar 30 00:09:22 2017
+
+type:2 price:41 value:332 rating:41 difficulty:86 time:Thu Mar 30 00:09:22 2017
+
+type:2 price:49 value:92 rating:64 difficulty:92 time:Thu Mar 30 00:09:22 2017
+
+
+boy:KOKCREL girl:QSILQUA
+
+Gifts exchanged
+type:3 price:1 value:246 util_val:66 util_class:13 time:Thu Mar 30 00:09:22 2017
+
+type:2 price:3 value:277 rating:0 difficulty:0 time:Thu Mar 30 00:09:22 2017
+
+type:3 price:4 value:191 util_val:0 util_class:0 time:Thu Mar 30 00:09:22 2017
+
+type:3 price:6 value:221 util_val:0 util_class:0 time:Thu Mar 30 00:09:22 2017
+
+type:3 price:8 value:210 util_val:98 util_class:78 time:Thu Mar 30 00:09:22 2017
+
+type:3 price:10 value:460 util_val:0 util_class:0 time:Thu Mar 30 00:09:22 2017
+
+type:1 price:15 value:308 time:Thu Mar 30 00:09:22 2017
+
+type:3 price:17 value:224 util_val:95 util_class:85 time:Thu Mar 30 00:09:22 2017
+
+type:1 price:17 value:470 time:Thu Mar 30 00:09:22 2017
+
+type:3 price:19 value:499 util_val:0 util_class:0 time:Thu Mar 30 00:09:22 2017
+
+type:1 price:23 value:46 time:Thu Mar 30 00:09:22 2017
+
+type:1 price:26 value:494 time:Thu Mar 30 00:09:22 2017
+
+type:3 price:29 value:210 util_val:45 util_class:21 time:Thu Mar 30 00:09:22 2017
+
+type:2 price:29 value:175 rating:9 difficulty:79 time:Thu Mar 30 00:09:22 2017
+
+type:2 price:31 value:281 rating:57 difficulty:38 time:Thu Mar 30 00:09:22 2017
+
+type:1 price:38 value:331 time:Thu Mar 30 00:09:22 2017
+
+type:2 price:41 value:332 rating:41 difficulty:86 time:Thu Mar 30 00:09:22 2017
+
+type:2 price:49 value:92 rating:64 difficulty:92 time:Thu Mar 30 00:09:22 2017
+
+type:1 price:53 value:63 time:Thu Mar 30 00:09:22 2017
+
+type:2 price:53 value:54 rating:76 difficulty:17 time:Thu Mar 30 00:09:22 2017
+
+type:3 price:54 value:158 util_val:11 util_class:15 time:Thu Mar 30 00:09:22 2017
+
+type:3 price:55 value:341 util_val:0 util_class:0 time:Thu Mar 30 00:09:22 2017
+
+type:3 price:56 value:518 util_val:38 util_class:31 time:Thu Mar 30 00:09:22 2017
+
+type:2 price:57 value:64 rating:96 difficulty:53 time:Thu Mar 30 00:09:22 2017
+
+type:1 price:61 value:415 time:Thu Mar 30 00:09:22 2017
+
+type:3 price:62 value:595 util_val:0 util_class:0 time:Thu Mar 30 00:09:22 2017
+
+type:3 price:63 value:442 util_val:67 util_class:9 time:Thu Mar 30 00:09:22 2017
+
+
+boy:KGJAFBW girl:WJYBEDO
+
+Gifts exchanged
+type:3 price:1 value:246 util_val:66 util_class:13 time:Thu Mar 30 00:09:22 2017
+
+type:2 price:3 value:277 rating:0 difficulty:0 time:Thu Mar 30 00:09:22 2017
+
+type:3 price:4 value:191 util_val:0 util_class:0 time:Thu Mar 30 00:09:22 2017
+
+type:3 price:6 value:221 util_val:0 util_class:0 time:Thu Mar 30 00:09:22 2017
+
+type:3 price:8 value:210 util_val:98 util_class:78 time:Thu Mar 30 00:09:22 2017
+
+type:3 price:10 value:460 util_val:0 util_class:0 time:Thu Mar 30 00:09:22 2017
+
+type:1 price:15 value:308 time:Thu Mar 30 00:09:22 2017
+
+type:3 price:17 value:224 util_val:95 util_class:85 time:Thu Mar 30 00:09:22 2017
+
+type:1 price:17 value:470 time:Thu Mar 30 00:09:22 2017
+
+type:3 price:19 value:499 util_val:0 util_class:0 time:Thu Mar 30 00:09:22 2017
+
+type:1 price:23 value:46 time:Thu Mar 30 00:09:22 2017
+
+type:1 price:26 value:494 time:Thu Mar 30 00:09:22 2017
+
+type:3 price:29 value:210 util_val:45 util_class:21 time:Thu Mar 30 00:09:22 2017
+
+type:2 price:29 value:175 rating:9 difficulty:79 time:Thu Mar 30 00:09:22 2017
+
+type:2 price:31 value:281 rating:57 difficulty:38 time:Thu Mar 30 00:09:22 2017
+
+type:1 price:38 value:331 time:Thu Mar 30 00:09:22 2017
+
+type:2 price:41 value:332 rating:41 difficulty:86 time:Thu Mar 30 00:09:22 2017
+
+type:2 price:49 value:92 rating:64 difficulty:92 time:Thu Mar 30 00:09:22 2017
+
+type:1 price:53 value:63 time:Thu Mar 30 00:09:22 2017
+
+type:2 price:53 value:54 rating:76 difficulty:17 time:Thu Mar 30 00:09:22 2017
+
+type:3 price:54 value:158 util_val:11 util_class:15 time:Thu Mar 30 00:09:22 2017
+
+type:3 price:55 value:341 util_val:0 util_class:0 time:Thu Mar 30 00:09:22 2017
+
+type:3 price:56 value:518 util_val:38 util_class:31 time:Thu Mar 30 00:09:22 2017
+
+type:2 price:57 value:64 rating:96 difficulty:53 time:Thu Mar 30 00:09:22 2017
+
+
+boy:RCTIMUR girl:COJBRCQ
+
+Gifts exchanged
+type:3 price:1 value:246 util_val:66 util_class:13 time:Thu Mar 30 00:09:22 2017
+
+type:2 price:3 value:277 rating:0 difficulty:0 time:Thu Mar 30 00:09:22 2017
+
+type:3 price:4 value:191 util_val:0 util_class:0 time:Thu Mar 30 00:09:22 2017
+
+type:3 price:6 value:221 util_val:0 util_class:0 time:Thu Mar 30 00:09:22 2017
+
+type:3 price:8 value:210 util_val:98 util_class:78 time:Thu Mar 30 00:09:22 2017
+
+type:3 price:10 value:460 util_val:0 util_class:0 time:Thu Mar 30 00:09:22 2017
+
+type:1 price:15 value:308 time:Thu Mar 30 00:09:22 2017
+
+type:3 price:17 value:224 util_val:95 util_class:85 time:Thu Mar 30 00:09:22 2017
+
+type:1 price:17 value:470 time:Thu Mar 30 00:09:22 2017
+
+type:3 price:19 value:499 util_val:0 util_class:0 time:Thu Mar 30 00:09:22 2017
+
+type:1 price:23 value:46 time:Thu Mar 30 00:09:22 2017
+
+type:1 price:26 value:494 time:Thu Mar 30 00:09:22 2017
+
+type:3 price:29 value:210 util_val:45 util_class:21 time:Thu Mar 30 00:09:22 2017
+
+type:2 price:29 value:175 rating:9 difficulty:79 time:Thu Mar 30 00:09:22 2017
+
+type:2 price:31 value:281 rating:57 difficulty:38 time:Thu Mar 30 00:09:22 2017
+
+type:1 price:38 value:331 time:Thu Mar 30 00:09:22 2017
+
+
+boy:FEHUGNJ girl:SXMFHLJ
+
+Gifts exchanged
+type:3 price:1 value:246 util_val:66 util_class:13 time:Thu Mar 30 00:09:22 2017
+
+type:2 price:3 value:277 rating:0 difficulty:0 time:Thu Mar 30 00:09:22 2017
+
+type:3 price:4 value:191 util_val:0 util_class:0 time:Thu Mar 30 00:09:22 2017
+
+type:3 price:6 value:221 util_val:0 util_class:0 time:Thu Mar 30 00:09:22 2017
+
+type:3 price:8 value:210 util_val:98 util_class:78 time:Thu Mar 30 00:09:22 2017
+
+type:3 price:10 value:460 util_val:0 util_class:0 time:Thu Mar 30 00:09:22 2017
+
+type:1 price:15 value:308 time:Thu Mar 30 00:09:22 2017
+
+type:3 price:17 value:224 util_val:95 util_class:85 time:Thu Mar 30 00:09:22 2017
+
+type:1 price:17 value:470 time:Thu Mar 30 00:09:22 2017
+
+type:3 price:19 value:499 util_val:0 util_class:0 time:Thu Mar 30 00:09:22 2017
+
+type:1 price:23 value:46 time:Thu Mar 30 00:09:22 2017
+
+type:1 price:26 value:494 time:Thu Mar 30 00:09:22 2017
+
+type:3 price:29 value:210 util_val:45 util_class:21 time:Thu Mar 30 00:09:22 2017
+
+type:2 price:29 value:175 rating:9 difficulty:79 time:Thu Mar 30 00:09:22 2017
+
+type:2 price:31 value:281 rating:57 difficulty:38 time:Thu Mar 30 00:09:22 2017
+
+type:1 price:38 value:331 time:Thu Mar 30 00:09:22 2017
+
+type:2 price:41 value:332 rating:41 difficulty:86 time:Thu Mar 30 00:09:22 2017
+
+type:2 price:49 value:92 rating:64 difficulty:92 time:Thu Mar 30 00:09:22 2017
+
+type:1 price:53 value:63 time:Thu Mar 30 00:09:22 2017
+
+type:2 price:53 value:54 rating:76 difficulty:17 time:Thu Mar 30 00:09:22 2017
+
+type:3 price:54 value:158 util_val:11 util_class:15 time:Thu Mar 30 00:09:22 2017
+
+type:3 price:55 value:341 util_val:0 util_class:0 time:Thu Mar 30 00:09:22 2017
+
+type:3 price:56 value:518 util_val:38 util_class:31 time:Thu Mar 30 00:09:22 2017
+
+type:2 price:57 value:64 rating:96 difficulty:53 time:Thu Mar 30 00:09:22 2017
+
+type:1 price:61 value:415 time:Thu Mar 30 00:09:22 2017
+
+
+boy:WGRHOTS girl:BMVNIHT
+
+Gifts exchanged
+type:3 price:1 value:246 util_val:66 util_class:13 time:Thu Mar 30 00:09:22 2017
+
+type:2 price:3 value:277 rating:0 difficulty:0 time:Thu Mar 30 00:09:22 2017
+
+type:3 price:4 value:191 util_val:0 util_class:0 time:Thu Mar 30 00:09:22 2017
+
+type:3 price:6 value:221 util_val:0 util_class:0 time:Thu Mar 30 00:09:22 2017
+
+type:3 price:8 value:210 util_val:98 util_class:78 time:Thu Mar 30 00:09:22 2017
+
+type:3 price:10 value:460 util_val:0 util_class:0 time:Thu Mar 30 00:09:22 2017
+
+type:1 price:15 value:308 time:Thu Mar 30 00:09:22 2017
+
+type:3 price:17 value:224 util_val:95 util_class:85 time:Thu Mar 30 00:09:22 2017
+
+type:1 price:17 value:470 time:Thu Mar 30 00:09:22 2017
+
+type:3 price:19 value:499 util_val:0 util_class:0 time:Thu Mar 30 00:09:22 2017
+
+type:1 price:23 value:46 time:Thu Mar 30 00:09:22 2017
+
+type:1 price:26 value:494 time:Thu Mar 30 00:09:22 2017
+
+type:3 price:29 value:210 util_val:45 util_class:21 time:Thu Mar 30 00:09:22 2017
+
+type:2 price:29 value:175 rating:9 difficulty:79 time:Thu Mar 30 00:09:22 2017
+
+type:2 price:31 value:281 rating:57 difficulty:38 time:Thu Mar 30 00:09:22 2017
+
+type:1 price:38 value:331 time:Thu Mar 30 00:09:22 2017
+
+type:2 price:41 value:332 rating:41 difficulty:86 time:Thu Mar 30 00:09:22 2017
+
+type:2 price:49 value:92 rating:64 difficulty:92 time:Thu Mar 30 00:09:22 2017
+
+type:1 price:53 value:63 time:Thu Mar 30 00:09:22 2017
+
+type:2 price:53 value:54 rating:76 difficulty:17 time:Thu Mar 30 00:09:22 2017
+
+type:3 price:54 value:158 util_val:11 util_class:15 time:Thu Mar 30 00:09:22 2017
+
+type:3 price:55 value:341 util_val:0 util_class:0 time:Thu Mar 30 00:09:22 2017
+
+type:3 price:56 value:518 util_val:38 util_class:31 time:Thu Mar 30 00:09:22 2017
+
+type:2 price:57 value:64 rating:96 difficulty:53 time:Thu Mar 30 00:09:22 2017
+
+type:1 price:61 value:415 time:Thu Mar 30 00:09:22 2017
+
+
+boy:XSPQAMA girl:BBHKUYH
+
+Gifts exchanged
+type:3 price:1 value:246 util_val:66 util_class:13 time:Thu Mar 30 00:09:22 2017
+
+type:2 price:3 value:277 rating:0 difficulty:0 time:Thu Mar 30 00:09:22 2017
+
+type:3 price:4 value:191 util_val:0 util_class:0 time:Thu Mar 30 00:09:22 2017
+
+type:3 price:6 value:221 util_val:0 util_class:0 time:Thu Mar 30 00:09:22 2017
+
+type:3 price:8 value:210 util_val:98 util_class:78 time:Thu Mar 30 00:09:22 2017
+
+type:3 price:10 value:460 util_val:0 util_class:0 time:Thu Mar 30 00:09:22 2017
+
+type:1 price:15 value:308 time:Thu Mar 30 00:09:22 2017
+
+type:3 price:17 value:224 util_val:95 util_class:85 time:Thu Mar 30 00:09:22 2017
+
+type:1 price:17 value:470 time:Thu Mar 30 00:09:22 2017
+
+type:3 price:19 value:499 util_val:0 util_class:0 time:Thu Mar 30 00:09:22 2017
+
+type:1 price:23 value:46 time:Thu Mar 30 00:09:22 2017
+
+type:1 price:26 value:494 time:Thu Mar 30 00:09:22 2017
+
+type:3 price:29 value:210 util_val:45 util_class:21 time:Thu Mar 30 00:09:22 2017
+
+type:2 price:29 value:175 rating:9 difficulty:79 time:Thu Mar 30 00:09:22 2017
+
+type:2 price:31 value:281 rating:57 difficulty:38 time:Thu Mar 30 00:09:22 2017
+
+type:1 price:38 value:331 time:Thu Mar 30 00:09:22 2017
+
+type:2 price:41 value:332 rating:41 difficulty:86 time:Thu Mar 30 00:09:22 2017
+
+type:2 price:49 value:92 rating:64 difficulty:92 time:Thu Mar 30 00:09:22 2017
+
+type:1 price:53 value:63 time:Thu Mar 30 00:09:22 2017
+
+type:2 price:53 value:54 rating:76 difficulty:17 time:Thu Mar 30 00:09:22 2017
+
+type:3 price:54 value:158 util_val:11 util_class:15 time:Thu Mar 30 00:09:22 2017
+
+type:3 price:55 value:341 util_val:0 util_class:0 time:Thu Mar 30 00:09:22 2017
+
+
+boy:YEIXRRA girl:FWBGQDR
+
+Gifts exchanged
+type:3 price:1 value:246 util_val:66 util_class:13 time:Thu Mar 30 00:09:22 2017
+
+type:2 price:3 value:277 rating:0 difficulty:0 time:Thu Mar 30 00:09:22 2017
+
+type:3 price:4 value:191 util_val:0 util_class:0 time:Thu Mar 30 00:09:22 2017
+
+type:3 price:6 value:221 util_val:0 util_class:0 time:Thu Mar 30 00:09:22 2017
+
+type:3 price:8 value:210 util_val:98 util_class:78 time:Thu Mar 30 00:09:22 2017
+
+type:3 price:10 value:460 util_val:0 util_class:0 time:Thu Mar 30 00:09:22 2017
+
+type:1 price:15 value:308 time:Thu Mar 30 00:09:22 2017
+
+type:3 price:17 value:224 util_val:95 util_class:85 time:Thu Mar 30 00:09:22 2017
+
+type:1 price:17 value:470 time:Thu Mar 30 00:09:22 2017
+
+type:3 price:19 value:499 util_val:0 util_class:0 time:Thu Mar 30 00:09:22 2017
+
+type:1 price:23 value:46 time:Thu Mar 30 00:09:22 2017
+
+type:1 price:26 value:494 time:Thu Mar 30 00:09:22 2017
+
+type:3 price:29 value:210 util_val:45 util_class:21 time:Thu Mar 30 00:09:22 2017
+
+type:2 price:29 value:175 rating:9 difficulty:79 time:Thu Mar 30 00:09:22 2017
+
+type:2 price:31 value:281 rating:57 difficulty:38 time:Thu Mar 30 00:09:22 2017
+
+type:1 price:38 value:331 time:Thu Mar 30 00:09:22 2017
+
+type:2 price:41 value:332 rating:41 difficulty:86 time:Thu Mar 30 00:09:22 2017
+
+type:2 price:49 value:92 rating:64 difficulty:92 time:Thu Mar 30 00:09:22 2017
+
+type:1 price:53 value:63 time:Thu Mar 30 00:09:22 2017
+
+type:2 price:53 value:54 rating:76 difficulty:17 time:Thu Mar 30 00:09:22 2017
+
+
+boy:YHKJWSV girl:LORNCAJ
+
+Gifts exchanged
+type:3 price:1 value:246 util_val:66 util_class:13 time:Thu Mar 30 00:09:22 2017
+
+type:2 price:3 value:277 rating:0 difficulty:0 time:Thu Mar 30 00:09:22 2017
+
+type:3 price:4 value:191 util_val:0 util_class:0 time:Thu Mar 30 00:09:22 2017
+
+type:3 price:6 value:221 util_val:0 util_class:0 time:Thu Mar 30 00:09:22 2017
+
+type:3 price:8 value:210 util_val:98 util_class:78 time:Thu Mar 30 00:09:22 2017
+
+type:3 price:10 value:460 util_val:0 util_class:0 time:Thu Mar 30 00:09:22 2017
+
+type:1 price:15 value:308 time:Thu Mar 30 00:09:22 2017
+
+type:3 price:17 value:224 util_val:95 util_class:85 time:Thu Mar 30 00:09:22 2017
+
+type:1 price:17 value:470 time:Thu Mar 30 00:09:22 2017
+
+type:3 price:19 value:499 util_val:0 util_class:0 time:Thu Mar 30 00:09:22 2017
+
+type:1 price:23 value:46 time:Thu Mar 30 00:09:22 2017
+
+type:1 price:26 value:494 time:Thu Mar 30 00:09:22 2017
+
+type:3 price:29 value:210 util_val:45 util_class:21 time:Thu Mar 30 00:09:22 2017
+
+type:2 price:29 value:175 rating:9 difficulty:79 time:Thu Mar 30 00:09:22 2017
+
+type:2 price:31 value:281 rating:57 difficulty:38 time:Thu Mar 30 00:09:22 2017
+
+type:1 price:38 value:331 time:Thu Mar 30 00:09:22 2017
+
+type:2 price:41 value:332 rating:41 difficulty:86 time:Thu Mar 30 00:09:22 2017
+
+type:2 price:49 value:92 rating:64 difficulty:92 time:Thu Mar 30 00:09:22 2017
+
+type:1 price:53 value:63 time:Thu Mar 30 00:09:22 2017
+
+type:2 price:53 value:54 rating:76 difficulty:17 time:Thu Mar 30 00:09:22 2017
+
+type:3 price:54 value:158 util_val:11 util_class:15 time:Thu Mar 30 00:09:22 2017
+
+type:3 price:55 value:341 util_val:0 util_class:0 time:Thu Mar 30 00:09:22 2017
+
+type:3 price:56 value:518 util_val:38 util_class:31 time:Thu Mar 30 00:09:22 2017
+
+type:2 price:57 value:64 rating:96 difficulty:53 time:Thu Mar 30 00:09:22 2017
+
+
+boy:XKELLYT girl:WHOPRPX
+
+Gifts exchanged
+type:3 price:1 value:246 util_val:66 util_class:13 time:Thu Mar 30 00:09:22 2017
+
+type:2 price:3 value:277 rating:0 difficulty:0 time:Thu Mar 30 00:09:22 2017
+
+type:3 price:4 value:191 util_val:0 util_class:0 time:Thu Mar 30 00:09:22 2017
+
+type:3 price:6 value:221 util_val:0 util_class:0 time:Thu Mar 30 00:09:22 2017
+
+type:3 price:8 value:210 util_val:98 util_class:78 time:Thu Mar 30 00:09:22 2017
+
+type:3 price:10 value:460 util_val:0 util_class:0 time:Thu Mar 30 00:09:22 2017
+
+type:1 price:15 value:308 time:Thu Mar 30 00:09:22 2017
+
+type:3 price:17 value:224 util_val:95 util_class:85 time:Thu Mar 30 00:09:22 2017
+
+type:1 price:17 value:470 time:Thu Mar 30 00:09:22 2017
+
+type:3 price:19 value:499 util_val:0 util_class:0 time:Thu Mar 30 00:09:22 2017
+
+type:1 price:23 value:46 time:Thu Mar 30 00:09:22 2017
+
+type:1 price:26 value:494 time:Thu Mar 30 00:09:22 2017
+
+type:3 price:29 value:210 util_val:45 util_class:21 time:Thu Mar 30 00:09:22 2017
+
+type:2 price:29 value:175 rating:9 difficulty:79 time:Thu Mar 30 00:09:22 2017
+
+type:2 price:31 value:281 rating:57 difficulty:38 time:Thu Mar 30 00:09:22 2017
+
+type:1 price:38 value:331 time:Thu Mar 30 00:09:22 2017
+
+
+boy:YYLCCWC girl:OBTXVMG
+
+Gifts exchanged
+type:3 price:1 value:246 util_val:66 util_class:13 time:Thu Mar 30 00:09:22 2017
+
+type:2 price:3 value:277 rating:0 difficulty:0 time:Thu Mar 30 00:09:22 2017
+
+type:3 price:4 value:191 util_val:0 util_class:0 time:Thu Mar 30 00:09:22 2017
+
+type:3 price:6 value:221 util_val:0 util_class:0 time:Thu Mar 30 00:09:22 2017
+
+type:3 price:8 value:210 util_val:98 util_class:78 time:Thu Mar 30 00:09:22 2017
+
+type:3 price:10 value:460 util_val:0 util_class:0 time:Thu Mar 30 00:09:22 2017
+
+type:1 price:15 value:308 time:Thu Mar 30 00:09:22 2017
+
+type:3 price:17 value:224 util_val:95 util_class:85 time:Thu Mar 30 00:09:22 2017
+
+type:1 price:17 value:470 time:Thu Mar 30 00:09:22 2017
+
+type:3 price:19 value:499 util_val:0 util_class:0 time:Thu Mar 30 00:09:22 2017
+
+type:1 price:23 value:46 time:Thu Mar 30 00:09:22 2017
+
+type:1 price:26 value:494 time:Thu Mar 30 00:09:22 2017
+
+type:3 price:29 value:210 util_val:45 util_class:21 time:Thu Mar 30 00:09:22 2017
+
+type:2 price:29 value:175 rating:9 difficulty:79 time:Thu Mar 30 00:09:22 2017
+
+type:2 price:31 value:281 rating:57 difficulty:38 time:Thu Mar 30 00:09:22 2017
+
+type:1 price:38 value:331 time:Thu Mar 30 00:09:22 2017
+
+type:2 price:41 value:332 rating:41 difficulty:86 time:Thu Mar 30 00:09:22 2017
+
+type:2 price:49 value:92 rating:64 difficulty:92 time:Thu Mar 30 00:09:22 2017
+
+
+boy:TJEOWRE girl:PJKHQER
+
+Gifts exchanged
+type:3 price:1 value:246 util_val:66 util_class:13 time:Thu Mar 30 00:09:22 2017
+
+type:2 price:3 value:277 rating:0 difficulty:0 time:Thu Mar 30 00:09:22 2017
+
+type:3 price:4 value:191 util_val:0 util_class:0 time:Thu Mar 30 00:09:22 2017
+
+type:3 price:6 value:221 util_val:0 util_class:0 time:Thu Mar 30 00:09:22 2017
+
+type:3 price:8 value:210 util_val:98 util_class:78 time:Thu Mar 30 00:09:22 2017
+
+type:3 price:10 value:460 util_val:0 util_class:0 time:Thu Mar 30 00:09:22 2017
+
+type:1 price:15 value:308 time:Thu Mar 30 00:09:22 2017
+
+type:3 price:17 value:224 util_val:95 util_class:85 time:Thu Mar 30 00:09:22 2017
+
+type:1 price:17 value:470 time:Thu Mar 30 00:09:22 2017
+
+type:3 price:19 value:499 util_val:0 util_class:0 time:Thu Mar 30 00:09:22 2017
+
+type:1 price:23 value:46 time:Thu Mar 30 00:09:22 2017
+
+type:1 price:26 value:494 time:Thu Mar 30 00:09:22 2017
+
+type:3 price:29 value:210 util_val:45 util_class:21 time:Thu Mar 30 00:09:22 2017
+
+type:2 price:29 value:175 rating:9 difficulty:79 time:Thu Mar 30 00:09:22 2017
+
+type:2 price:31 value:281 rating:57 difficulty:38 time:Thu Mar 30 00:09:22 2017
+
+type:1 price:38 value:331 time:Thu Mar 30 00:09:22 2017
+
+type:2 price:41 value:332 rating:41 difficulty:86 time:Thu Mar 30 00:09:22 2017
+
+type:2 price:49 value:92 rating:64 difficulty:92 time:Thu Mar 30 00:09:22 2017
+
+type:1 price:53 value:63 time:Thu Mar 30 00:09:22 2017
+
+type:2 price:53 value:54 rating:76 difficulty:17 time:Thu Mar 30 00:09:22 2017
+
+type:3 price:54 value:158 util_val:11 util_class:15 time:Thu Mar 30 00:09:22 2017
+
+type:3 price:55 value:341 util_val:0 util_class:0 time:Thu Mar 30 00:09:22 2017
+
+type:3 price:56 value:518 util_val:38 util_class:31 time:Thu Mar 30 00:09:22 2017
+
+type:2 price:57 value:64 rating:96 difficulty:53 time:Thu Mar 30 00:09:22 2017
+
+
+boy:TXOTTVI girl:JULADVF
+
+Gifts exchanged
+type:3 price:1 value:246 util_val:66 util_class:13 time:Thu Mar 30 00:09:22 2017
+
+type:2 price:3 value:277 rating:0 difficulty:0 time:Thu Mar 30 00:09:22 2017
+
+type:3 price:4 value:191 util_val:0 util_class:0 time:Thu Mar 30 00:09:22 2017
+
+type:3 price:6 value:221 util_val:0 util_class:0 time:Thu Mar 30 00:09:22 2017
+
+type:3 price:8 value:210 util_val:98 util_class:78 time:Thu Mar 30 00:09:22 2017
+
+type:3 price:10 value:460 util_val:0 util_class:0 time:Thu Mar 30 00:09:22 2017
+
+type:1 price:15 value:308 time:Thu Mar 30 00:09:22 2017
+
+type:3 price:17 value:224 util_val:95 util_class:85 time:Thu Mar 30 00:09:22 2017
+
+type:1 price:17 value:470 time:Thu Mar 30 00:09:22 2017
+
+type:3 price:19 value:499 util_val:0 util_class:0 time:Thu Mar 30 00:09:22 2017
+
+type:1 price:23 value:46 time:Thu Mar 30 00:09:22 2017
+
+type:1 price:26 value:494 time:Thu Mar 30 00:09:22 2017
+
+type:3 price:29 value:210 util_val:45 util_class:21 time:Thu Mar 30 00:09:22 2017
 

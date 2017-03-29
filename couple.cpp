@@ -6,6 +6,9 @@
 #include "most_rich.h"
 #include "most_intl.h"
 #include "gifts.h"
+#include "essential_gifts.h"
+#include "luxury_gifts.h"
+#include "utility_gifts.h"
 #include <ctime>
 
 using namespace std;
@@ -68,7 +71,7 @@ using namespace std;
 		}}
 	}
 
-	void couple::allocate_gift(couple cp[], int nc, gifts gfts[], int n_gfts){//** member functions that allocates the gifts to the couples as per the type of boy and the girl  */
+	void couple::allocate_gift(couple cp[], int nc, gifts* gfts[], int n_gfts){//** member functions that allocates the gifts to the couples as per the type of boy and the girl  */
 			int i,j;
 			for(i=0;i<nc;i++){
 				int ch = cp[i].b.type;
@@ -77,7 +80,7 @@ using namespace std;
 				if(ch == 1 || ch == 3){
 					for(j=0;j<n_gfts;j++){
 						if(tc < cp[i].g.maintainance_budget){
-							tc += gfts[j].price;
+							tc += (*gfts[j]).price;
 							cp[i].basket[count++] = gfts[j];
 						}
 						else
@@ -91,8 +94,8 @@ using namespace std;
 				}
 				else{
 					for(j=0;j<n_gfts;j++){
-						if(tc + gfts[j].price < cp[i].b.budget){
-							tc += gfts[j].price;
+						if(tc + (*gfts[j]).price < cp[i].b.budget){
+							tc += (*gfts[j]).price;
 							cp[i].basket[count++] = gfts[j];
 						}
 						else
@@ -109,13 +112,13 @@ using namespace std;
 			int ch = cp[i].g.type;
 			int j,sum=0,sum2=0,sum3=0,val=0;
 			for(j=0;j<cp[i].num_g;j++){
-				if(cp[i].basket[j].type == 1)
-					sum += cp[i].basket[j].price;
-				else if(cp[i].basket[j].type == 2)
-					sum2 += cp[i].basket[j].price;
+				if((*(cp[i].basket[j])).type == 1)
+					sum += (*(cp[i].basket[j])).price;
+				else if((*(cp[i].basket[j])).type == 2)
+					sum2 += (*(cp[i].basket[j])).price;
 				else
-					sum3 += cp[i].basket[j].price;
-				val += cp[i].basket[j].value;
+					sum3 += (*(cp[i].basket[j])).price;
+				val += (*(cp[i].basket[j])).value;
 			}
 			
 			if(ch == 1){
@@ -211,14 +214,23 @@ using namespace std;
 			for(j=0;j<cp[i].num_g;j++){
 				time_t now = time(0);
 				char *kk = ctime(&now);
-				fprintf(fp,"type:%d price:%d value:%d %d %d time:%s\n",cp[i].basket[j].type, cp[i].basket[j].price, cp[i].basket[j].value, cp[i].basket[j].vall1, cp[i].basket[j].vall2, kk);
+				if((*(cp[i].basket[j])).type == 1)
+					fprintf(fp,"type:%d price:%d value:%d time:%s\n",(*(cp[i].basket[j])).type, (*(cp[i].basket[j])).price, (*(cp[i].basket[j])).value, kk);
+				else if((*(cp[i].basket[j])).type == 2){
+					luxury_gifts* obj = (luxury_gifts*)(cp[i].basket[j]);
+					fprintf(fp,"type:%d price:%d value:%d rating:%d difficulty:%d time:%s\n",obj->type, obj->price, obj->value, obj->rating, obj->diff,kk);
+				}
+				else{
+					utility_gifts* obj = (utility_gifts*)(cp[i].basket[j]);
+					fprintf(fp,"type:%d price:%d value:%d util_val:%d util_class:%d time:%s\n",obj->type, obj->price, obj->value, obj->util_val, obj->util_class, kk);	
+				}
 			}
 
 		}
 		fclose(fp);
 	}
 
-	void couple::breakup(boy bb[], girl gg[], couple cp[], int n, int k, int *x){
+	void couple::breakup(boy bb[], girl gg[], couple cp[], int n, int k, int *x){//** member function to perform breakup of k least happy couples  */
 		int i;
 		for(i=n-1;k > 0;i--){
 			*x -= 1;

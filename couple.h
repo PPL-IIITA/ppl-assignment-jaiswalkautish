@@ -12,7 +12,7 @@
 
 using namespace std;
 
-class couple/*! \brief class Couple
+class couple : public most_attr, public most_rich, public most_intl/*! \brief class Couple
  *        
  *
  *  class that has various methods and data members related to the formed couples
@@ -27,7 +27,7 @@ public:
 	/** data member to store the happiness of the couple  */	
 	int happ;
 	/** collection of gifts object as a basket of gifts that boy gifts to the girl  */	
-	gifts basket[200];
+	gifts* basket[200];
 	/** data member to store the number of gifts in the basket  */	
 	int num_g;	
 	/** member function that sets up the couple and updates the status of committed girls and boys  */
@@ -35,7 +35,7 @@ public:
 	/** member function to form couples as per the different citeria  */
 	void form_couples(couple cp[], boy bb[],girl gg[], int nb, int ng, int *x, int ch);		
 	/** member functions that allocates the gifts to the couples as per the type of boy and the girl  */
-	void allocate_gift(couple cp[], int nc, gifts gfts[], int n_gfts);
+	void allocate_gift(couple cp[], int nc, gifts* gfts[], int n_gfts);
 	/** function that computes girl's happiness  */
 	void grl_hpp(couple cp[], int n);
 	/** member function to print the formed couples into a file couples.txt  */
