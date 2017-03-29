@@ -11,13 +11,13 @@ Section - B
 
 To see Outputs:
 
-###For question 1
+For question 1
 ```
 To View Couples formed:
   Open couples.txt
 ```
 
-###For question 2
+For question 2
 ```
 To View K-Most Happiest Couples:
   Open sorted_happiness.txt 
@@ -31,7 +31,7 @@ To View the Exchanges of gifts that took place between the formed couples:
 	 Open gift_exchange.txt
 ```
 
-###For question 4
+For question 4
 ```
 	see the difference between files all_sorted_happiness.txt and updated_couples(q4).txt for randomly generated k;
 	(new boys allocated to those k girls)
