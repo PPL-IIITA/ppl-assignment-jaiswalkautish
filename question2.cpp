@@ -22,9 +22,7 @@ int main()
 	cpl.form_couples(cp,bb,gg,obj.nb,obj.ng,&n_cpl,1);
 	cpl.print_couples(cp,n_cpl,1);
 	gft.init(gfts,&n_gfts);
-	gft.print_gfts(gfts,n_gfts);
 	gft.sorting(gfts,n_gfts);
-	gft.print_gfts(gfts,n_gfts);
 	cpl.allocate_gift(cp,n_cpl,gfts,n_gfts);
 	cpl.grl_hpp(cp,n_cpl);
 	srand(time(NULL));
