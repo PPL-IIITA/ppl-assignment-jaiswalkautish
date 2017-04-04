@@ -28,3 +28,31 @@ using namespace std;
 		}
 		fclose(fp);
 	}
+
+	void initialize::sort_boy(boy bb[]){/** function to sort the boy's list by his attractiveness   */
+		int i,j;
+		boy temp;
+		for(i=0;i<nb;i++){
+			for(j=0;j<nb-1;j++){
+				if(bb[j].attractiveness > bb[j+1].attractiveness){
+					temp = bb[j];
+					bb[j] = bb[j+1];
+					bb[j+1] = temp;
+				}
+			}
+		}
+	}
+
+	void initialize::sort_girl(girl gg[]){/** function to sort the girl's list by her maintainance cost   */
+		int i,j;
+		girl temp;
+		for(i=0;i<ng;i++){
+			for(j=0;j<ng;j++){
+				if(gg[j].maintainance_budget > gg[j+1].maintainance_budget){
+					temp = gg[j];
+					gg[j] = gg[j+1];
+					gg[j+1] = temp;
+				}
+			}
+		}
+	}

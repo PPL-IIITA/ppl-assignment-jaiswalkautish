@@ -5,6 +5,7 @@
 #include "most_attr.h"
 #include "most_rich.h"
 #include "most_intl.h"
+#include "most_attr_girl.h"
 #include "gifts.h"
 #include "essential_gifts.h"
 #include "luxury_gifts.h"
@@ -243,4 +244,44 @@ using namespace std;
 			gg[cp[i].g.id].brkp = 1;
 			k--;
 		}
+	}
+
+	void couple::form_couples_q5(couple cp[], boy bb[],girl gg[], int nb, int ng, int *x){//** member function to form couples as in the question 5  */		
+		int ib = 0;
+		int ig = 0;
+		int pos;
+		while(ib <= nb && ig <= ng){
+			while(gg[ig].status != 0){
+				ig += 1;
+			}
+			int ch = gg[ig].criteria;
+			if(ch == 1){
+				most_attr at;
+				pos = at.find_couple(bb,gg,ig,nb);
+			}
+			else if(ch == 2){
+				most_rich at1;
+				pos = at1.find_couple(bb,gg,ig,nb);
+			}
+			else{
+				most_intl at2;
+				pos = at2.find_couple(bb,gg,ig,nb);
+			}
+			if(pos != -1){
+				set_couple(cp,bb,gg,ig,pos,*x);
+				*x += 1;
+			}
+			ig += 1;
+
+			while(bb[ib].status != 0){
+				ib += 1;
+			}
+			most_attr_girl atg;
+			pos = atg.find_couple(bb,gg,ib,ng);
+			if(pos != -1){
+				set_couple(cp,bb,gg,pos,ib,*x);
+				*x += 1;
+			}
+			ib += 1;
+		}		
 	}

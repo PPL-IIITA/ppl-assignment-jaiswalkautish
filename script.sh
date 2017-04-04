@@ -7,6 +7,7 @@ g++ test_util_gifts.cpp
 g++ -c most_attr.cpp
 g++ -c most_intl.cpp
 g++ -c most_rich.cpp
+g++ -c most_attr_girl.cpp
 g++ -c gifts.cpp
 g++ -c initialize.cpp
 g++ -c couple.cpp
@@ -16,5 +17,7 @@ g++ question1.cpp library_file
 g++ question2.cpp library_file
 ./a.out
 g++ question4.cpp library_file
+./a.out
+g++ question5.cpp library_file
 ./a.out
 

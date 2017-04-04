@@ -8,6 +8,7 @@
 #include "most_attr.h"
 #include "most_rich.h"
 #include "most_intl.h"
+#include "most_attr_girl.h"
 #include "gifts.h"
 
 using namespace std;
@@ -48,6 +49,7 @@ public:
 	void print_cpl_gifts(couple cp[], int n);
 	/** member function to perform the breakup of k least happiest couples */
 	void breakup(boy bb[], girl gg[], couple cp[], int n, int k, int *x);
-		
+	/** member function to form couples as per the question 5  */
+	void form_couples_q5(couple cp[], boy bb[],girl gg[], int nb, int ng, int *x);			
 };
 #endif

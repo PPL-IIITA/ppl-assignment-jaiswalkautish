@@ -16,6 +16,9 @@ public:
 	int ng;
 	/** function to initialize the boy's and girl's data from text files   */
 	void initi(boy bb[], girl gg[]);			
-		
+	/** function to sort the boy's list by his attractiveness   */
+	void sort_boy(boy bb[]);
+	/** function to sort the girl's list by her maintainance cost   */
+	void sort_girl(girl gg[]);		
 };
 #endif
