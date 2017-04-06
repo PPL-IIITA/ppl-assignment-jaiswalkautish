@@ -107,7 +107,7 @@ using namespace std;
 			}
 		}
 
-	void couple::grl_hpp(couple cp[], int n){//** function that computes girl's happiness  */
+	void couple::grl_hpp(couple cp[], int n){//** function that computes girl's happiness, compatibility and the happiness of the couples */
 		int i;
 		for(i=0;i<n;i++){
 			int ch = cp[i].g.type;
@@ -152,6 +152,9 @@ using namespace std;
 			break;
 			case 5:
 			fp = fopen("all_sorted_happiness.txt","w+");
+			break;
+			case 6:
+			fp = fopen("updated_couples(q6).txt","w+");
 			break;
 		}
 		fprintf(fp,"%d couples formed\n",x);
@@ -284,4 +287,13 @@ using namespace std;
 			}
 			ib += 1;
 		}		
+	}
+
+	int couple::get_number(couple cp[], int n, int hpp){/** member function that returns the number of couples those will break up  */
+		int i;
+		for(i=0;i<n;i++){
+			if(cp[i].happ < hpp)
+				break;
+		}
+		return n-i;
 	}

@@ -2,6 +2,7 @@
 #define INITIALIZE_H
 #include "hboy.h"
 #include "hgirl.h"
+#include <time.h>
 using namespace std;
 
 class initialize/*! \brief class initilalize.
@@ -19,6 +20,8 @@ public:
 	/** function to sort the boy's list by his attractiveness   */
 	void sort_boy(boy bb[]);
 	/** function to sort the girl's list by her maintainance cost   */
-	void sort_girl(girl gg[]);		
+	void sort_girl(girl gg[]);
+	/** function to mark the days when gifting is to be done   */
+	void get_gdays(int gdays[], int *t);		
 };
 #endif

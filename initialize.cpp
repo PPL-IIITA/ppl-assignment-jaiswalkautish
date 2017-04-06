@@ -56,3 +56,14 @@ using namespace std;
 			}
 		}
 	}
+
+	void initialize::get_gdays(int gdays[], int *t){	/** function to mark the days when gifting is to be done   */
+		int i;
+		*t = 0;
+		srand(time(NULL));
+		for(i=0;i<31;i++){
+			gdays[i] = rand()%2;
+			if(gdays[i] == 1)
+				*t += 1;
+		}
+	} 

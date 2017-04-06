@@ -18,6 +18,7 @@ g++ question2.cpp library_file
 ./a.out
 g++ question4.cpp library_file
 ./a.out
-g++ question5.cpp library_file
+# g++ question5.cpp library_file
+# ./a.out
+g++ question6.cpp library_file
 ./a.out
-

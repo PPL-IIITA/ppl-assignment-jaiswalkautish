@@ -51,5 +51,7 @@ public:
 	void breakup(boy bb[], girl gg[], couple cp[], int n, int k, int *x);
 	/** member function to form couples as per the question 5  */
 	void form_couples_q5(couple cp[], boy bb[],girl gg[], int nb, int ng, int *x);			
+	/** member function that returns the number of couples those will break up  */
+	int get_number(couple cp[], int n, int hpp);
 };
 #endif
