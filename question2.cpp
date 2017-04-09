@@ -8,8 +8,8 @@ using namespace std;
 
 int main()
 {
-	/** the main function that does everything using inheritance */
-	boy bb[100];
+	/** the main function that does everything as asked in question 2 using inheritance  */
+	boy bb[100]
 	girl gg[100];
 	couple cp[100];
 	gifts *gfts[200];

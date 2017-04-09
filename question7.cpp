@@ -13,7 +13,7 @@ using namespace std;
 
 int main()
 {
-	/** the main function that does everything using inheritance */
+	/** the main function that does everything as asked in question 7 using inheritance  */
 	boy bb[100];
 	girl gg[100];
 	couple cp[100];

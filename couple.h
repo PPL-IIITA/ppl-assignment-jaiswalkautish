@@ -13,7 +13,7 @@
 
 using namespace std;
 
-class couple : public most_attr, public most_rich, public most_intl/*! \brief class Couple
+class couple : public most_attr, public most_rich, public most_intl, public most_attr_girl/*! \brief class Couple
  *        
  *
  *  class that has various methods and data members related to the formed couples
