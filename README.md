@@ -27,7 +27,6 @@ To Document the assignment
 ```
 	Open file how_to_document.txt
 	Follow the instructions as suggested in the file.
-	Or [Click Here](https://github.com/PPL-IIITA/ppl-assignment-jaiswalkautish/blob/master/documentation/html/index.html)
 ```
 ## Class Diagram
 For Class Diagram see class_diagram.pdf 
