@@ -3,7 +3,7 @@
 #include "hgirl.h"
 using namespace std;
 
-class desperate_girl : public hgirl/*! \brief class desperate_girl
+class desperate_girl : public girl/*! \brief class desperate_girl
  *        
  *
  *  class to define various attributes of girls of desperate type

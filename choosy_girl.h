@@ -3,7 +3,7 @@
 #include "hgirl.h"
 using namespace std;
 
-class choosy_girl : public hgirl/*! \brief class choosy_girl
+class choosy_girl : public girl/*! \brief class choosy_girl
  *        
  *
  *  class to define various attributes of girls of choosy type

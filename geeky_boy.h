@@ -3,7 +3,7 @@
 #include "hboy.h"
 using namespace std;
 
-class geeky_boy : public hboy/*! \brief class geeky_boy.
+class geeky_boy : public boy/*! \brief class geeky_boy.
  *        
  *
  *  class to define various attributes of boys of geeky type
