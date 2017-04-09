@@ -1,0 +1,14 @@
+The Documentation of the project was generated using Doxygen on Linux.
+Following is the steps to generate documentation
+
+-> doxygen -g
+
+A doxyfile will be generated, open it to make following changes
+
+In the GENERATE_LATEX option: change "YES" to "NO"
+In the OUTPUT_DIRECTORY option: set to "documentation/"
+In the PROJECT_NAME option: set to "PPL-rk"
+
+-> doxygen
+
+To view documentation open documentation/html/index.html

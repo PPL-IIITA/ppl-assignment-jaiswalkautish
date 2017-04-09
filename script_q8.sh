@@ -6,10 +6,6 @@ g++ -c most_attr_girl.cpp
 g++ -c gifts.cpp
 g++ -c initialize.cpp
 g++ -c couple.cpp
-g++ -c find_girlfriend.cpp
-g++ -c array_impl.cpp
-g++ -c sorted_array_impl.cpp
-g++ -c hash_impl.cpp
 g++ -c gift_selecter.cpp
 g++ -c gift_selecter_m1.cpp
 g++ -c gift_selecter_m2.cpp

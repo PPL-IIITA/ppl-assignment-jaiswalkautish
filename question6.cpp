@@ -8,7 +8,7 @@ using namespace std;
 
 int main()
 {
-	/** the main function that does everything without using inheritance */
+	/** the main function that does everything using inheritance */
 	boy bb[100];
 	girl gg[100];
 	couple cp[100];

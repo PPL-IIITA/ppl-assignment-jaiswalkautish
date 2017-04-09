@@ -1,0 +1,50 @@
+-------------For question 1------------
+$ sh script_q1.sh
+To view couples formed open couples.txt
+
+-------------For question 2------------
+$ sh script_q2.sh
+To view the k happiest couples open file sorted_happiness.txt
+To view the k most compatible couples open file sorted_compatibility.txt
+(k is being randomly generated in the main function i.e. question2.cpp)
+To view the gift exchanges that took place between couples open file gift_exchange.txt
+
+-------------For question 3------------
+above question are done using unheritance which was asked in this question
+
+-------------For question 4------------
+$ sh script_q4.sh
+Breakup was done for least k happy couples and new couples were allocated
+(k is being randomly generated in the main function i.e. question4.cpp)
+To view the new couples so formed after breakups open file updated_couples(q4).txt
+To see the difference compare it with all_sorted_happiness.txt 
+
+-------------For question 5------------
+$ sh script_q5.sh
+The choice between allotment algorithm of the gifts is randomly generated in the main function i.e. question5.cpp
+To view the k happiest couples open file sorted_happiness.txt
+(k is being randomly generated in the main function i.e. question5.cpp)
+
+-------------For question 6------------
+$ sh script_q6.sh
+Gifting days and t are randomly generated (question6.cpp)
+To view the new couples so formed after breakups and allocation open file updated_couples(q6).txt
+To see the difference compare it with all_sorted_happiness.txt
+
+-------------For question 7------------
+$ sh script_q7.sh
+The list of the boys is randomly generated through a function
+The choice between searching algorithm of the girlfriend is randomly generated in the main function(question7.cpp)
+The default mechanism is normal array implementation
+To view the girlfriend of the boys by mechanism 1(array) open Boy-girl_1(q7).txt
+To view the girlfriend of the boys by mechanism 2(sorted_array) open Boy-girl_2(q7).txt
+To view the girlfriend of the boys by mechanism 3(hashing) open Boy-girl_3(q7).txt
+Anyone of the three files will be generated depending upon the randomly generated choice
+
+-------------For question 8------------
+$ sh script_q8.sh
+The choice between the gifting algorithm is generated randomly in the main function(question8.cpp)
+The default algorithm being the previously defined one
+To view the gift exchanges that took place between couples open file gift_exchange.txt
+
+

@@ -1,54 +1,32 @@
-# ppl-assignment-jaiswalkautish
-ppl-assignment-jaiswalkautish created by GitHub Classroom
+# Principles of Programming Languages Assignment
+## Object Oriented Programming Division
+### By:- Kautish Jaiswal (IIT2015506)
 
-Kautish Jaiswal
+## Run and Test
+To run and test the assignment (Commandline)
 
-IIT2015506
-
-Section - B
-
--> sh script.sh
-
-To see Outputs:
-
-###For question 1
+Clone the repository
 ```
-To View Couples formed:
-  Open couples.txt
+	git clone https://github.com/PPL-IIITA/ppl-assignment-jaiswalkautish.git
 ```
-
-###For question 2
+Change the directory
 ```
-To View K-Most Happiest Couples:
-  Open sorted_happiness.txt 
-  
-To View K-Most Compatible Couples:
-  Open sorted_compatibility.txt
-
-(for randomly generated K)
-  
-To View the Exchanges of gifts that took place between the formed couples:
-	 Open gift_exchange.txt
+	cd ppl-assignment-jaiswalkautish/
 ```
-
-###For question 4
+To Build
 ```
-	see the difference between files all_sorted_happiness.txt and updated_couples(q4).txt for randomly generated k;
-	(new boys allocated to those k girls)
+	Open file how_to_build.txt
+	Follow the instructions as suggested
+``` 
+To Execute and see outputs
 ```
-###For question 5
+	Open file how_to_execute.txt
+	Follow the instructions as suggested in the file for different questions
 ```
-	-> g++ question5.cpp library_file
-	./a.out
-	you need to enter the algorithm of coupling.
-	enter accordingly
-	
-	To View K-Most Happiest Couples:
-  	Open sorted_happiness.txt	
+To Document the assignment
 ```
-
-###For question 6
+	Open file how_to_document.txt
+	Follow the instructions as suggested in the file.
 ```
-	see the difference between files all_sorted_happiness.txt and updated_couples(q6).txt after gifting on t  days of the calender month
-```
-
+## Class Diagram
+For Class Diagram see class_diagram.pdf 

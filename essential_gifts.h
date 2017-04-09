@@ -5,16 +5,13 @@
 #include "gifts.h"
 using namespace std;
 
-class essential_gifts : public gifts /*! \brief class essentia_gifts.
+class essential_gifts : public gifts /*! \brief class essential_gifts.
  				*        
  				*
- 				*  class that has data members that deals with the gifts of the couples
+ 				*  class that has data members that deals with the gifts of the essential type
  				*/
  	{
 	public:
-// 		/** to store the pice of the gift  */	
-// 		int price;
-// 		/** the value of the gift  */	
-// 		int value;
+
  };
 #endif

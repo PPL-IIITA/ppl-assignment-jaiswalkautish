@@ -1,0 +1,2 @@
+Run build_script.sh to generate random data about boys, girls and gifts
+-> sh build_script.sh

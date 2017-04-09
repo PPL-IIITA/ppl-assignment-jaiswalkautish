@@ -22,6 +22,8 @@ public:
 	/** function to sort the girl's list by her maintainance cost   */
 	void sort_girl(girl gg[]);
 	/** function to mark the days when gifting is to be done   */
-	void get_gdays(int gdays[], int *t);		
+	void get_gdays(int gdays[], int *t);
+	/** function to get the list of the boys as in question 7   */
+	void get_boyslist(boy bb[], string list[], int nb, int *n);			
 };
 #endif

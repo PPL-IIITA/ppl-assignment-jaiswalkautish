@@ -67,3 +67,14 @@ using namespace std;
 				*t += 1;
 		}
 	} 
+
+	void initialize::get_boyslist(boy bb[], string list[], int nb, int *n){
+		srand(time(NULL));
+		*n = rand()%nb;
+		int i;
+		for(i=0;i<*n;i++){
+			int temp;
+			temp = rand()%nb;
+			list[i] = bb[temp].name;
+		}
+	}
