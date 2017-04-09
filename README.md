@@ -23,6 +23,7 @@ To Execute and see outputs
 	Open file how_to_execute.txt
 	Follow the instructions as suggested in the file for different questions
 ```
+## Documentation [Here](documentation/html/index.html)
 To Document the assignment
 ```
 	Open file how_to_document.txt
